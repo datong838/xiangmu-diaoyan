@@ -1,0 +1,38 @@
+# 复核卡 T01-2（自包含，无需我方上下文）
+#   ★ 本类核查的是「引文是否真在声称页上、条款是否适用」——有原文可锚，可机器验。
+audit:
+  date: '2026-10-08'
+  verdict: 存疑
+  reason: §3.1明确与绘图准确度无关；原规则反向推导。需设计意图、源几何或独立尺寸关系。
+  method: 源资料上下文审查；非盲复核，非多专家共识
+path_base: 评分判据库根目录
+id: T01-2
+claim: 尺寸数值是制造尺寸依据；本样本30°改为90°属于客户标注的疑似角度错误，不能仅由量取图形或§3.1推出通用违规。
+basis_type: standard_candidate
+evidence:
+- type: 引文（逐字）
+  text: 机件的真实大小应以图样上所注的尺寸数值为依据，与图形的大小及绘图的准确度无关。
+- type: 条款
+  std: GB/T 4458.4-2003
+  title: 机械制图 尺寸注法
+  clause: §3.1
+  pdf_page: 4
+- type: 机器校验
+  status: PENDING_REVERIFY
+- type: 完整上下文原页
+  file: evidence/cards/T01-2/context_4.png
+  pdf_page: 4
+- type: 客户正确图
+  file: ../工程图审核/T01_矩形花键套-正确图纸.pdf
+- type: 客户错误图
+  file: ../工程图审核/T01_矩形花键套-错误图纸.pdf
+- type: 原始标准全文
+  file: ../国标/GBT_4458.4-2003_机械制图_尺寸注法.pdf
+my_conclusion: hypothesis
+question_for_reviewer: 分别核对引文、条款/图例支持、适用条件、合法例外及本例。§3.1明确与绘图准确度无关；原规则反向推导。需设计意图、源几何或独立尺寸关系。
+reviewer_output:
+  verdict: ''
+  reason: ''
+  evidence: ''
+  suggested_fix: ''
+  independent_first: ''

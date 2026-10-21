@@ -1,0 +1,112 @@
+{
+  "scope": "2026-10-19文档静态核对，仅检查本轮文档；不代表功能/性能验收",
+  "checked_at": "2026-10-19T06:58:05.407896+00:00",
+  "files_checked": 11,
+  "local_links_checked": 68,
+  "tables_checked": 27,
+  "task_ids": [
+    "F01",
+    "F02",
+    "F03",
+    "F04",
+    "F05",
+    "F06",
+    "F07",
+    "F08",
+    "F09",
+    "F10",
+    "F11",
+    "F12",
+    "F13",
+    "F14",
+    "F15",
+    "F16",
+    "F17",
+    "F18",
+    "F19",
+    "F20",
+    "F21",
+    "F22",
+    "F23",
+    "F24",
+    "F25",
+    "F26"
+  ],
+  "wiki_scenario_ids": [
+    "WIKI-01",
+    "WIKI-02",
+    "WIKI-03",
+    "WIKI-04",
+    "WIKI-05",
+    "WIKI-06",
+    "WIKI-07",
+    "WIKI-08",
+    "WIKI-09",
+    "WIKI-10"
+  ],
+  "checks": {
+    "local_links_resolve": true,
+    "table_columns_and_fences": true,
+    "unique_tasks_F01_F26": true,
+    "unique_WIKI_01_10": true,
+    "wiki_scenarios_NOT_RUN": true,
+    "planned_tasks_DESIGN_ONLY": true,
+    "implementation_boundary_explicit": true,
+    "current_README_points_to_28_29": true,
+    "runtime_migration_required": true
+  },
+  "passed": true,
+  "errors": [],
+  "files": {
+    "00-编制工作方案.md": {
+      "bytes": 9183,
+      "sha256": "2c671f2599895c066e3108bc38c10f8c7a8e224581ec2a7d60ce4a29e1a3db7e"
+    },
+    "01-总体建设方案.md": {
+      "bytes": 11542,
+      "sha256": "16232ddc94306464de4d2061be0723e00c671db22dee882b152c36bc13fb6727"
+    },
+    "02-全量记忆与数据治理.md": {
+      "bytes": 15911,
+      "sha256": "aeaa4241a2d47050f681916769bb5512a17034fd6824bb0f89426f2dd3caa404"
+    },
+    "03-检索执行与秒级响应设计.md": {
+      "bytes": 14678,
+      "sha256": "75b81c5eca8e588b9aedde98d509c7e687463ab7c0a2ec34f3e7290e52b6746d"
+    },
+    "06-实施验收与持续维护.md": {
+      "bytes": 15072,
+      "sha256": "f3f694af810c1186a8c15e25bbb5ed528678a83f8c6f4e140f9e0edd60724182"
+    },
+    "07-依据审阅与设计决策.md": {
+      "bytes": 12337,
+      "sha256": "6bd69a38b8d33fb92c1b5b7d3bdffdd12b975fb9257e4de5f8ee42a2c17ebfc3"
+    },
+    "26-分阶段文件任务与大容量验收实施清单.md": {
+      "bytes": 15809,
+      "sha256": "fbda70cd56533af407bee93569317d6d879a5110fe2c1172ec1cb0b1e34b0763"
+    },
+    "27-交付逐项核对与评审结论.md": {
+      "bytes": 8126,
+      "sha256": "25d386ea8b0ac05fc36f4ba51abace4e366af54c77ab8c1ad765fd24ea28495e"
+    },
+    "28-持续知识编译与工程Wiki设计.md": {
+      "bytes": 20778,
+      "sha256": "f46b7f0515090d4bdb17529cafb23fd7c1dcebbe63e26031f3dba4d5f18b5bff"
+    },
+    "29-持续知识方案补强与自查记录.md": {
+      "bytes": 2659,
+      "sha256": "2388185675f2690e5208e0e783092b5158cdcb19e3488ca04c41fc43f5f85edd"
+    },
+    "README.md": {
+      "bytes": 5953,
+      "sha256": "1fe22541802667f468a03077e6f6652e2e4f3b79d2ea9a1f3241ff65af2ec034"
+    }
+  },
+  "not_run": [
+    "新增Wiki功能测试",
+    "WIKI-01—10真实任务验收",
+    "TB规模与秒级性能验证",
+    "生产Schema与跨组件发布验证"
+  ]
+}

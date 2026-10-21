@@ -1,0 +1,522 @@
+[
+  {
+    "source": "cad3-d0033feced8e4baa",
+    "target": "primitives.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d0033feced8e4baa",
+    "target": "booleans.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d0033feced8e4baa",
+    "target": "sweeps.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d0033feced8e4baa",
+    "target": "fillets.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d0033feced8e4baa",
+    "target": "curves.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d0033feced8e4baa",
+    "target": "surfaces.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d0033feced8e4baa",
+    "target": "offset.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d0033feced8e4baa",
+    "target": "stitching.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d0033feced8e4baa",
+    "target": "intersectors.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d0033feced8e4baa",
+    "target": "transforms.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d0033feced8e4baa",
+    "target": "concurrency.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d0033feced8e4baa",
+    "target": "queries.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d0033feced8e4baa",
+    "target": "dev_topology.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d0033feced8e4baa",
+    "target": "cut_project_trim.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d0033feced8e4baa",
+    "target": "tessellation.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d0033feced8e4baa",
+    "target": "polygon_booleans.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d0033feced8e4baa",
+    "target": "polybrep.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d0033feced8e4baa",
+    "target": "heal_import.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d0033feced8e4baa",
+    "target": "interactive_performance.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d0033feced8e4baa",
+    "target": "usd_import_export.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d0033feced8e4baa",
+    "target": "../docs/errors.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d0033feced8e4baa",
+    "target": "polybrep.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d0033feced8e4baa",
+    "target": "dev_topology.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d0033feced8e4baa",
+    "target": "polybrep.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d0033feced8e4baa",
+    "target": "queries.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d0033feced8e4baa",
+    "target": "dev_topology.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-7c7a5e3466e18942",
+    "target": "Examples/README.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-7c7a5e3466e18942",
+    "target": "LICENSE",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": "AGENTS.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": "source/SMLib",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": "source/SM_API",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": "source/SM_API_USD",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": "source/BREP_SM_USD",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": "source/BREP_USD_DATA",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": "source/SmPyLib",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": "source/SmPyDevLib",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": "Examples",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": "tools/pyproject/README.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": "tools/smlib_gui/README.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": "KNOWN_ISSUES.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": "tools/pyproject/README.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": "source/SmPyLib/stubs/usd_brep/__init__.pyi",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": "source/SmPyLib/stubs/usd_brep/usd.pyi",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": "Examples/PyAPI/round_corner_pipe.py",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": "source/SmPyLib/tests/test_omni_solid.py",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": ".agents/docs/generate_asset.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": "tools/scripts/example_generate_asset.py",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": "source/HYDRA_USD_BREP/README.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": "Examples/SM_API/README.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": ".agents/operations/concurrency.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": ".agents/skills/usd-brep-test-selection/SKILL.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": "KNOWN_ISSUES.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": ".agents/docs/errors.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": "LICENSE",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": "THIRD_PARTY_NOTICES.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": "AGENTS.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": ".agents/docs/OVERVIEW.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": ".agents/skills/smlib-python-api-use/SKILL.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": ".agents/operations/booleans.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": ".agents/operations/primitives.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": ".agents/operations/tessellation.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": ".agents/operations/usd_import_export.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": "tools/pyproject/README.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": "tools/smlib_gui/README.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": "Examples/README.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": "LICENSE",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": "THIRD_PARTY_NOTICES.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-054e9d3e1f16b289",
+    "target": "KNOWN_ISSUES.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-b335630551682c19",
+    "target": "三维方案文档地图.html",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-e4055e81fb58f798",
+    "target": "/Volumes/NVME2T/projects/ai_agent/cad/dataset/ParaCAD/详细使用说明.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-e4055e81fb58f798",
+    "target": "/Volumes/NVME2T/projects/ai_agent/cad/dataset/TriView2CAD/详细使用说明.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-91e81d5b6d72ab7c",
+    "target": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/AGENTS.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-91e81d5b6d72ab7c",
+    "target": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/.agents/operations/booleans.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-91e81d5b6d72ab7c",
+    "target": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/.agents/docs/generate_asset.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d3f8aadf8c60487d",
+    "target": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/AGENTS.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d3f8aadf8c60487d",
+    "target": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/.agents/operations/booleans.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d3f8aadf8c60487d",
+    "target": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/.agents/docs/generate_asset.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d3f8aadf8c60487d",
+    "target": "依据与自查记录.json",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d3f8aadf8c60487d",
+    "target": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/reports/real_b_validation.json",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-4fcba31dfb65f88e",
+    "target": "验证/validate_plan.py",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-4fcba31dfb65f88e",
+    "target": "验证/test_plan.py",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d51eb9557b791b9d",
+    "target": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/.agents/skills/smlib-python-api-use/SKILL.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d51eb9557b791b9d",
+    "target": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/source/SmPyLib/stubs/usd_brep/__init__.pyi",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d51eb9557b791b9d",
+    "target": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/.agents/operations/primitives.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d51eb9557b791b9d",
+    "target": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/KNOWN_ISSUES.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-d51eb9557b791b9d",
+    "target": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/reports/catalog_validation.json",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-e77bc6b6bd1cacf4",
+    "target": "验证/test_shared_compat.py",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-c592d1bd1b31841b",
+    "target": "验证/validate_facts.py",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-c592d1bd1b31841b",
+    "target": "验证/test_facts.py",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-2cbe394557f4bc58",
+    "target": "依据与自查记录.json",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-2cbe394557f4bc58",
+    "target": "验证/requirements-design.lock.txt",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-ff86fa4379a64f4e",
+    "target": "验证/requirements-design.lock.txt",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-ff86fa4379a64f4e",
+    "target": "依据与自查记录.json",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-c5409a0f326c5da8",
+    "target": "成本记录/账本.json",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-c5409a0f326c5da8",
+    "target": "成本记录/调用明细.csv",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-c5409a0f326c5da8",
+    "target": "成本记录/记录方法.md",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-82cd9a8f595a4c41",
+    "target": "../三维方案文档地图.html",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-82cd9a8f595a4c41",
+    "target": "文档图谱数据.json",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-82cd9a8f595a4c41",
+    "target": "来源阅读与分类台账.jsonl",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-82cd9a8f595a4c41",
+    "target": "原文引用待核列表.json",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-82cd9a8f595a4c41",
+    "target": "导航核查记录.json",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-82cd9a8f595a4c41",
+    "target": "测试与视觉核验.json",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-82cd9a8f595a4c41",
+    "target": "交付记录.json",
+    "reason": "范围外工件入口"
+  },
+  {
+    "source": "cad3-82cd9a8f595a4c41",
+    "target": "Archify环境核验.json",
+    "reason": "范围外工件入口"
+  }
+]

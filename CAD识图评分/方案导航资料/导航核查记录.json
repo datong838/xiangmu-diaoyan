@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "missing_inputs": [],
+  "nodes": 199,
+  "relations": 499,
+  "pending_links": 227,
+  "unique_ids": true,
+  "snapshot": "2026-10-21",
+  "source_reading_scope": "目录、标题/正文/显式链接扫描与分类复核，非全文工程核准",
+  "generated_at": "2026-10-21T01:05:32.214189+08:00",
+  "artifact_sha256": "5cce2196b3cedbbd357b091f0acffb6997712df907866ffe0d60e2161e5639dd"
+}

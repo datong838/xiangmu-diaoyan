@@ -1,0 +1,164 @@
+[
+  {
+    "file": "GB-T_4459.3-2000_机械制图_花键表示法.pdf",
+    "pages": 8,
+    "sha256": "29bad0e22998c4e7538fea871193812baaf6fe257440da98e37a82fa33a33268",
+    "cjk_ratio": 0.594,
+    "text_channel": "partial_numeric_or_symbol_loss_possible",
+    "current_standard_status": "not_verified",
+    "audit_scope": "inventory_all_pages; rule_citation_pages_visual_checked_when_referenced"
+  },
+  {
+    "file": "GB-T_4459.5-1999_机械制图_中心孔表示法_full.pdf",
+    "pages": 8,
+    "sha256": "847a8548b34d30ae262d4e24a8355912530287ea6bec361f26bb8947f0f01262",
+    "cjk_ratio": 0.541,
+    "text_channel": "partial_numeric_or_symbol_loss_possible",
+    "current_standard_status": "not_verified",
+    "audit_scope": "inventory_all_pages; rule_citation_pages_visual_checked_when_referenced"
+  },
+  {
+    "file": "GB-T_4459.8-2009_机械制图_动密封圈_第1部分.pdf",
+    "pages": 5,
+    "sha256": "79e751239a57a75c8bc836e4e9bc37f517aab33e129ef4967c9a4c0812814c54",
+    "cjk_ratio": 0.0,
+    "text_channel": "empty",
+    "current_standard_status": "not_verified",
+    "audit_scope": "inventory_all_pages; rule_citation_pages_visual_checked_when_referenced"
+  },
+  {
+    "file": "GB-T_4459.9-2009_机械制图_动密封圈_第2部分.pdf",
+    "pages": 9,
+    "sha256": "d9d2b7ba28955b2f6c16b3578ab8fa64d964d42040144ab5bfc361cbfb1f8d0a",
+    "cjk_ratio": 0.0,
+    "text_channel": "empty",
+    "current_standard_status": "not_verified",
+    "audit_scope": "inventory_all_pages; rule_citation_pages_visual_checked_when_referenced"
+  },
+  {
+    "file": "GB-T_4460-2013_机械制图_机构运动简图用图形符号.pdf",
+    "pages": 28,
+    "sha256": "b2a59517997aec27f2dfb236b3819dfe039e2c8a3729205f84626abba7e8c53f",
+    "cjk_ratio": 0.0,
+    "text_channel": "empty",
+    "current_standard_status": "not_verified",
+    "audit_scope": "inventory_all_pages; rule_citation_pages_visual_checked_when_referenced"
+  },
+  {
+    "file": "GBT_24739-2009_机械制图_机件上倾斜结构的表示法.pdf",
+    "pages": 20,
+    "sha256": "7cf24ff3593d21b9fe79caa740a46f31c7fb405a56dfd7296117867a984f7bee",
+    "cjk_ratio": 0.667,
+    "text_channel": "partial_numeric_or_symbol_loss_possible",
+    "current_standard_status": "not_verified",
+    "audit_scope": "inventory_all_pages; rule_citation_pages_visual_checked_when_referenced"
+  },
+  {
+    "file": "GBT_4457.4-2002_机械制图_图样画法_图线.pdf",
+    "pages": 16,
+    "sha256": "3766ade04201135e3af65bef0b5251632538c7037898fa2ca1a71454882b36d4",
+    "cjk_ratio": 0.374,
+    "text_channel": "partial_numeric_or_symbol_loss_possible",
+    "current_standard_status": "not_verified",
+    "audit_scope": "inventory_all_pages; rule_citation_pages_visual_checked_when_referenced"
+  },
+  {
+    "file": "GBT_4457.5-2013_机械制图_剖面区域的表示法.pdf",
+    "pages": 8,
+    "sha256": "92bd91e5bb1cfb84f56efa9fb18bf65b74eae00fc05f19b082f179196d10403f",
+    "cjk_ratio": 0.691,
+    "text_channel": "partial_numeric_or_symbol_loss_possible",
+    "current_standard_status": "not_verified",
+    "audit_scope": "inventory_all_pages; rule_citation_pages_visual_checked_when_referenced"
+  },
+  {
+    "file": "GBT_4458.1-2002_机械制图_图样画法_视图.pdf",
+    "pages": 13,
+    "sha256": "d20553053b4a0308572df2327b5122e723bcd7114a914059c93faf69f2e7eb91",
+    "cjk_ratio": 1.0,
+    "text_channel": "partial_numeric_or_symbol_loss_possible",
+    "current_standard_status": "not_verified",
+    "audit_scope": "inventory_all_pages; rule_citation_pages_visual_checked_when_referenced"
+  },
+  {
+    "file": "GBT_4458.2-2003_机械制图_装配图中零、部件序号及其编排方法.pdf",
+    "pages": 6,
+    "sha256": "33783e23e29efa0c796412cbd4ced603d62f23ca30fdf306cbcd4c60cfda03b2",
+    "cjk_ratio": 0.0,
+    "text_channel": "unusable",
+    "current_standard_status": "not_verified",
+    "audit_scope": "inventory_all_pages; rule_citation_pages_visual_checked_when_referenced"
+  },
+  {
+    "file": "GBT_4458.3-2013_机械制图_轴测图.pdf",
+    "pages": 16,
+    "sha256": "f4c8c4feda65ea24e08a84d40945cd70ce3068f76e559a060f133493080b3c73",
+    "cjk_ratio": 0.589,
+    "text_channel": "partial_numeric_or_symbol_loss_possible",
+    "current_standard_status": "not_verified",
+    "audit_scope": "inventory_all_pages; rule_citation_pages_visual_checked_when_referenced"
+  },
+  {
+    "file": "GBT_4458.4-2003_机械制图_尺寸注法.pdf",
+    "pages": 16,
+    "sha256": "a0c0eb5a9ab14f5214c8ab6cbca22aa5f51c57236e02c71fa3fe4267750dc148",
+    "cjk_ratio": 0.0,
+    "text_channel": "unusable",
+    "current_standard_status": "not_verified",
+    "audit_scope": "inventory_all_pages; rule_citation_pages_visual_checked_when_referenced"
+  },
+  {
+    "file": "GBT_4458.5-2003_机械制图_尺寸公差与配合注法.pdf",
+    "pages": 8,
+    "sha256": "3e415fdfe77037fd66fbdf0500a2f59abf179b742daf5912aa57cb8900e92460",
+    "cjk_ratio": 0.0,
+    "text_channel": "unusable",
+    "current_standard_status": "not_verified",
+    "audit_scope": "inventory_all_pages; rule_citation_pages_visual_checked_when_referenced"
+  },
+  {
+    "file": "GBT_4458.6-2002_机械制图_图样画法_剖视图和断面图.pdf",
+    "pages": 21,
+    "sha256": "9de9945ca3b4e564c4e4b68a2f5beb585e63a108993cc57dd9b05b039e6c5385",
+    "cjk_ratio": 0.0,
+    "text_channel": "empty",
+    "current_standard_status": "not_verified",
+    "audit_scope": "inventory_all_pages; rule_citation_pages_visual_checked_when_referenced"
+  },
+  {
+    "file": "GBT_4459.1-1995_机械制图_螺纹及螺纹紧固件表示法.pdf",
+    "pages": 15,
+    "sha256": "42f59081292345c09e6e9d71f6de5dd992586165955dbeaca67a9d5aae17d049",
+    "cjk_ratio": 0.0,
+    "text_channel": "empty",
+    "current_standard_status": "not_verified",
+    "audit_scope": "inventory_all_pages; rule_citation_pages_visual_checked_when_referenced"
+  },
+  {
+    "file": "GBT_4459.2-2003_机械制图_齿轮表示法.pdf",
+    "pages": 14,
+    "sha256": "9110a74ebae26cb4ab8e156f8663edb5e505d1d490a9e8cdbf3c56cdbfa48e28",
+    "cjk_ratio": 0.0,
+    "text_channel": "unusable",
+    "current_standard_status": "not_verified",
+    "audit_scope": "inventory_all_pages; rule_citation_pages_visual_checked_when_referenced"
+  },
+  {
+    "file": "GBT_4459.4-2003_机械制图_弹簧表示法.pdf",
+    "pages": 20,
+    "sha256": "118573ab9b6ac443b476e81503dc44246c1e1e70d4c80039e52bffddc3393ee3",
+    "cjk_ratio": 0.0,
+    "text_channel": "unusable",
+    "current_standard_status": "not_verified",
+    "audit_scope": "inventory_all_pages; rule_citation_pages_visual_checked_when_referenced"
+  },
+  {
+    "file": "GB_T 4459.7-2017 机械制图 滚动轴承表示法.pdf",
+    "pages": 23,
+    "sha256": "7e3c442395bb7934a4604387338b5f64fa92c206cbbdc0dcd5f70530e9941822",
+    "cjk_ratio": 0.0,
+    "text_channel": "empty",
+    "current_standard_status": "not_verified",
+    "audit_scope": "inventory_all_pages; rule_citation_pages_visual_checked_when_referenced"
+  }
+]

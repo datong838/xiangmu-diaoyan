@@ -1,0 +1,46 @@
+{
+  "checked_at": "2026-10-20T16:23:06.820608+08:00",
+  "scope": "本轮导航及分类静态检查，未复跑模型/知识库测试，未对原件全量hash",
+  "files_in_inventory": 1701,
+  "navigation_documents_checked": 7,
+  "local_links_checked": 194,
+  "tables_checked": 14,
+  "kb_numbered_documents": 28,
+  "checks": {
+    "navigation_links_and_structure": true,
+    "numbered_kb_docs_once": true,
+    "all_current_kb_files_indexed": true,
+    "no_original_paths_deleted": true,
+    "only_allowed_navigation_files_modified": true,
+    "all_external_entrypoints_exist": true,
+    "all_inventory_roles_assigned": true
+  },
+  "passed": true,
+  "errors": [],
+  "kb_unindexed": [],
+  "missing_original_paths": [],
+  "changed_existing_files": [
+    "README.md",
+    "过程文档/文档治理/README.md",
+    "CAD图纸智能审查系统_全套建设文档/README.md",
+    "CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/README.md"
+  ],
+  "unexpected_changes": [],
+  "preservation_method": "原有文件路径、大小和mtime_ns比较；未声明全部内容hash校验",
+  "navigation_sha256": {
+    "README.md": "d90cc014b9b5ff87cf29c85f6d0ee3058485e9c18f2beb939aacf7ba73be2e56",
+    "文档分类索引.md": "f220c2d271468b1aa59cd6768262be5a2827a23b2201b329abf42105ac3a0def",
+    "CAD图纸智能审查系统_全套建设文档/README.md": "f9a17093d72dc3aa8985ccd8dff502f725f2802731697cb3172a76ad16cd1327",
+    "CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/README.md": "c90f7afab478f6be0e369a6ee2ce61fa1a47cb4952d4deecb8f18b1bb953d4b6",
+    "CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/文档职责索引.md": "51ebd97abc3d679b13fa0abc5dd9f0cc0935c0fffbe863b31920f0febb01b9bf",
+    "过程文档/文档治理/README.md": "870bd131bb9b616e09cdc1790993a80f87d4068b0f80580dea2d2b30dbb8eb0d",
+    "过程文档/文档治理/文档分类与索引维护方案_20261020.md": "3ad2e473f494679c6c4be42a9ba92ab529ecb09f2b3d71b593699ff6cf5706b6"
+  },
+  "new_files": [
+    "文档分类索引.md",
+    "过程文档/文档治理/文档职责清单_20261020.json",
+    "过程文档/文档治理/索引核验_20261020.json",
+    "CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/文档职责索引.md"
+  ],
+  "kb_numbered_csv_files": 2
+}

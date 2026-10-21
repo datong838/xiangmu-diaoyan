@@ -1,0 +1,486 @@
+{
+  "revision": "KB-DESIGN-003",
+  "captured_at": "2026-10-16T14:07:44.461157+08:00",
+  "purpose": "参考版本观察与变化记录，不是不可修改依据或阅读/正确性证明",
+  "sources": [
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/CAD图纸智能审查系统_目标态建设技术方案.md",
+      "sha256": "cf2926a5c93f54997fc14d5117a9d3f26cb2c3b61a58f19bfbfb36851cb25ecb",
+      "bytes": 39778,
+      "read_scope": "采用v1.1；复读全文，符号节另行补读；未复现实验",
+      "previous_observations": [
+        {
+          "sha256": "98b07450b765ccb9c7feb350db7db59b490c10e09c5e28e64ef1be74f4babbcb",
+          "bytes": 38789,
+          "status": "本轮较早捕获版本，现已发现变化"
+        }
+      ],
+      "revision_label": "v1.1 / 2026-10-16",
+      "current_observation": {
+        "observed_at": "2026-10-16T14:36:43.230060+08:00",
+        "sha256": "cf2926a5c93f54997fc14d5117a9d3f26cb2c3b61a58f19bfbfb36851cb25ecb",
+        "bytes": 39778,
+        "changed_since_registered_read": false
+      }
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/README.md",
+      "sha256": "f7bdbf375d10c63402d7d219b8508394ac3d93d3c5024628d60e492df22238f7",
+      "bytes": 876,
+      "read_scope": "当前短入口正文阅读",
+      "current_observation": {
+        "observed_at": "2026-10-16T14:36:43.230060+08:00",
+        "sha256": "f9f83daa9e321ecac986abbb9e7015ae999c603925b1377099360506015710b7",
+        "bytes": 896,
+        "changed_since_registered_read": true
+      },
+      "reuse_limit": "只沿用已读机制/表结构，不引用新业务状态；本轮未重读全部变化正文"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/00-项目记忆摘要.md",
+      "sha256": "94ddbbfa373a6d4c933f51238f7c77cdc5c8e4de17051a7e0eeafd1253533cfa",
+      "bytes": 1307,
+      "read_scope": "当前短入口正文阅读",
+      "current_observation": {
+        "observed_at": "2026-10-16T14:36:43.230060+08:00",
+        "sha256": "a3a45363078f205f94e01848242a9a08c33cee72fc068d7449ebf306dd03db9c",
+        "bytes": 1294,
+        "changed_since_registered_read": true
+      },
+      "reuse_limit": "只沿用已读机制/表结构，不引用新业务状态；本轮未重读全部变化正文"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/01-当前状态与下一步.md",
+      "sha256": "d0c4f08b1569ae7efb0d5862d555f1043277c449f5a96409e61b37651de747c3",
+      "bytes": 965,
+      "read_scope": "当前短入口正文阅读",
+      "current_observation": {
+        "observed_at": "2026-10-16T14:36:43.230060+08:00",
+        "sha256": "850690f1e8d61522b8ac772bed1df4470651160bd3765997c8c76a6b9a26a2a9",
+        "bytes": 985,
+        "changed_since_registered_read": true
+      },
+      "reuse_limit": "只沿用已读机制/表结构，不引用新业务状态；本轮未重读全部变化正文"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/03-跨轮次交接检查点.md",
+      "sha256": "3a2c008e66f71e1de50c37793db4c22509982a73815a5f6ed62bfccbe69aa398",
+      "bytes": 1743,
+      "read_scope": "当前短入口正文阅读",
+      "current_observation": {
+        "observed_at": "2026-10-16T14:36:43.230060+08:00",
+        "sha256": "dca45bee9b72e100a8f9f7c3e6a59fc099dcdfb6c86a11c6fefe0efc5655548d",
+        "bytes": 1844,
+        "changed_since_registered_read": true
+      },
+      "reuse_limit": "只沿用已读机制/表结构，不引用新业务状态；本轮未重读全部变化正文"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/04-文档注册表.csv",
+      "sha256": "1c0a6a83d7b695170f80e5c91ed97ef5d2fc897ac64ed50b19836500e75fcb13",
+      "bytes": 744343,
+      "read_scope": "仅表头和首5条样本",
+      "current_observation": {
+        "observed_at": "2026-10-16T14:36:43.230060+08:00",
+        "sha256": "da20e3634369852cfda6b9b4ca74e5d80d28484f5a99ea3acd76802b0a4f41d8",
+        "bytes": 746751,
+        "changed_since_registered_read": true
+      },
+      "reuse_limit": "只沿用已读机制/表结构，不引用新业务状态；本轮未重读全部变化正文"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/05-主题与关系索引.csv",
+      "sha256": "f30b9a5bdbe8b4630d58cbb5f4c1aa263c340f084bfd24875d6423110858c529",
+      "bytes": 223781,
+      "read_scope": "仅表头和首5条样本",
+      "current_observation": {
+        "observed_at": "2026-10-16T14:36:43.230060+08:00",
+        "sha256": "a0141a2ccd098ea20d726495364bcfbaeaedf2634cd7b7965872f04aad64e8fd",
+        "bytes": 224121,
+        "changed_since_registered_read": true
+      },
+      "reuse_limit": "只沿用已读机制/表结构，不引用新业务状态；本轮未重读全部变化正文"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/07-原始附件与资产总索引.csv",
+      "sha256": "778e5a1cab31997d2258aaad03a4b37db86eb731d92fdff8187e6d4eee6bb9bf",
+      "bytes": 3895604,
+      "read_scope": "仅表头和首5条样本",
+      "current_observation": {
+        "observed_at": "2026-10-16T14:36:43.230060+08:00",
+        "sha256": "271ff4553aeb5f27e0c67ba74216443dcd081407c178ba1b85738378335992fa",
+        "bytes": 3909302,
+        "changed_since_registered_read": true
+      },
+      "reuse_limit": "只沿用已读机制/表结构，不引用新业务状态；本轮未重读全部变化正文"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/08-旧依据到新设计全链路映射.csv",
+      "sha256": "0d7d688d95615b97239cd8ba4e166c75aaf618c09be08efd245fa26a4f59d92b",
+      "bytes": 315622,
+      "read_scope": "仅表头和首5条样本",
+      "current_observation": {
+        "observed_at": "2026-10-16T14:36:43.230060+08:00",
+        "sha256": "0d7d688d95615b97239cd8ba4e166c75aaf618c09be08efd245fa26a4f59d92b",
+        "bytes": 315622,
+        "changed_since_registered_read": false
+      }
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/10-当前设计状态.json",
+      "sha256": "028230df9a1d0d290bc56b292bff26974f701c069a3341f54fe0596cf46ffa3a",
+      "bytes": 274742,
+      "read_scope": "仅角色与部分结构；未复核全部计数",
+      "current_observation": {
+        "observed_at": "2026-10-16T14:36:43.230060+08:00",
+        "sha256": "91a3d40449976385ac30a156b8d040abe833fdf9bf3f4541c50d69e710152b7f",
+        "bytes": 277050,
+        "changed_since_registered_read": true
+      },
+      "reuse_limit": "只沿用已读机制/表结构，不引用新业务状态；本轮未重读全部变化正文"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/system/新MES系统设计/58-新MES文档与项目记忆管理机制.md",
+      "sha256": "80b16193296145cc6bb5e15e23e153905931a8486a67902a1718b77b082b1ee7",
+      "bytes": 47109,
+      "read_scope": "现行接续补强与1—9节；非全部历史批次",
+      "current_observation": {
+        "observed_at": "2026-10-16T14:36:43.230060+08:00",
+        "sha256": "80b16193296145cc6bb5e15e23e153905931a8486a67902a1718b77b082b1ee7",
+        "bytes": 47109,
+        "changed_since_registered_read": false
+      }
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mrpmes/AGENTS.md",
+      "sha256": "2e2ce6e5da178f32e03cd73984934b63dcb281e6a6b74c429e163a52adbc906c",
+      "bytes": 1328,
+      "read_scope": "全文读取；参考项目规则不扩大本次任务范围",
+      "current_observation": {
+        "observed_at": "2026-10-16T14:36:43.230060+08:00",
+        "sha256": "2e2ce6e5da178f32e03cd73984934b63dcb281e6a6b74c429e163a52adbc906c",
+        "bytes": 1328,
+        "changed_since_registered_read": false
+      }
+    },
+    {
+      "path": "/Volumes/NVME2T/projects/ai_agent/cad/dataset/_metadata/final-acceptance.json",
+      "sha256": "1e2763708cc1b1e4d0187e13a0962041a59ba0a7e41200df7380cfd590cca35d",
+      "bytes": 508,
+      "read_scope": "下载身份/数量/验收范围；不是逐样本内容复核",
+      "current_observation": {
+        "observed_at": "2026-10-16T14:36:43.230060+08:00",
+        "sha256": "1e2763708cc1b1e4d0187e13a0962041a59ba0a7e41200df7380cfd590cca35d",
+        "bytes": 508,
+        "changed_since_registered_read": false
+      }
+    },
+    {
+      "path": "/Volumes/NVME2T/projects/ai_agent/cad/dataset/_metadata/download-manifest.json",
+      "sha256": "6bca546d319a512bd0e7477d5daa6a98eebbbfbf791476ba3024e99c07856ee9",
+      "bytes": 18576,
+      "read_scope": "下载身份/数量/验收范围；不是逐样本内容复核",
+      "current_observation": {
+        "observed_at": "2026-10-16T14:36:43.230060+08:00",
+        "sha256": "6bca546d319a512bd0e7477d5daa6a98eebbbfbf791476ba3024e99c07856ee9",
+        "bytes": 18576,
+        "changed_since_registered_read": false
+      }
+    },
+    {
+      "path": "/Volumes/NVME2T/projects/ai_agent/cad/dataset/_metadata/verified-inventory.json",
+      "sha256": "e63603b742c6eff4a9492e9a0b1dec6ef386d731a89705fc6673916c81a61b45",
+      "bytes": 21867,
+      "read_scope": "下载身份/数量/验收范围；不是逐样本内容复核",
+      "current_observation": {
+        "observed_at": "2026-10-16T14:36:43.230060+08:00",
+        "sha256": "e63603b742c6eff4a9492e9a0b1dec6ef386d731a89705fc6673916c81a61b45",
+        "bytes": 21867,
+        "changed_since_registered_read": false
+      }
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/知识库资料_采购清单.xlsx",
+      "sha256": "ead022eea2b8f44eaeedbb0c32d63025bfda8c77373ab455673935b531c5eae5",
+      "bytes": 19329,
+      "read_scope": "只读全部非空单元格；采购清单A2:I31、国标下载清单A2:H31；未修改/重算/导出",
+      "observed_at": "2026-10-16T15:51:45.117327+08:00"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/机械图纸知识库_资料源与采购方案.md",
+      "sha256": "7004eaa2c5a784227d2166ef8a253a00cf78a03856d0c885f0b6180abcf58ce8",
+      "bytes": 15916,
+      "read_scope": "全文阅读",
+      "observed_at": "2026-10-16T15:51:45.117327+08:00"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD三件套_方案文档/机械图纸知识库_资料源与采购方案.md",
+      "sha256": "a96db48b7eadbd61882087d6fff567ac0777df9e9be73405d9639c099ad2e957",
+      "bytes": 15424,
+      "read_scope": "与全套稿hash及差分比较；非重复来源",
+      "observed_at": "2026-10-16T15:51:45.117327+08:00"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/机械图纸知识库_资料源与采购方案.md",
+      "sha256": "a96db48b7eadbd61882087d6fff567ac0777df9e9be73405d9639c099ad2e957",
+      "bytes": 15424,
+      "read_scope": "与全套稿差分读取；与三件套稿字节相同",
+      "observed_at": "2026-10-16T15:51:45.117327+08:00"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/评分判据库/10_国标电子文本渠道核查与替换清单.md",
+      "sha256": "9d1041a1b8ab3b1ce537cb8aad96626af701a9b6ccadc95f8b86c18cfd2d28df",
+      "bytes": 7411,
+      "read_scope": "全文阅读；质量状态为旧报告，本轮未重做逐页验证",
+      "observed_at": "2026-10-16T15:51:45.117327+08:00"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/DXF到货验证报告_T01-T05正误变体.md",
+      "sha256": "db02d4f45b9ef4e716e2a588e44a903fef6085e3bb2d2ecd2a8f4a8b855961c1",
+      "bytes": 15392,
+      "read_scope": "首55行及来源身份；非本轮重跑实验",
+      "observed_at": "2026-10-16T15:51:45.117327+08:00"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/CAD图纸集_T01-T05.dwg",
+      "sha256": "d6a4ed6cc80ad1b35daa74714c6bb78dd9bb746c03f9133aecbb3a7d437a9751",
+      "bytes": 1113978,
+      "read_scope": "本轮仅路径/大小/hash，不读作专业正确答案",
+      "observed_at": "2026-10-16T15:51:45.117327+08:00"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/CAD图纸集_T01-T05.dxf",
+      "sha256": "0e8393aa2a12516ad061f01bbf75e05849385f00f49e64f627ef16d04368ea05",
+      "bytes": 8802931,
+      "read_scope": "本轮仅路径/大小/hash，不读作专业正确答案",
+      "observed_at": "2026-10-16T15:51:45.117327+08:00"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/CAD图纸集_T01-T05.txt",
+      "sha256": "0e8393aa2a12516ad061f01bbf75e05849385f00f49e64f627ef16d04368ea05",
+      "bytes": 8802931,
+      "read_scope": "本轮仅路径/大小/hash，不读作专业正确答案",
+      "observed_at": "2026-10-16T15:51:45.117327+08:00"
+    }
+  ],
+  "updated_at": "2026-10-16T15:51:45.117327+08:00",
+  "prepared_material_inventory": {
+    "observed_at": "2026-10-16T15:51:45.117327+08:00",
+    "scope": "只检查国标与工程图审核直接目录，不代表全盘全部材料",
+    "standard_pdfs": 22,
+    "drawing_pdfs": 10,
+    "assets": [
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GB-T_4459.3-2000_机械制图_花键表示法.pdf",
+        "bytes": 146999,
+        "sha256": "29bad0e22998c4e7538fea871193812baaf6fe257440da98e37a82fa33a33268",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GB-T_4459.5-1999_机械制图_中心孔表示法_full.pdf",
+        "bytes": 169934,
+        "sha256": "847a8548b34d30ae262d4e24a8355912530287ea6bec361f26bb8947f0f01262",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GB-T_4459.8-2009_机械制图_动密封圈_第1部分.pdf",
+        "bytes": 497820,
+        "sha256": "79e751239a57a75c8bc836e4e9bc37f517aab33e129ef4967c9a4c0812814c54",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GB-T_4459.9-2009_机械制图_动密封圈_第2部分.pdf",
+        "bytes": 1026736,
+        "sha256": "d9d2b7ba28955b2f6c16b3578ab8fa64d964d42040144ab5bfc361cbfb1f8d0a",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GB-T_4460-2013_机械制图_机构运动简图用图形符号.pdf",
+        "bytes": 5164793,
+        "sha256": "b2a59517997aec27f2dfb236b3819dfe039e2c8a3729205f84626abba7e8c53f",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GBT 15754-2025 产品几何技术规范 尺寸和公差标注 圆锥.pdf",
+        "bytes": 732681,
+        "sha256": "593cc78f65fe370367bba6154668ec9952d2e95d2f3976af26df1d03057c72b9",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GBT_24739-2009_机械制图_机件上倾斜结构的表示法.pdf",
+        "bytes": 1005641,
+        "sha256": "7cf24ff3593d21b9fe79caa740a46f31c7fb405a56dfd7296117867a984f7bee",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GBT_4457.4-2002_机械制图_图样画法_图线.pdf",
+        "bytes": 274416,
+        "sha256": "3766ade04201135e3af65bef0b5251632538c7037898fa2ca1a71454882b36d4",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GBT_4457.5-2013_机械制图_剖面区域的表示法.pdf",
+        "bytes": 363161,
+        "sha256": "92bd91e5bb1cfb84f56efa9fb18bf65b74eae00fc05f19b082f179196d10403f",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GBT_4458.1-2002_机械制图_图样画法_视图.pdf",
+        "bytes": 709117,
+        "sha256": "d20553053b4a0308572df2327b5122e723bcd7114a914059c93faf69f2e7eb91",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GBT_4458.2-2003_机械制图_装配图中零、部件序号及其编排方法.pdf",
+        "bytes": 304984,
+        "sha256": "33783e23e29efa0c796412cbd4ced603d62f23ca30fdf306cbcd4c60cfda03b2",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GBT_4458.3-2013_机械制图_轴测图.pdf",
+        "bytes": 1617751,
+        "sha256": "f4c8c4feda65ea24e08a84d40945cd70ce3068f76e559a060f133493080b3c73",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GBT_4458.4-2003_机械制图_尺寸注法.pdf",
+        "bytes": 793067,
+        "sha256": "a0c0eb5a9ab14f5214c8ab6cbca22aa5f51c57236e02c71fa3fe4267750dc148",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GBT_4458.5-2003_机械制图_尺寸公差与配合注法.pdf",
+        "bytes": 395915,
+        "sha256": "3e415fdfe77037fd66fbdf0500a2f59abf179b742daf5912aa57cb8900e92460",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GBT_4458.6-2002_机械制图_图样画法_剖视图和断面图.pdf",
+        "bytes": 503102,
+        "sha256": "9de9945ca3b4e564c4e4b68a2f5beb585e63a108993cc57dd9b05b039e6c5385",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GBT_4459.1-1995_机械制图_螺纹及螺纹紧固件表示法.pdf",
+        "bytes": 386595,
+        "sha256": "42f59081292345c09e6e9d71f6de5dd992586165955dbeaca67a9d5aae17d049",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GBT_4459.2-2003_机械制图_齿轮表示法.pdf",
+        "bytes": 625869,
+        "sha256": "9110a74ebae26cb4ab8e156f8663edb5e505d1d490a9e8cdbf3c56cdbfa48e28",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GBT_4459.4-2003_机械制图_弹簧表示法.pdf",
+        "bytes": 782116,
+        "sha256": "118573ab9b6ac443b476e81503dc44246c1e1e70d4c80039e52bffddc3393ee3",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GB_T 1182-2018 产品几何技术规范（GPS） 几何公差 形状、方向、位置和跳动公差标注.pdf",
+        "bytes": 43915798,
+        "sha256": "ea828869ca636631c0f19e5a9e1033dcd36449077fa5f78b068a16e493d25b9b",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GB_T 131-2006 产品几何技术规范(GPS) 技术产品文件中表面结构的表示法.pdf",
+        "bytes": 1823385,
+        "sha256": "fddc05ae1913962bbbd7337f70453985235b2c71698c9c80311e7d950b120e85",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GB_T 1800.1-2020 产品几何技术规范（GPS） 线性尺寸公差ISO代号体系 第1部分：公差、偏差和配合的基础.pdf",
+        "bytes": 983112,
+        "sha256": "2e6127ccb5b629817c6b2a431ccc8ce1f87f98ebcd9ad7a14fd02c413e692a5f",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GB_T 4459.7-2017 机械制图 滚动轴承表示法.pdf",
+        "bytes": 2305352,
+        "sha256": "7e3c442395bb7934a4604387338b5f64fa92c206cbbdc0dcd5f70530e9941822",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/CAD图纸集_T01-T05.dwg",
+        "bytes": 1113978,
+        "sha256": "d6a4ed6cc80ad1b35daa74714c6bb78dd9bb746c03f9133aecbb3a7d437a9751",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/CAD图纸集_T01-T05.dxf",
+        "bytes": 8802931,
+        "sha256": "0e8393aa2a12516ad061f01bbf75e05849385f00f49e64f627ef16d04368ea05",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/CAD图纸集_T01-T05.txt",
+        "bytes": 8802931,
+        "sha256": "0e8393aa2a12516ad061f01bbf75e05849385f00f49e64f627ef16d04368ea05",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/T01_矩形花键套-正确图纸.pdf",
+        "bytes": 35458,
+        "sha256": "58e2e55b6e95959386efe5fe3f5fc7a0927ab210b119f2bae32f882a6031ea3e",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/T01_矩形花键套-错误图纸.pdf",
+        "bytes": 30718,
+        "sha256": "f1dedd71b0f68b0616a6a93bba7302d46afbf1573177d0a2a2be4a61da4d84d6",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/T02_端盖-正确图纸.pdf",
+        "bytes": 29819,
+        "sha256": "80ada49e8d7f7eaa6f49b68e72fd5be6ba3afd3fdbb7ffc6346cf5400eec3737",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/T02_端盖-错误图纸.pdf",
+        "bytes": 30474,
+        "sha256": "437aeb225da13c3e776985607232dfe9da459882fbc8261938a216ef5c7b567b",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/T03_传动箱-正确图纸.pdf",
+        "bytes": 46506,
+        "sha256": "7a5811c4ddb61fe0d1443931dbeda8a1361a22b134a1513cbbfd338f9e4e8011",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/T03_传动箱-错误图纸.pdf",
+        "bytes": 46137,
+        "sha256": "0e02954ebe0e9372bf5dfb9415e74e160cbbefedcfe8d6539c1d19c6c5899c1d",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/T04_顶尖-正确图纸.pdf",
+        "bytes": 32760,
+        "sha256": "e39131d6e9ffe306ede11ba531c5034dc315c821b3a254e65da6528a999259fe",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/T04_顶尖-错误图纸.pdf",
+        "bytes": 34487,
+        "sha256": "7cca42fbef1b8b4b370edc9ca6c810a9523a51d2e3174edc0eb2f3d2bc3c997b",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/T05_轴承盖-正确图纸.pdf",
+        "bytes": 40597,
+        "sha256": "3f66d2a23740a56bdf7ad5e1cd5e12cb26491b9525dc883c8ea260fae24a37ed",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/T05_轴承盖-错误图纸.pdf",
+        "bytes": 40925,
+        "sha256": "94ab2aaa21c010f033a2a0d3e614cebecc31d525c0bd55390fb86ddf2e61a5d1",
+        "verification": "文件存在/指纹；非正文重读或专业标签核验"
+      }
+    ],
+    "purchase_workbook_unchanged": true
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema_version": "model3d-plan/0.1",
+  "sample_class": "SYNTHETIC_DESIGN",
+  "execution_status": "NOT_RUN",
+  "scope": {
+    "project": "engineering-kb-design-only",
+    "authentication": "NOT_A_CREDENTIAL"
+  },
+  "source_bindings": {
+    "sample_parameter": {
+      "kind": "synthetic_input",
+      "note": "No real document, operator confirmation or measured outcome claimed"
+    }
+  },
+  "units": {
+    "length": "mm",
+    "angle": "deg"
+  },
+  "frame": {
+    "id": "plate-local",
+    "handedness": "RIGHT",
+    "x": "length",
+    "y": "width",
+    "z": "thickness",
+    "origin": "minimum_corner"
+  },
+  "parameters": {
+    "length": {
+      "value": "100",
+      "unit": "mm",
+      "source_ref": "sample_parameter"
+    },
+    "width": {
+      "value": "60",
+      "unit": "mm",
+      "source_ref": "sample_parameter"
+    },
+    "thickness": {
+      "value": "10",
+      "unit": "mm",
+      "source_ref": "sample_parameter"
+    },
+    "hole_diameter": {
+      "value": "10",
+      "unit": "mm",
+      "source_ref": "sample_parameter"
+    },
+    "hole_x": {
+      "value": "50",
+      "unit": "mm",
+      "source_ref": "sample_parameter"
+    },
+    "hole_y": {
+      "value": "30",
+      "unit": "mm",
+      "source_ref": "sample_parameter"
+    }
+  },
+  "requirements": [
+    {
+      "id": "R1",
+      "kind": "closed_solid"
+    },
+    {
+      "id": "R2",
+      "kind": "single_through_hole",
+      "diameter_ref": "hole_diameter",
+      "center_refs": [
+        "hole_x",
+        "hole_y"
+      ],
+      "axis": "Z"
+    },
+    {
+      "id": "R3",
+      "kind": "plate_bounds",
+      "parameter_refs": [
+        "length",
+        "width",
+        "thickness"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "step_id": "S1",
+      "registered_operation": "create_plate",
+      "depends_on": [],
+      "parameter_refs": [
+        "length",
+        "width",
+        "thickness"
+      ]
+    },
+    {
+      "step_id": "S2",
+      "registered_operation": "create_through_hole_tool",
+      "depends_on": [],
+      "parameter_refs": [
+        "hole_diameter",
+        "hole_x",
+        "hole_y",
+        "thickness"
+      ],
+      "execution_settings": {
+        "axial_margin_policy": "EXPLICIT_ADAPTER_SETTING_REQUIRED"
+      }
+    },
+    {
+      "step_id": "S3",
+      "registered_operation": "subtract",
+      "depends_on": [
+        "S1",
+        "S2"
+      ],
+      "workpiece_step": "S1",
+      "tool_step": "S2"
+    }
+  ],
+  "validations": [
+    {
+      "id": "V1",
+      "requirement_refs": [
+        "R1"
+      ],
+      "method": "solid_validity"
+    },
+    {
+      "id": "V2",
+      "requirement_refs": [
+        "R2"
+      ],
+      "method": "hole_geometry_and_throughness"
+    },
+    {
+      "id": "V3",
+      "requirement_refs": [
+        "R3"
+      ],
+      "method": "plate_bounds"
+    },
+    {
+      "id": "V4",
+      "requirement_refs": [
+        "R1",
+        "R2",
+        "R3"
+      ],
+      "method": "plate_single_through_hole_volume",
+      "formula_note": "L*W*T - pi*(d/2)^2*T; registered method required",
+      "tolerance_policy": "MUST_BE_DECLARED_BEFORE_RUN"
+    }
+  ],
+  "expected_failures": [
+    {
+      "id": "F1",
+      "mutation": "remove thickness",
+      "expected": "MISSING_INPUT"
+    },
+    {
+      "id": "F2",
+      "mutation": "hole_diameter.unit=null",
+      "expected": "UNIT_UNKNOWN"
+    },
+    {
+      "id": "F3",
+      "mutation": "hole_diameter=80mm",
+      "expected": "PARAMETER_RANGE_REJECTED"
+    },
+    {
+      "id": "F4",
+      "mutation": "shift actual hole center but keep requirement R2",
+      "expected": "V2_FAIL_EVEN_IF_VOLUME_MATCHES"
+    },
+    {
+      "id": "F5",
+      "mutation": "add S3 to S1.depends_on",
+      "expected": "CYCLIC_PLAN"
+    },
+    {
+      "id": "F6",
+      "mutation": "change bound source version after resolution",
+      "expected": "INPUT_SNAPSHOT_REVALIDATION_REQUIRED"
+    }
+  ],
+  "limitations": [
+    "Design fixture only; no formal Schema validation or kernel execution",
+    "No manufacturing, assembly or normative compliance claim",
+    "Kernel tolerance and validation uncertainty must be declared before execution"
+  ]
+}

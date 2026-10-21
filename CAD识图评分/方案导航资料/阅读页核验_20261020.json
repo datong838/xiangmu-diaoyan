@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-20T19:57:25.705988+08:00",
+  "change": "Markdown source路由返回宽版HTML，同源raw路由保留原文",
+  "changed_code": [
+    "预览服务.py",
+    "test_reader.py"
+  ],
+  "test_count": 9,
+  "tests_passed": true,
+  "live_http": {
+    "reader_content_type": "text/html",
+    "table_rendered": true,
+    "raw_exact_bytes": true
+  },
+  "visual_review": {
+    "status": "PASSED_FOR_READER",
+    "scope": "1280×720当前浅色阅读页截图；实际点击正文链接进入下一份排版文档，并返回",
+    "screenshot": "/Users/ddt/Documents/Codex/2026-10-14/new-chat/outputs/CAD宽版阅读页_20261020.png",
+    "not_claimed": "未重做主树全部响应式/深色主题验收"
+  },
+  "source_markdown_unchanged": true,
+  "reading_url": "http://127.0.0.1:8842/source/cad-3cb4cc38edc43432",
+  "raw_sha256": "f220c2d271468b1aa59cd6768262be5a2827a23b2201b329abf42105ac3a0def",
+  "code_sha256": {
+    "预览服务.py": "791e6ff00928cefd75d6a3e7302a882784b19a8da5d190938c1386fd3630593a",
+    "test_reader.py": "766f0c4672ed217026324ed1e8c37bde8406ba246b69bed67e3bdbf28f9a9e68"
+  }
+}

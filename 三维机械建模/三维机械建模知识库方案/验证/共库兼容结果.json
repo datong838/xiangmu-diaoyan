@@ -1,0 +1,65 @@
+{
+  "recorded_at": "2026-10-16T14:44:45.900883+00:00",
+  "command": [
+    "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/.venv-evidence/bin/python",
+    "-B",
+    "-m",
+    "unittest",
+    "discover",
+    "-s",
+    "验证",
+    "-p",
+    "test_shared_compat.py",
+    "-v"
+  ],
+  "cwd": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案",
+  "exit_code": 0,
+  "test_methods": 5,
+  "output": "test_current_legacy_synthetic_bundle_still_valid (test_shared_compat.SharedCompatibilityTests.test_current_legacy_synthetic_bundle_still_valid) ... ok\ntest_current_real_a_preserves_identity_and_raw (test_shared_compat.SharedCompatibilityTests.test_current_real_a_preserves_identity_and_raw) ... ok\ntest_no_silent_new_fields_in_old_bundle (test_shared_compat.SharedCompatibilityTests.test_no_silent_new_fields_in_old_bundle) ... ok\ntest_old_scope_guards_survive_three_dimensional_extension (test_shared_compat.SharedCompatibilityTests.test_old_scope_guards_survive_three_dimensional_extension) ... ok\ntest_separate_design_entry_old_consumer_rejects_new_type (test_shared_compat.SharedCompatibilityTests.test_separate_design_entry_old_consumer_rejects_new_type) ... ok\n\n----------------------------------------------------------------------\nRan 5 tests in 0.005s\n\nOK\n",
+  "source_fingerprints_before_and_after_identical": true,
+  "fingerprints": [
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/src/kb_contracts.py",
+      "bytes": 10625,
+      "sha256": "ffd8a648cf0601bd9bd2073094c440fa010af5ece796d02518085794ddb08880"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/contracts/bundle.schema.json",
+      "bytes": 22079,
+      "sha256": "8a5f873e52ea9590ff660fcf2e8b8aa057460671f2e29a25c114a243ca68a769"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/fixtures/contract_examples.json",
+      "bytes": 3467,
+      "sha256": "76162f857c67ce25e2a752c20810ecd989a38a7d336cea716d5e2e3e6fb73d23"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/fixtures/real_a.json",
+      "bytes": 9338,
+      "sha256": "4380875069c0a20d23dd3cfad4611879b3e0135493a61e857004982248d2198e"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/验证/test_shared_compat.py",
+      "bytes": 2488,
+      "sha256": "facf77cca9bd836792bd9d708a83b2ee3ebe92754872ee3901cb3332cc189152"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/验证/validate_plan.py",
+      "bytes": 6900,
+      "sha256": "2c4efd6fa10faf7e4afb68a39400eaf190cf319932e897e12c606762e815c126"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/契约/model-plan.schema.json",
+      "bytes": 11133,
+      "sha256": "e5d8e92688acf1e4538349996fb9683af90c87589f20b4297575b9ff1d413f83"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/设计样例/板孔计划.json",
+      "bytes": 4117,
+      "sha256": "1b29e68b457bb9597f8be9eaa9e0d938ffeab8f8fc12654d97a876fedf1ba4cf"
+    }
+  ],
+  "scope": "Current shared seven-object validation compatibility only, not full regression or production acceptance",
+  "common_files_written": false,
+  "geometry_run": false
+}

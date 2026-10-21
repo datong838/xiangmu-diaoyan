@@ -1,0 +1,204 @@
+{
+  "revision": "KB-DESIGN-002",
+  "captured_at": "2026-10-16T14:07:44.461157+08:00",
+  "purpose": "参考版本观察与变化记录，不是不可修改依据或阅读/正确性证明",
+  "sources": [
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/CAD图纸智能审查系统_目标态建设技术方案.md",
+      "sha256": "cf2926a5c93f54997fc14d5117a9d3f26cb2c3b61a58f19bfbfb36851cb25ecb",
+      "bytes": 39778,
+      "read_scope": "采用v1.1；复读全文，符号节另行补读；未复现实验",
+      "previous_observations": [
+        {
+          "sha256": "98b07450b765ccb9c7feb350db7db59b490c10e09c5e28e64ef1be74f4babbcb",
+          "bytes": 38789,
+          "status": "本轮较早捕获版本，现已发现变化"
+        }
+      ],
+      "revision_label": "v1.1 / 2026-10-16",
+      "current_observation": {
+        "observed_at": "2026-10-16T14:36:43.230060+08:00",
+        "sha256": "cf2926a5c93f54997fc14d5117a9d3f26cb2c3b61a58f19bfbfb36851cb25ecb",
+        "bytes": 39778,
+        "changed_since_registered_read": false
+      }
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/README.md",
+      "sha256": "f7bdbf375d10c63402d7d219b8508394ac3d93d3c5024628d60e492df22238f7",
+      "bytes": 876,
+      "read_scope": "当前短入口正文阅读",
+      "current_observation": {
+        "observed_at": "2026-10-16T14:36:43.230060+08:00",
+        "sha256": "f9f83daa9e321ecac986abbb9e7015ae999c603925b1377099360506015710b7",
+        "bytes": 896,
+        "changed_since_registered_read": true
+      },
+      "reuse_limit": "只沿用已读机制/表结构，不引用新业务状态；本轮未重读全部变化正文"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/00-项目记忆摘要.md",
+      "sha256": "94ddbbfa373a6d4c933f51238f7c77cdc5c8e4de17051a7e0eeafd1253533cfa",
+      "bytes": 1307,
+      "read_scope": "当前短入口正文阅读",
+      "current_observation": {
+        "observed_at": "2026-10-16T14:36:43.230060+08:00",
+        "sha256": "a3a45363078f205f94e01848242a9a08c33cee72fc068d7449ebf306dd03db9c",
+        "bytes": 1294,
+        "changed_since_registered_read": true
+      },
+      "reuse_limit": "只沿用已读机制/表结构，不引用新业务状态；本轮未重读全部变化正文"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/01-当前状态与下一步.md",
+      "sha256": "d0c4f08b1569ae7efb0d5862d555f1043277c449f5a96409e61b37651de747c3",
+      "bytes": 965,
+      "read_scope": "当前短入口正文阅读",
+      "current_observation": {
+        "observed_at": "2026-10-16T14:36:43.230060+08:00",
+        "sha256": "850690f1e8d61522b8ac772bed1df4470651160bd3765997c8c76a6b9a26a2a9",
+        "bytes": 985,
+        "changed_since_registered_read": true
+      },
+      "reuse_limit": "只沿用已读机制/表结构，不引用新业务状态；本轮未重读全部变化正文"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/03-跨轮次交接检查点.md",
+      "sha256": "3a2c008e66f71e1de50c37793db4c22509982a73815a5f6ed62bfccbe69aa398",
+      "bytes": 1743,
+      "read_scope": "当前短入口正文阅读",
+      "current_observation": {
+        "observed_at": "2026-10-16T14:36:43.230060+08:00",
+        "sha256": "dca45bee9b72e100a8f9f7c3e6a59fc099dcdfb6c86a11c6fefe0efc5655548d",
+        "bytes": 1844,
+        "changed_since_registered_read": true
+      },
+      "reuse_limit": "只沿用已读机制/表结构，不引用新业务状态；本轮未重读全部变化正文"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/04-文档注册表.csv",
+      "sha256": "1c0a6a83d7b695170f80e5c91ed97ef5d2fc897ac64ed50b19836500e75fcb13",
+      "bytes": 744343,
+      "read_scope": "仅表头和首5条样本",
+      "current_observation": {
+        "observed_at": "2026-10-16T14:36:43.230060+08:00",
+        "sha256": "da20e3634369852cfda6b9b4ca74e5d80d28484f5a99ea3acd76802b0a4f41d8",
+        "bytes": 746751,
+        "changed_since_registered_read": true
+      },
+      "reuse_limit": "只沿用已读机制/表结构，不引用新业务状态；本轮未重读全部变化正文"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/05-主题与关系索引.csv",
+      "sha256": "f30b9a5bdbe8b4630d58cbb5f4c1aa263c340f084bfd24875d6423110858c529",
+      "bytes": 223781,
+      "read_scope": "仅表头和首5条样本",
+      "current_observation": {
+        "observed_at": "2026-10-16T14:36:43.230060+08:00",
+        "sha256": "a0141a2ccd098ea20d726495364bcfbaeaedf2634cd7b7965872f04aad64e8fd",
+        "bytes": 224121,
+        "changed_since_registered_read": true
+      },
+      "reuse_limit": "只沿用已读机制/表结构，不引用新业务状态；本轮未重读全部变化正文"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/07-原始附件与资产总索引.csv",
+      "sha256": "778e5a1cab31997d2258aaad03a4b37db86eb731d92fdff8187e6d4eee6bb9bf",
+      "bytes": 3895604,
+      "read_scope": "仅表头和首5条样本",
+      "current_observation": {
+        "observed_at": "2026-10-16T14:36:43.230060+08:00",
+        "sha256": "271ff4553aeb5f27e0c67ba74216443dcd081407c178ba1b85738378335992fa",
+        "bytes": 3909302,
+        "changed_since_registered_read": true
+      },
+      "reuse_limit": "只沿用已读机制/表结构，不引用新业务状态；本轮未重读全部变化正文"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/08-旧依据到新设计全链路映射.csv",
+      "sha256": "0d7d688d95615b97239cd8ba4e166c75aaf618c09be08efd245fa26a4f59d92b",
+      "bytes": 315622,
+      "read_scope": "仅表头和首5条样本",
+      "current_observation": {
+        "observed_at": "2026-10-16T14:36:43.230060+08:00",
+        "sha256": "0d7d688d95615b97239cd8ba4e166c75aaf618c09be08efd245fa26a4f59d92b",
+        "bytes": 315622,
+        "changed_since_registered_read": false
+      }
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/10-当前设计状态.json",
+      "sha256": "028230df9a1d0d290bc56b292bff26974f701c069a3341f54fe0596cf46ffa3a",
+      "bytes": 274742,
+      "read_scope": "仅角色与部分结构；未复核全部计数",
+      "current_observation": {
+        "observed_at": "2026-10-16T14:36:43.230060+08:00",
+        "sha256": "91a3d40449976385ac30a156b8d040abe833fdf9bf3f4541c50d69e710152b7f",
+        "bytes": 277050,
+        "changed_since_registered_read": true
+      },
+      "reuse_limit": "只沿用已读机制/表结构，不引用新业务状态；本轮未重读全部变化正文"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/system/新MES系统设计/58-新MES文档与项目记忆管理机制.md",
+      "sha256": "80b16193296145cc6bb5e15e23e153905931a8486a67902a1718b77b082b1ee7",
+      "bytes": 47109,
+      "read_scope": "现行接续补强与1—9节；非全部历史批次",
+      "current_observation": {
+        "observed_at": "2026-10-16T14:36:43.230060+08:00",
+        "sha256": "80b16193296145cc6bb5e15e23e153905931a8486a67902a1718b77b082b1ee7",
+        "bytes": 47109,
+        "changed_since_registered_read": false
+      }
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mrpmes/AGENTS.md",
+      "sha256": "2e2ce6e5da178f32e03cd73984934b63dcb281e6a6b74c429e163a52adbc906c",
+      "bytes": 1328,
+      "read_scope": "全文读取；参考项目规则不扩大本次任务范围",
+      "current_observation": {
+        "observed_at": "2026-10-16T14:36:43.230060+08:00",
+        "sha256": "2e2ce6e5da178f32e03cd73984934b63dcb281e6a6b74c429e163a52adbc906c",
+        "bytes": 1328,
+        "changed_since_registered_read": false
+      }
+    },
+    {
+      "path": "/Volumes/NVME2T/projects/ai_agent/cad/dataset/_metadata/final-acceptance.json",
+      "sha256": "1e2763708cc1b1e4d0187e13a0962041a59ba0a7e41200df7380cfd590cca35d",
+      "bytes": 508,
+      "read_scope": "下载身份/数量/验收范围；不是逐样本内容复核",
+      "current_observation": {
+        "observed_at": "2026-10-16T14:36:43.230060+08:00",
+        "sha256": "1e2763708cc1b1e4d0187e13a0962041a59ba0a7e41200df7380cfd590cca35d",
+        "bytes": 508,
+        "changed_since_registered_read": false
+      }
+    },
+    {
+      "path": "/Volumes/NVME2T/projects/ai_agent/cad/dataset/_metadata/download-manifest.json",
+      "sha256": "6bca546d319a512bd0e7477d5daa6a98eebbbfbf791476ba3024e99c07856ee9",
+      "bytes": 18576,
+      "read_scope": "下载身份/数量/验收范围；不是逐样本内容复核",
+      "current_observation": {
+        "observed_at": "2026-10-16T14:36:43.230060+08:00",
+        "sha256": "6bca546d319a512bd0e7477d5daa6a98eebbbfbf791476ba3024e99c07856ee9",
+        "bytes": 18576,
+        "changed_since_registered_read": false
+      }
+    },
+    {
+      "path": "/Volumes/NVME2T/projects/ai_agent/cad/dataset/_metadata/verified-inventory.json",
+      "sha256": "e63603b742c6eff4a9492e9a0b1dec6ef386d731a89705fc6673916c81a61b45",
+      "bytes": 21867,
+      "read_scope": "下载身份/数量/验收范围；不是逐样本内容复核",
+      "current_observation": {
+        "observed_at": "2026-10-16T14:36:43.230060+08:00",
+        "sha256": "e63603b742c6eff4a9492e9a0b1dec6ef386d731a89705fc6673916c81a61b45",
+        "bytes": 21867,
+        "changed_since_registered_read": false
+      }
+    }
+  ],
+  "updated_at": "2026-10-16T14:36:43.230060+08:00"
+}

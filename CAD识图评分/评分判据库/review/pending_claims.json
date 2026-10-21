@@ -1,0 +1,343 @@
+[
+  {
+    "id": "W-T01-6",
+    "sample": "T01-6",
+    "claim": "//为平行度，◎在表1对应同心度或同轴度，须按被测要素区分；同轴度控制导出中心线，不能用于直接控制槽的平表面。",
+    "basis_type": "standard_candidate",
+    "audit": {
+      "date": "2026-10-09",
+      "verdict": "依据已补，案例待核准",
+      "reason": "已看表1及平行度/同轴度原页。客户图右侧8 H10槽宽框第二行由//改为◎；需要结合引线作用于表面还是导出要素、基准A与功能要求核准。不能解释为平面度/圆度，也不能只按外形一律选符号。",
+      "method": "原页视觉核准与OCR导航，非模型多数票"
+    },
+    "path_base": "评分判据库根目录",
+    "evidence": [
+      {
+        "type": "客户正确图",
+        "file": "../工程图审核/T01_矩形花键套-正确图纸.pdf"
+      },
+      {
+        "type": "客户错误图",
+        "file": "../工程图审核/T01_矩形花键套-错误图纸.pdf"
+      },
+      {
+        "type": "标准条款及图例",
+        "file": "../国标/GB_T 1182-2018 产品几何技术规范（GPS） 几何公差 形状、方向、位置和跳动公差标注.pdf",
+        "clause": "表1/§4.1/§4.3/§17.10.1/§17.14.1",
+        "pdf_pages": [
+          9,
+          10,
+          11,
+          65,
+          86,
+          87
+        ]
+      },
+      {
+        "type": "完整上下文原页",
+        "file": "evidence/crosscheck_20261009/rules/W-T01-6/context_9.png",
+        "pdf_page": 9
+      },
+      {
+        "type": "完整上下文原页",
+        "file": "evidence/crosscheck_20261009/rules/W-T01-6/context_10.png",
+        "pdf_page": 10
+      },
+      {
+        "type": "完整上下文原页",
+        "file": "evidence/crosscheck_20261009/rules/W-T01-6/context_11.png",
+        "pdf_page": 11
+      },
+      {
+        "type": "完整上下文原页",
+        "file": "evidence/crosscheck_20261009/rules/W-T01-6/context_65.png",
+        "pdf_page": 65
+      },
+      {
+        "type": "完整上下文原页",
+        "file": "evidence/crosscheck_20261009/rules/W-T01-6/context_86.png",
+        "pdf_page": 86
+      },
+      {
+        "type": "完整上下文原页",
+        "file": "evidence/crosscheck_20261009/rules/W-T01-6/context_87.png",
+        "pdf_page": 87
+      }
+    ],
+    "reviewer_output": {
+      "verdict": "",
+      "reason": "",
+      "evidence": "",
+      "suggested_fix": ""
+    },
+    "source_status": "已补完整标准，条款与图例已核对；案例适用性单列"
+  },
+  {
+    "id": "W-T02-1",
+    "sample": "T02-1",
+    "claim": "带短横的表面结构符号要求去除材料，符号底部带圆圈表示不允许去除材料；不可与各表面同要求的上部圆圈混淆。",
+    "basis_type": "standard_candidate",
+    "audit": {
+      "date": "2026-10-09",
+      "verdict": "依据已补，案例待核准",
+      "reason": "原图φ62 f7处Ra3.2符号从去除材料型变为不允许去除材料型，数值未改。条款能确定两符号不同工艺含义，f7配合代号本身不能证明必须切削；本例违规需客户确认目标表面的加工要求。",
+      "method": "原页视觉核准与OCR导航，非模型多数票"
+    },
+    "path_base": "评分判据库根目录",
+    "evidence": [
+      {
+        "type": "客户正确图",
+        "file": "../工程图审核/T02_端盖-正确图纸.pdf"
+      },
+      {
+        "type": "客户错误图",
+        "file": "../工程图审核/T02_端盖-错误图纸.pdf"
+      },
+      {
+        "type": "标准条款及图例",
+        "file": "../国标/GB_T 131-2006 产品几何技术规范(GPS) 技术产品文件中表面结构的表示法.pdf",
+        "clause": "§4.2/§4.3.1/§4.3.2/§4.5/§11.2.2",
+        "pdf_pages": [
+          5,
+          6,
+          7,
+          14,
+          15
+        ]
+      },
+      {
+        "type": "完整上下文原页",
+        "file": "evidence/crosscheck_20261009/rules/W-T02-1/context_5.png",
+        "pdf_page": 5
+      },
+      {
+        "type": "完整上下文原页",
+        "file": "evidence/crosscheck_20261009/rules/W-T02-1/context_6.png",
+        "pdf_page": 6
+      },
+      {
+        "type": "完整上下文原页",
+        "file": "evidence/crosscheck_20261009/rules/W-T02-1/context_7.png",
+        "pdf_page": 7
+      },
+      {
+        "type": "完整上下文原页",
+        "file": "evidence/crosscheck_20261009/rules/W-T02-1/context_14.png",
+        "pdf_page": 14
+      },
+      {
+        "type": "完整上下文原页",
+        "file": "evidence/crosscheck_20261009/rules/W-T02-1/context_15.png",
+        "pdf_page": 15
+      }
+    ],
+    "reviewer_output": {
+      "verdict": "",
+      "reason": "",
+      "evidence": "",
+      "suggested_fix": ""
+    },
+    "source_status": "已补完整标准，条款与图例已核对；案例适用性单列"
+  },
+  {
+    "id": "W-T02-2",
+    "sample": "T02-2",
+    "claim": "圆锥锥度图形符号方向与圆锥方向一致，基准线平行圆锥轴线，由指引线连接圆锥轮廓。",
+    "basis_type": "standard_candidate",
+    "audit": {
+      "date": "2026-10-09",
+      "verdict": "通过（方向条款命题）",
+      "reason": "所供版本15754-2025。正误图1:10符号确实左右翻转，锥孔右端较小；原图及图8对应后，方向规则得到支持。仍须区分锥度与斜度符号，不以OCR字符<或>代替图例。",
+      "method": "原页视觉核准与OCR导航，非模型多数票"
+    },
+    "path_base": "评分判据库根目录",
+    "evidence": [
+      {
+        "type": "客户正确图",
+        "file": "../工程图审核/T02_端盖-正确图纸.pdf"
+      },
+      {
+        "type": "客户错误图",
+        "file": "../工程图审核/T02_端盖-错误图纸.pdf"
+      },
+      {
+        "type": "标准条款及图例",
+        "file": "../国标/GBT 15754-2025 产品几何技术规范 尺寸和公差标注 圆锥.pdf",
+        "clause": "第4章图3/§5.2图8",
+        "pdf_pages": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "type": "完整上下文原页",
+        "file": "evidence/crosscheck_20261009/rules/W-T02-2/context_6.png",
+        "pdf_page": 6
+      },
+      {
+        "type": "完整上下文原页",
+        "file": "evidence/crosscheck_20261009/rules/W-T02-2/context_7.png",
+        "pdf_page": 7
+      },
+      {
+        "type": "完整上下文原页",
+        "file": "evidence/crosscheck_20261009/rules/W-T02-2/context_8.png",
+        "pdf_page": 8
+      },
+      {
+        "type": "完整上下文原页",
+        "file": "evidence/crosscheck_20261009/rules/W-T02-2/context_9.png",
+        "pdf_page": 9
+      },
+      {
+        "type": "完整上下文原页",
+        "file": "evidence/crosscheck_20261009/rules/W-T02-2/context_10.png",
+        "pdf_page": 10
+      }
+    ],
+    "reviewer_output": {
+      "verdict": "",
+      "reason": "",
+      "evidence": "",
+      "suggested_fix": ""
+    },
+    "source_status": "已补完整标准，条款与图例已核对；案例适用性单列"
+  },
+  {
+    "id": "W-T02-4",
+    "sample": "T02-4",
+    "claim": "表面结构注写、读取方向与尺寸一致；直接标在轮廓时从材料外指向并接触表面，也允许带箭头/黑点指引线、无歧义尺寸线等规定形式。",
+    "basis_type": "standard_candidate",
+    "audit": {
+      "date": "2026-10-09",
+      "verdict": "依据已补，案例待核准",
+      "reason": "右下Ra6.3原来通过带箭头指引线标注，错图将符号转向且数值落在不同位置；结合图16–20核查。不能把所有旋转符号或离开轮廓的标注判错。",
+      "method": "原页视觉核准与OCR导航，非模型多数票"
+    },
+    "path_base": "评分判据库根目录",
+    "evidence": [
+      {
+        "type": "客户正确图",
+        "file": "../工程图审核/T02_端盖-正确图纸.pdf"
+      },
+      {
+        "type": "客户错误图",
+        "file": "../工程图审核/T02_端盖-错误图纸.pdf"
+      },
+      {
+        "type": "标准条款及图例",
+        "file": "../国标/GB_T 131-2006 产品几何技术规范(GPS) 技术产品文件中表面结构的表示法.pdf",
+        "clause": "§5.2/§11.2.1/§11.2.2–§11.2.5",
+        "pdf_pages": [
+          7,
+          8,
+          14,
+          15,
+          16
+        ]
+      },
+      {
+        "type": "完整上下文原页",
+        "file": "evidence/crosscheck_20261009/rules/W-T02-4/context_7.png",
+        "pdf_page": 7
+      },
+      {
+        "type": "完整上下文原页",
+        "file": "evidence/crosscheck_20261009/rules/W-T02-4/context_8.png",
+        "pdf_page": 8
+      },
+      {
+        "type": "完整上下文原页",
+        "file": "evidence/crosscheck_20261009/rules/W-T02-4/context_14.png",
+        "pdf_page": 14
+      },
+      {
+        "type": "完整上下文原页",
+        "file": "evidence/crosscheck_20261009/rules/W-T02-4/context_15.png",
+        "pdf_page": 15
+      },
+      {
+        "type": "完整上下文原页",
+        "file": "evidence/crosscheck_20261009/rules/W-T02-4/context_16.png",
+        "pdf_page": 16
+      }
+    ],
+    "reviewer_output": {
+      "verdict": "",
+      "reason": "",
+      "evidence": "",
+      "suggested_fix": ""
+    },
+    "source_status": "已补完整标准，条款与图例已核对；案例适用性单列"
+  },
+  {
+    "id": "W-T04-4",
+    "sample": "T04-4",
+    "claim": "表面结构方向、所指表面、参数值位置共同核查；依§11.2允许的标注位置排除合法旋转及引出形式。",
+    "basis_type": "standard_candidate",
+    "audit": {
+      "date": "2026-10-09",
+      "verdict": "依据已补，案例待核准",
+      "reason": "上方凸缘侧面Ra1.6符号正误图发生翻转；左侧Ra3.2等另有合法侧向标注，不能作为全图方向异常处理。条款与图例已补，案例适用待专家复核。",
+      "method": "原页视觉核准与OCR导航，非模型多数票"
+    },
+    "path_base": "评分判据库根目录",
+    "evidence": [
+      {
+        "type": "客户正确图",
+        "file": "../工程图审核/T04_顶尖-正确图纸.pdf"
+      },
+      {
+        "type": "客户错误图",
+        "file": "../工程图审核/T04_顶尖-错误图纸.pdf"
+      },
+      {
+        "type": "标准条款及图例",
+        "file": "../国标/GB_T 131-2006 产品几何技术规范(GPS) 技术产品文件中表面结构的表示法.pdf",
+        "clause": "§5.2/§11.2.1/§11.2.2–§11.2.5",
+        "pdf_pages": [
+          7,
+          8,
+          14,
+          15,
+          16
+        ]
+      },
+      {
+        "type": "完整上下文原页",
+        "file": "evidence/crosscheck_20261009/rules/W-T04-4/context_7.png",
+        "pdf_page": 7
+      },
+      {
+        "type": "完整上下文原页",
+        "file": "evidence/crosscheck_20261009/rules/W-T04-4/context_8.png",
+        "pdf_page": 8
+      },
+      {
+        "type": "完整上下文原页",
+        "file": "evidence/crosscheck_20261009/rules/W-T04-4/context_14.png",
+        "pdf_page": 14
+      },
+      {
+        "type": "完整上下文原页",
+        "file": "evidence/crosscheck_20261009/rules/W-T04-4/context_15.png",
+        "pdf_page": 15
+      },
+      {
+        "type": "完整上下文原页",
+        "file": "evidence/crosscheck_20261009/rules/W-T04-4/context_16.png",
+        "pdf_page": 16
+      }
+    ],
+    "reviewer_output": {
+      "verdict": "",
+      "reason": "",
+      "evidence": "",
+      "suggested_fix": ""
+    },
+    "source_status": "已补完整标准，条款与图例已核对；案例适用性单列"
+  }
+]

@@ -1,0 +1,27 @@
+# 依赖与构建产物
+node_modules/
+dist/
+build/
+out/
+.vite/
+coverage/
+*.tsbuildinfo
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# 系统与编辑器垃圾
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+*.swp
+
+# 大文件临时目录
+tmp/
+temp/

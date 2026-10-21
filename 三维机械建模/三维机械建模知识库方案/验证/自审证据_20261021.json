@@ -1,0 +1,80 @@
+{
+  "recorded_at": "2026-10-20T16:44:56.447194+00:00",
+  "scope": "3个内存合成扰动，复核设计校验边界；非真实模型、非内核、非新回归验收",
+  "source_fingerprints": [
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/验证/validate_facts.py",
+      "sha256": "7739222267a69e3c419abc3103ce33ebb4f579a51341411df9ce7245ab812009"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/契约/engineering-facts.schema.json",
+      "sha256": "479522380b5a85e3818dbfae65d175254c7adbf8ca38ec9ce34e99772c5e12be"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/设计样例/工程事实包.json",
+      "sha256": "4eaa8bc189e0c364d28d1db002ff96e219d4816211f13489c560265b7761b652"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/fixtures/contract_examples.json",
+      "sha256": "76162f857c67ce25e2a752c20810ecd989a38a7d336cea716d5e2e3e6fb73d23"
+    }
+  ],
+  "original_input_unchanged": true,
+  "probes": [
+    {
+      "case": "diameter_with_angle_unit",
+      "contract_result": "ACCEPTED_DESIGN_DRAFT",
+      "result": {
+        "contract_valid": true,
+        "sample_class": "DESIGN_SIMULATION",
+        "geometry_verified": false,
+        "engineering_approved": false,
+        "expression_evaluation": "NOT_IMPLEMENTED",
+        "unresolved_bindings": []
+      },
+      "semantic_conclusion": "现有附件没有实施该谓词/量纲检查；不得作为工程已核验输入"
+    },
+    {
+      "case": "topology_relation_replaced_by_scalar",
+      "contract_result": "ACCEPTED_DESIGN_DRAFT",
+      "result": {
+        "contract_valid": true,
+        "sample_class": "DESIGN_SIMULATION",
+        "geometry_verified": false,
+        "engineering_approved": false,
+        "expression_evaluation": "NOT_IMPLEMENTED",
+        "unresolved_bindings": []
+      },
+      "semantic_conclusion": "现有附件没有实施该谓词/量纲检查；不得作为工程已核验输入"
+    },
+    {
+      "case": "derived_addition_mixed_dimensions",
+      "contract_result": "ACCEPTED_DESIGN_DRAFT",
+      "result": {
+        "contract_valid": true,
+        "sample_class": "DESIGN_SIMULATION",
+        "geometry_verified": false,
+        "engineering_approved": false,
+        "expression_evaluation": "NOT_IMPLEMENTED",
+        "unresolved_bindings": []
+      },
+      "semantic_conclusion": "现有附件没有实施该谓词/量纲检查；不得作为工程已核验输入"
+    }
+  ],
+  "existing_attachment_suite": {
+    "command": [
+      "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/.venv-evidence/bin/python",
+      "-B",
+      "-m",
+      "unittest",
+      "discover",
+      "-s",
+      "验证",
+      "-v"
+    ],
+    "observed_exit_code": 0,
+    "output": "test_all_four_fact_domains_and_input_preservation (test_facts.FactTests.test_all_four_fact_domains_and_input_preservation) ... ok\ntest_assembly_instance_transform_and_cycle (test_facts.FactTests.test_assembly_instance_transform_and_cycle) ... ok\ntest_binding_alternatives_staleness_and_split_entities (test_facts.FactTests.test_binding_alternatives_staleness_and_split_entities) ... ok\ntest_fact_value_unknown_and_conflict (test_facts.FactTests.test_fact_value_unknown_and_conflict) ... ok\ntest_identity_scope_and_references (test_facts.FactTests.test_identity_scope_and_references) ... ok\ntest_parameter_dependency_and_frozen_scope (test_facts.FactTests.test_parameter_dependency_and_frozen_scope) ... ok\ntest_geometry_constraints_before_kernel (test_plan.PlanTests.test_geometry_constraints_before_kernel) ... ok\ntest_identity_units_and_source_scope (test_plan.PlanTests.test_identity_units_and_source_scope) ... ok\ntest_no_single_metric_or_misbound_requirement (test_plan.PlanTests.test_no_single_metric_or_misbound_requirement) ... ok\ntest_operation_dependencies_and_roles (test_plan.PlanTests.test_operation_dependencies_and_roles) ... ok\ntest_valid_design_is_not_execution_or_engineering_approval (test_plan.PlanTests.test_valid_design_is_not_execution_or_engineering_approval) ... ok\ntest_current_legacy_synthetic_bundle_still_valid (test_shared_compat.SharedCompatibilityTests.test_current_legacy_synthetic_bundle_still_valid) ... ok\ntest_current_real_a_preserves_identity_and_raw (test_shared_compat.SharedCompatibilityTests.test_current_real_a_preserves_identity_and_raw) ... ok\ntest_no_silent_new_fields_in_old_bundle (test_shared_compat.SharedCompatibilityTests.test_no_silent_new_fields_in_old_bundle) ... ok\ntest_old_scope_guards_survive_three_dimensional_extension (test_shared_compat.SharedCompatibilityTests.test_old_scope_guards_survive_three_dimensional_extension) ... ok\ntest_separate_design_entry_old_consumer_rejects_new_type (test_shared_compat.SharedCompatibilityTests.test_separate_design_entry_old_consumer_rejects_new_type) ... ok\n\n----------------------------------------------------------------------\nRan 16 tests in 0.035s\n\nOK\n",
+    "recorded_at": "2026-10-20T16:47:48.901390+00:00",
+    "scope": "既有设计附件回归；不覆盖新Wiki设计或生产语义检查"
+  }
+}

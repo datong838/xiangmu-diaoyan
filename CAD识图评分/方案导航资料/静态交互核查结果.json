@@ -1,0 +1,103 @@
+{
+  "ok": true,
+  "checks": [
+    {
+      "name": "脚本语法有效",
+      "passed": true
+    },
+    {
+      "name": "稳定ID唯一",
+      "passed": true
+    },
+    {
+      "name": "每个节点主树恰有一个位置",
+      "passed": true
+    },
+    {
+      "name": "全部关系端点存在",
+      "passed": true
+    },
+    {
+      "name": "初始视图只有九个分类分支",
+      "passed": true
+    },
+    {
+      "name": "Wiki按长期设计归类",
+      "passed": true
+    },
+    {
+      "name": "16实验设计不混入长期设计",
+      "passed": true
+    },
+    {
+      "name": "18实验设计不混入长期设计",
+      "passed": true
+    },
+    {
+      "name": "20实验设计不混入长期设计",
+      "passed": true
+    },
+    {
+      "name": "22实验设计不混入长期设计",
+      "passed": true
+    },
+    {
+      "name": "24实验设计不混入长期设计",
+      "passed": true
+    },
+    {
+      "name": "五对方案和结果有明确编排关系",
+      "passed": true
+    },
+    {
+      "name": "展开祖先可定位Wiki节点",
+      "passed": true
+    },
+    {
+      "name": "选择节点写入稳定深链",
+      "passed": true
+    },
+    {
+      "name": "标题搜索",
+      "passed": true
+    },
+    {
+      "name": "正文搜索独立开关",
+      "passed": true
+    },
+    {
+      "name": "搜索不存在项显示缺口",
+      "passed": true
+    },
+    {
+      "name": "预览渲染不执行源HTML",
+      "passed": true
+    },
+    {
+      "name": "模板无残留MES入口",
+      "passed": true
+    },
+    {
+      "name": "所有源入口当前存在",
+      "passed": true
+    },
+    {
+      "name": "附件类型显示为材料入口",
+      "passed": true
+    },
+    {
+      "name": "离线原文件链接使用相对路径",
+      "passed": true
+    },
+    {
+      "name": "局部关系图可生成",
+      "passed": true
+    },
+    {
+      "name": "浅深主题与缩放入口存在",
+      "passed": true
+    }
+  ],
+  "notes": "纯数据和函数检查，不替代浏览器视觉交互验证",
+  "nodes": 199
+}

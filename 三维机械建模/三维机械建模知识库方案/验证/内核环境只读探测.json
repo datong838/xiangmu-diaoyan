@@ -1,0 +1,28 @@
+{
+  "recorded_at": "2026-10-16T14:38:48.525936+00:00",
+  "probe": "read-only import discovery in existing evidence interpreter; no dependency installation or build",
+  "python": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/.venv-evidence/bin/python",
+  "python_version": "3.12.14",
+  "machine": "arm64",
+  "platform": "darwin",
+  "module_specs": {
+    "_omni_solid": {
+      "discoverable": false,
+      "origin": null
+    },
+    "usd_brep": {
+      "discoverable": false,
+      "origin": null
+    },
+    "pxr": {
+      "discoverable": false,
+      "origin": null
+    }
+  },
+  "limitations": [
+    "Default import path only; does not prove no other installation exists",
+    "No scan of build artifacts or system package directories",
+    "No geometry or rendering operation performed"
+  ],
+  "readiness": "NOT_READY_IN_PROBED_INTERPRETER"
+}

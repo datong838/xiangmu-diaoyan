@@ -1,0 +1,254 @@
+{
+  "date": "2026-10-15",
+  "scope": "目标态研发方案的资料引用与只读核查；未执行识图模型或回归",
+  "sources": [
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD三件套_方案文档/CAD判据库建设方案集.md",
+      "size": 20474,
+      "sha256": "a8042185c3e68512d76157610a23eb2f862955fa228e584db9963842c42a830e"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD三件套_方案文档/机械图纸知识库_资料源与采购方案.md",
+      "size": 15424,
+      "sha256": "a96db48b7eadbd61882087d6fff567ac0777df9e9be73405d9639c099ad2e957"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD三件套_方案文档/机械图纸案例库建设方案.md",
+      "size": 18753,
+      "sha256": "d1a697b229f9643ea1ee9285de88fc5ba054e77696d8ed9ea2fbffddbf89e389"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD三件套_方案文档/DXF到货验证报告_T01-T05正误变体.md",
+      "size": 13978,
+      "sha256": "73339a4b9cdd8b3dbe1219067145ecfe20dd7f3fc89ddac41462fa48970d60db"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD识图规范检查_第一阶段任务与目标.md",
+      "size": 11864,
+      "sha256": "cc76a7671ce9b5192ad348990236fd37edb971f97a2951485616dea42d3a287c"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/评分判据库/01_判据库设计.md",
+      "size": 2196,
+      "sha256": "d61da1634eef9041361b2e95c465cb335cd86ddaf800766d6d4c86ff52415851"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/评分判据库/11_OCR语义纠正与人工确认方案.md",
+      "size": 3579,
+      "sha256": "16b7f2cb83171953aca35f7e18226321763db750dba14fa1e2fff9e4766b4174"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/评分判据库/review/README.md",
+      "size": 1810,
+      "sha256": "e12ae64f2a28042c7c870c8faf10d72d836b3948028dea70edb13779f5caa101"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/高精度识图体系 · 五层流水线矩阵.html",
+      "size": 77227,
+      "sha256": "5c530c42b59ff71239dce43d7da4c429e2b1a065cbedf87bae68edce1ee3be02"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/OCR总体方案-MASTER.md",
+      "size": 63718,
+      "sha256": "62ca0c0331eee9c5c7f6b4dc6dfea3079bf464facb5de1e925505d2c88803db0"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/HANDOFF-CODEX-20261013.md",
+      "size": 19280,
+      "sha256": "79563ef18eadebdda91e62f81c53f259082280742ad410a4122d544f96a070c0"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/EXPERIENCE-DATA.md",
+      "size": 88352,
+      "sha256": "de09157266d57d9c17953cdd377fb2657662f4d8313cf9ced28b670a84cb2ce2"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/audit_triax.py",
+      "size": 17696,
+      "sha256": "8e7884dfb7f62fa6185f0a0bb00376a25f0b73fd7195ab9cb09a6cbd4d2a517f"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/ocr_pipeline.py",
+      "size": 43842,
+      "sha256": "a633049292b3630d70b5daccfb043c1f76d1f511394b25797b57a4a1fdf2f4b3"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/l0g_dxf_truth.py",
+      "size": 11211,
+      "sha256": "a38febcd47e9eb82176b4970e2c9e6b95571e4ebfea2ffdf445495f166121d45"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/DWG与ASCII_DXF_完整性及丢失核查.md",
+      "size": 7753,
+      "sha256": "78d96fec03180e0bf2b34b749a57b6683c3a58657dc41764605daa4357fdcd33"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/testdata/_codex_dwg_audit_20261014/图框标题栏_变体目录.json",
+      "size": 5023,
+      "sha256": "9921214c0ae42197086d489b040e90d3bea589bf2a34cd603285b6d3186f71f4"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/testdata/_codex_dwg_audit_20261014/核查汇总.json",
+      "size": 2362,
+      "sha256": "fb1aa94eda9883b872e9a799fb745a6048df25bef6f534a52b02d9716ea41551"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/R3-CHECKLIST.md",
+      "size": 9161,
+      "sha256": "b444310521e741b9d6af5978bd861de2126e2f822627366c2beb6234021e02c3"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/testdata/_codex_compare_20261013/comparison_data.json",
+      "size": 38832,
+      "sha256": "c78a12efeaeeb0708a1281fef1c90d81912d1d1153b63b9ed775e891c62bc255"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/AI零件图审核要求（图纸：T01-T05）.docx",
+      "size": 2270420,
+      "sha256": "7b1e38262ed1725170dbe26a775d4a7fb4dd64f28d4d32148751b05e73d100f8"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/CAD图纸集_T01-T05.dwg",
+      "size": 1113978,
+      "sha256": "d6a4ed6cc80ad1b35daa74714c6bb78dd9bb746c03f9133aecbb3a7d437a9751"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/CAD图纸集_T01-T05.dxf",
+      "size": 8802931,
+      "sha256": "0e8393aa2a12516ad061f01bbf75e05849385f00f49e64f627ef16d04368ea05"
+    }
+  ],
+  "missing_source_paths": [],
+  "engine_git_head": "4a4506c93affe51f1c6671e59e2102294d4f9414",
+  "dxf_read_only_checks": {
+    "modelspace_entities": 1306,
+    "dimension_count": 137,
+    "proxy_entities": 103,
+    "symbol_layer_types": {
+      "ACAD_PROXY_ENTITY": 94,
+      "CIRCLE": 4,
+      "MTEXT": 6,
+      "LINE": 10,
+      "SOLID": 2
+    },
+    "angles": [
+      {
+        "handle": "704",
+        "template": "",
+        "actual_measurement_raw": 0.5235987755982985,
+        "ezdxf_get_measurement": 330.0000000000003,
+        "warning": "缓存值、角度单位/方向和实际显示需核准，不直接作为设计角度真值"
+      },
+      {
+        "handle": "16BA",
+        "template": "{90%%d}",
+        "actual_measurement_raw": 0.5235987755982985,
+        "ezdxf_get_measurement": 330.00000000000153,
+        "warning": "缓存值、角度单位/方向和实际显示需核准，不直接作为设计角度真值"
+      },
+      {
+        "handle": "1CE2",
+        "template": "",
+        "actual_measurement_raw": 1.047197551196599,
+        "ezdxf_get_measurement": 300.00000000000045,
+        "warning": "缓存值、角度单位/方向和实际显示需核准，不直接作为设计角度真值"
+      },
+      {
+        "handle": "1F8C",
+        "template": "{90%%d}",
+        "actual_measurement_raw": 1.047197551196598,
+        "ezdxf_get_measurement": 300.00000000000057,
+        "warning": "缓存值、角度单位/方向和实际显示需核准，不直接作为设计角度真值"
+      }
+    ]
+  },
+  "corrections_required_in_older_sources": [
+    "DXF到货报告§4.3组9/10图号T02与标题栏T05冲突",
+    "9行DIMENSION分组计数合计136与137不符",
+    "符号层116个实体并非全部代理",
+    "角度接口330/300与缓存弧度0.5236/1.0472不同",
+    "源混合正误变体且T03正确源尚未核准"
+  ],
+  "production_code_modified": false,
+  "paid_vision_api_calls": 0,
+  "benchmark_overwritten": false,
+  "v1_1_update_20261015": {
+    "scope": "全文阅读基础上独立完善方案，本轮静态复读关键代码",
+    "plan_sha256": "3fc70bb9fc67d67c9b3a3609a743083a15b88c01b53a3c6c03331ce22d6482cb",
+    "plan_lines": 817,
+    "sources_snapshot": [
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/CAD判据库建设方案集.md",
+        "sha256": "a8042185c3e68512d76157610a23eb2f862955fa228e584db9963842c42a830e"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/CAD图纸审查_可解释证明体系.md",
+        "sha256": "4572c5443a3aa5d20a38c0cb08bff45aa8652f922dac691c02d9d81d29f0198e"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/CAD图纸审查_评测与验证体系.md",
+        "sha256": "a3c683747b36535842626c8658174c474f2839166b8308ddd65e952ac1292212"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/CAD图纸智能审查系统_工程实施方案.md",
+        "sha256": "3edd13fe49eb39067c7882b3b0e8c496f6202dc059807bc93c172cc8ed6ae2fb"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/CAD图纸智能审查系统_目标态建设技术方案.md",
+        "sha256": "a587c3afd73c2822e850188bf7dc318e0ce676ba220f04f8436df7e5dfb149d1"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/CAD第一阶段_资料与规则复核报告_32项.md",
+        "sha256": "d89f19c0c6e8105262644291e40dfd159d604db82c4c3240ea06906327b00e72"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/DXF到货验证报告_T01-T05正误变体.md",
+        "sha256": "73339a4b9cdd8b3dbe1219067145ecfe20dd7f3fc89ddac41462fa48970d60db"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/待补资料清单_第三轮.md",
+        "sha256": "9fb3d283b550c724672f01ca9b0f3032389e1ad69f77445ea6d56d1fb824f8f1"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/机械图纸案例库建设方案.md",
+        "sha256": "d1a697b229f9643ea1ee9285de88fc5ba054e77696d8ed9ea2fbffddbf89e389"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/机械图纸知识库_资料源与采购方案.md",
+        "sha256": "7004eaa2c5a784227d2166ef8a253a00cf78a03856d0c885f0b6180abcf58ce8"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/标准PDF文本层检测.py",
+        "sha256": "2aa3c7dd71541e13b1b1b06df416535fdcf86925b17520a16d00f6468894665e"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/高精度识图体系 · 五层流水线矩阵.html",
+        "sha256": "5c530c42b59ff71239dce43d7da4c429e2b1a065cbedf87bae68edce1ee3be02"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/ocr_pipeline.py",
+        "sha256": "a633049292b3630d70b5daccfb043c1f76d1f511394b25797b57a4a1fdf2f4b3"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/l0g_truth_check.py",
+        "sha256": "0c9b7791767ce238202ce50a09666ffdbefe2f460fafd1308803da195a4ba1a2"
+      },
+      {
+        "path": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/audit_triax.py",
+        "sha256": "8e7884dfb7f62fa6185f0a0bb00376a25f0b73fd7195ab9cb09a6cbd4d2a517f"
+      }
+    ],
+    "source_revision_observed": "全套目录知识库资料源方案新增机械设计手册采购计划，已补读全部差异；未执行采购",
+    "checks": {
+      "local_links_exist": 33,
+      "source_definitions": 20,
+      "unique_subsections": 62,
+      "balanced_fences": true,
+      "semantic_review": "阶段边界、A/B与C关系、识读与违规、状态与覆盖、依赖失效、建议及复检、P0范围、分母和研发切片已审校"
+    },
+    "production_code_modified": false,
+    "benchmark_overwritten": false,
+    "paid_vision_api_calls": 0,
+    "remaining": "待详细设计与实际能力验证，不代表算法和产品效果已验收"
+  }
+}

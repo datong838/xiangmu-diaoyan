@@ -1,0 +1,122 @@
+[
+  {
+    "id": "T01-2",
+    "status": "PENDING_REVERIFY",
+    "reason": "旧匹配算法与引文已更改，旧通过状态撤销；本轮未重新执行OCR。请看context完整原页。",
+    "semantic_support": "see_review_claims_audit"
+  },
+  {
+    "id": "T01-2b",
+    "status": "PENDING_REVERIFY",
+    "reason": "旧匹配算法与引文已更改，旧通过状态撤销；本轮未重新执行OCR。请看context完整原页。",
+    "semantic_support": "see_review_claims_audit"
+  },
+  {
+    "id": "T05-1",
+    "status": "PENDING_REVERIFY",
+    "reason": "旧匹配算法与引文已更改，旧通过状态撤销；本轮未重新执行OCR。请看context完整原页。",
+    "semantic_support": "see_review_claims_audit"
+  },
+  {
+    "id": "T05-2",
+    "status": "PENDING_REVERIFY",
+    "reason": "旧匹配算法与引文已更改，旧通过状态撤销；本轮未重新执行OCR。请看context完整原页。",
+    "semantic_support": "see_review_claims_audit"
+  },
+  {
+    "id": "T04-2",
+    "status": "PENDING_REVERIFY",
+    "reason": "旧匹配算法与引文已更改，旧通过状态撤销；本轮未重新执行OCR。请看context完整原页。",
+    "semantic_support": "see_review_claims_audit"
+  },
+  {
+    "id": "T04-6",
+    "status": "PENDING_REVERIFY",
+    "reason": "旧匹配算法与引文已更改，旧通过状态撤销；本轮未重新执行OCR。请看context完整原页。",
+    "semantic_support": "see_review_claims_audit"
+  },
+  {
+    "id": "T02-6",
+    "status": "PENDING_REVERIFY",
+    "reason": "旧匹配算法与引文已更改，旧通过状态撤销；本轮未重新执行OCR。请看context完整原页。",
+    "semantic_support": "see_review_claims_audit"
+  },
+  {
+    "id": "T01-7",
+    "status": "PENDING_REVERIFY",
+    "reason": "旧匹配算法与引文已更改，旧通过状态撤销；本轮未重新执行OCR。请看context完整原页。",
+    "semantic_support": "see_review_claims_audit"
+  },
+  {
+    "id": "T01-8",
+    "status": "PENDING_REVERIFY",
+    "reason": "旧匹配算法与引文已更改，旧通过状态撤销；本轮未重新执行OCR。请看context完整原页。",
+    "semantic_support": "see_review_claims_audit"
+  },
+  {
+    "id": "T02-5",
+    "status": "PENDING_REVERIFY",
+    "reason": "旧匹配算法与引文已更改，旧通过状态撤销；本轮未重新执行OCR。请看context完整原页。",
+    "semantic_support": "see_review_claims_audit"
+  },
+  {
+    "id": "T03-6",
+    "status": "PENDING_REVERIFY",
+    "reason": "旧匹配算法与引文已更改，旧通过状态撤销；本轮未重新执行OCR。请看context完整原页。",
+    "semantic_support": "see_review_claims_audit"
+  },
+  {
+    "id": "T05-5",
+    "status": "PENDING_REVERIFY",
+    "reason": "旧匹配算法与引文已更改，旧通过状态撤销；本轮未重新执行OCR。请看context完整原页。",
+    "semantic_support": "see_review_claims_audit"
+  },
+  {
+    "id": "T03-1",
+    "status": "PENDING_REVERIFY",
+    "reason": "旧匹配算法与引文已更改，旧通过状态撤销；本轮未重新执行OCR。请看context完整原页。",
+    "semantic_support": "see_review_claims_audit"
+  },
+  {
+    "id": "T01-5",
+    "status": "PENDING_REVERIFY",
+    "reason": "旧匹配算法与引文已更改，旧通过状态撤销；本轮未重新执行OCR。请看context完整原页。",
+    "semantic_support": "see_review_claims_audit"
+  },
+  {
+    "id": "T01-3",
+    "status": "PENDING_REVERIFY",
+    "reason": "旧匹配算法与引文已更改，旧通过状态撤销；本轮未重新执行OCR。请看context完整原页。",
+    "semantic_support": "see_review_claims_audit"
+  },
+  {
+    "id": "T03-3",
+    "status": "PENDING_REVERIFY",
+    "reason": "旧匹配算法与引文已更改，旧通过状态撤销；本轮未重新执行OCR。请看context完整原页。",
+    "semantic_support": "see_review_claims_audit"
+  },
+  {
+    "id": "T04-1",
+    "status": "PENDING_REVERIFY",
+    "reason": "旧匹配算法与引文已更改，旧通过状态撤销；本轮未重新执行OCR。请看context完整原页。",
+    "semantic_support": "see_review_claims_audit"
+  },
+  {
+    "id": "T04-3",
+    "status": "PENDING_REVERIFY",
+    "reason": "旧匹配算法与引文已更改，旧通过状态撤销；本轮未重新执行OCR。请看context完整原页。",
+    "semantic_support": "see_review_claims_audit"
+  },
+  {
+    "id": "T05-3",
+    "status": "PENDING_REVERIFY",
+    "reason": "旧匹配算法与引文已更改，旧通过状态撤销；本轮未重新执行OCR。请看context完整原页。",
+    "semantic_support": "see_review_claims_audit"
+  },
+  {
+    "id": "T05-6",
+    "status": "PENDING_REVERIFY",
+    "reason": "旧匹配算法与引文已更改，旧通过状态撤销；本轮未重新执行OCR。请看context完整原页。",
+    "semantic_support": "see_review_claims_audit"
+  }
+]

@@ -1,0 +1,38 @@
+# 复核卡 T05-6（自包含，无需我方上下文）
+#   ★ 本类核查的是「引文是否真在声称页上、条款是否适用」——有原文可锚，可机器验。
+audit:
+  date: '2026-10-08'
+  verdict: 通过
+  reason: 保留§6.1原页及图形；需要跨视图结构关联。
+  method: 源资料上下文审查；非盲复核，非多专家共识
+path_base: 评分判据库根目录
+id: T05-6
+claim: 按剖切位置、方向及剖切方式核对所得剖视结构；仅看剖切位置一个点不足以判断。
+basis_type: standard
+evidence:
+- type: 引文（逐字）
+  text: 在相应的视图上用剖切符号表示剖切位置和投射方向
+- type: 条款
+  std: GB/T 4458.6-2002
+  title: 机械制图 图样画法 剖视图和断面图
+  clause: §6.1
+  pdf_page: 14
+- type: 机器校验
+  status: PENDING_REVERIFY
+- type: 完整上下文原页
+  file: evidence/cards/T05-6/context_14.png
+  pdf_page: 14
+- type: 客户正确图
+  file: ../工程图审核/T05_轴承盖-正确图纸.pdf
+- type: 客户错误图
+  file: ../工程图审核/T05_轴承盖-错误图纸.pdf
+- type: 原始标准全文
+  file: ../国标/GBT_4458.6-2002_机械制图_图样画法_剖视图和断面图.pdf
+my_conclusion: hypothesis
+question_for_reviewer: 分别核对引文、条款/图例支持、适用条件、合法例外及本例。保留§6.1原页及图形；需要跨视图结构关联。
+reviewer_output:
+  verdict: ''
+  reason: ''
+  evidence: ''
+  suggested_fix: ''
+  independent_first: ''

@@ -1,0 +1,750 @@
+[
+  {
+    "check": "完整引文精确匹配",
+    "result": "PASS"
+  },
+  {
+    "check": "前半句相同后半句错误不精确通过",
+    "result": "PASS"
+  },
+  {
+    "check": "OCR短前缀不能精确通过",
+    "result": "PASS"
+  },
+  {
+    "check": "跨位置分段不能拼成精确通过",
+    "result": "PASS"
+  },
+  {
+    "check": "完整连续OCR全句匹配",
+    "result": "PASS"
+  },
+  {
+    "check": "缺OCR明确不可用",
+    "result": "PASS"
+  },
+  {
+    "check": "缺OCR目录不崩溃",
+    "result": "PASS"
+  },
+  {
+    "check": "缺原PDF返回不可用",
+    "result": "PASS"
+  },
+  {
+    "check": "35张卡",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:R01.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:review/pack_v1/_probe/page_11.png",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:T01-8.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T01-8/context_6.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T01_矩形花键套-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T01_矩形花键套-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../国标/GBT_4458.5-2003_机械制图_尺寸公差与配合注法.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:C-L3-CONSISTENCY-001.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:review/pack_v1/_cases/T03_error.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:review/pack_v1/_cases/T04_error.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T03_传动箱-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T03_传动箱-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T04_顶尖-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T04_顶尖-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:T05-3.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T05-3/context_3.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T05-3/context_4.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T05-3/context_6.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T05-3/context_7.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T05-3/context_8.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T05_轴承盖-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T05_轴承盖-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../国标/GBT_4457.5-2013_机械制图_剖面区域的表示法.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:T01-5.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T01-5/context_4.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T01-5/context_6.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T01_矩形花键套-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T01_矩形花键套-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../国标/GBT_4457.5-2013_机械制图_剖面区域的表示法.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:T05-2.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T05-2/context_19.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T05_轴承盖-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T05_轴承盖-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../国标/GBT_4458.6-2002_机械制图_图样画法_剖视图和断面图.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:T04-6.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T04-6/context_19.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T04-6/context_20.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T04_顶尖-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T04_顶尖-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../国标/GBT_4458.6-2002_机械制图_图样画法_剖视图和断面图.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:C-L2-DIMCOMPLETE-001.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:review/pack_v1/_cases/T01_error.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:review/pack_v1/_cases/T02_error.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:review/pack_v1/_cases/T03_error.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:review/pack_v1/_cases/T05_error.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T01_矩形花键套-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T01_矩形花键套-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T02_端盖-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T02_端盖-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T03_传动箱-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T03_传动箱-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T05_轴承盖-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T05_轴承盖-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:T03-3.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T03-3/context_6.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T03_传动箱-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T03_传动箱-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../国标/GBT_4458.5-2003_机械制图_尺寸公差与配合注法.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:W-T02-1.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T02_端盖-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T02_端盖-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:T04-1.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T04-1/context_4.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T04_顶尖-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T04_顶尖-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../国标/GBT_4458.4-2003_机械制图_尺寸注法.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:T05-5.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T05-5/context_5.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T05-5/context_6.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T05_轴承盖-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T05_轴承盖-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../国标/GBT_4457.4-2002_机械制图_图样画法_图线.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:T01-2.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T01-2/context_4.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T01_矩形花键套-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T01_矩形花键套-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../国标/GBT_4458.4-2003_机械制图_尺寸注法.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:T01-2b.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T01-2b/context_8.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T01_矩形花键套-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T01_矩形花键套-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../国标/GBT_4458.4-2003_机械制图_尺寸注法.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:N-L1-CLOSEDCHAIN-001.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:review/pack_v1/_audit/4458.4_p4.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:review/pack_v1/_audit/4458.4_p11.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:review/pack_v1/_audit/4458.4_p12.png",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:T01-3.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T01-3/context_6.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T01-3/context_7.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T01-3/context_8.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T01_矩形花键套-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T01_矩形花键套-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../国标/GB-T_4459.3-2000_机械制图_花键表示法.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:T02-6.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T02-6/context_6.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T02_端盖-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T02_端盖-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../国标/GBT_4458.1-2002_机械制图_图样画法_视图.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:T04-3.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T04-3/context_5.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T04_顶尖-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T04_顶尖-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../国标/GBT_4457.4-2002_机械制图_图样画法_图线.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:T03-1.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T03-1/context_4.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T03_传动箱-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T03_传动箱-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../国标/GBT_4457.5-2013_机械制图_剖面区域的表示法.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:W-T01-6.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T01_矩形花键套-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T01_矩形花键套-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:T02-5.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T02-5/context_5.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T02_端盖-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T02_端盖-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../国标/GBT_4457.4-2002_机械制图_图样画法_图线.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:C-L1-CLOSEDCHAIN-001.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:review/pack_v1/_cases/T01_error.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T01_矩形花键套-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T01_矩形花键套-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:W-T04-4.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T04_顶尖-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T04_顶尖-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:T04-2.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T04-2/context_16.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T04-2/context_17.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T04-2/context_18.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T04-2/context_19.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T04_顶尖-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T04_顶尖-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../国标/GBT_4458.6-2002_机械制图_图样画法_剖视图和断面图.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:W-T02-2.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T02_端盖-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T02_端盖-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:T05-6.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T05-6/context_14.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T05_轴承盖-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T05_轴承盖-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../国标/GBT_4458.6-2002_机械制图_图样画法_剖视图和断面图.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:T05-1.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T05-1/context_11.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T05_轴承盖-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T05_轴承盖-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../国标/GBT_4458.4-2003_机械制图_尺寸注法.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:N-L3-CONSISTENCY-001.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:review/pack_v1/_audit/4458.4_p4.png",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:N-L2-PROJECTION-001.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:review/pack_v1/_audit/4458.1_p3.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:review/pack_v1/_audit/4458.1_p4.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:review/pack_v1/_audit/4458.1_p7.png",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:T03-6.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T03-6/context_5.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T03_传动箱-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T03_传动箱-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../国标/GBT_4457.4-2002_机械制图_图样画法_图线.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:W-T02-4.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T02_端盖-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T02_端盖-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:T01-7.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T01-7/context_3.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T01-7/context_4.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:evidence/cards/T01-7/context_5.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T01_矩形花键套-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T01_矩形花键套-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../国标/GBT_4458.1-2002_机械制图_图样画法_视图.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:R02.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:review/pack_v1/_probe/page_3.png",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:C-L2-PROJECTION-001.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:review/pack_v1/_cases/T03_error.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T03_传动箱-正确图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:../工程图审核/T03_传动箱-错误图纸.pdf",
+    "result": "PASS"
+  },
+  {
+    "check": "YAML编号:N-L2-DIMCOMPLETE-001.yaml",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:review/pack_v1/_audit/4458.4_p4.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:review/pack_v1/_audit/4458.4_p11.png",
+    "result": "PASS"
+  },
+  {
+    "check": "引用存在:review/pack_v1/_audit/4458.4_p12.png",
+    "result": "PASS"
+  },
+  {
+    "check": "32条客户标签全部有审核入口",
+    "result": "PASS"
+  },
+  {
+    "check": "机器旧通过全部撤销",
+    "result": "PASS"
+  },
+  {
+    "check": "CLI缺标准不得给零命中证明",
+    "result": "PASS"
+  }
+]

@@ -1,0 +1,63 @@
+{
+  "python": "3.9.6",
+  "system": "macOS-27.0.1-arm64-arm-64bit",
+  "versions": {
+    "PyMuPDF": "1.26.5",
+    "pdfplumber": "0.11.8",
+    "pdfminer.six": "0.0",
+    "rapidocr": "3.10.0",
+    "rapidocr-onnxruntime": "1.4.4",
+    "onnxruntime": "1.19.2",
+    "numpy": "2.0.2"
+  },
+  "ocr_models": [
+    {
+      "file": "/tmp/cad-audit-libs/rapidocr_onnxruntime/models/ch_ppocr_mobile_v2.0_cls_infer.onnx",
+      "sha256": "e47acedf663230f8863ff1ab0e64dd2d82b838fceb5957146dab185a89d6215c",
+      "used_in_this_full_run": true
+    },
+    {
+      "file": "/tmp/cad-audit-libs/rapidocr_onnxruntime/models/ch_PP-OCRv4_det_infer.onnx",
+      "sha256": "d2a7720d45a54257208b1e13e36a8479894cb74155a5efe29462512d42f49da9",
+      "used_in_this_full_run": true
+    },
+    {
+      "file": "/tmp/cad-audit-libs/rapidocr_onnxruntime/models/ch_PP-OCRv4_rec_infer.onnx",
+      "sha256": "48fc40f24f6d2a207a2b1091d3437eb3cc3eb6b676dc3ef9c37384005483683b",
+      "used_in_this_full_run": true
+    },
+    {
+      "file": "/tmp/cad-audit-v5/rapidocr/models/ch_PP-OCRv5_rec_mobile.onnx",
+      "sha256": "5825fc7ebf84ae7a412be049820b4d86d77620f204a041697b0494669b1742c5",
+      "used_in_this_full_run": true
+    },
+    {
+      "file": "/tmp/cad-audit-v5/rapidocr/models/ch_PP-OCRv5_det_mobile.onnx",
+      "sha256": "4d97c44a20d30a81aad087d6a396b08f786c4635742afc391f6621f5c6ae78ae",
+      "used_in_this_full_run": true
+    },
+    {
+      "file": "/tmp/cad-audit-v5/rapidocr/models/PP-OCRv6_det_small.onnx",
+      "sha256": "090f04abcd9d9a7498bc4ebf677e4cb9bdce1fe4197ddb7e529f1ef44e1ff94f",
+      "used_in_this_full_run": false
+    },
+    {
+      "file": "/tmp/cad-audit-v5/rapidocr/models/ch_ppocr_mobile_v2.0_cls_mobile.onnx",
+      "sha256": "e47acedf663230f8863ff1ab0e64dd2d82b838fceb5957146dab185a89d6215c",
+      "used_in_this_full_run": true
+    },
+    {
+      "file": "/tmp/cad-audit-v5/rapidocr/models/PP-OCRv6_rec_small.onnx",
+      "sha256": "6f327246b50388f3c176ae304bd95767ea6dc0c9ae92153ef8cbe210b3c14884",
+      "used_in_this_full_run": false
+    }
+  ],
+  "config": {
+    "dpi": 180,
+    "v4": "PP-OCRv4 local ONNX",
+    "v5": "PP-OCRv5 MOBILE explicit enums, not package default v6",
+    "vision": "accurate zh-Hans/en-US, languageCorrection=false",
+    "network": "download public model weights only; no client PDF uploads",
+    "scope": "same source raster, not independent authoritative sources"
+  }
+}

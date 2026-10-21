@@ -1,0 +1,533 @@
+[
+  {
+    "file": "GBT 15754-2025 产品几何技术规范 尺寸和公差标注 圆锥.pdf",
+    "requested_pages": 27,
+    "engines": {
+      "v4": {
+        "statuses": {
+          "OK": 27
+        },
+        "missing_pages": []
+      },
+      "v5": {
+        "statuses": {
+          "OK": 27
+        },
+        "missing_pages": []
+      },
+      "vision": {
+        "statuses": {
+          "OK": 27
+        },
+        "missing_pages": []
+      }
+    }
+  },
+  {
+    "file": "GB_T 1182-2018 产品几何技术规范（GPS） 几何公差 形状、方向、位置和跳动公差标注.pdf",
+    "requested_pages": 132,
+    "engines": {
+      "v4": {
+        "statuses": {
+          "OK": 129,
+          "EMPTY": 3
+        },
+        "missing_pages": []
+      },
+      "v5": {
+        "statuses": {
+          "OK": 129,
+          "EMPTY": 3
+        },
+        "missing_pages": []
+      },
+      "vision": {
+        "statuses": {
+          "OK": 129,
+          "EMPTY": 3
+        },
+        "missing_pages": []
+      }
+    }
+  },
+  {
+    "file": "GB_T 131-2006 产品几何技术规范(GPS) 技术产品文件中表面结构的表示法.pdf",
+    "requested_pages": 39,
+    "engines": {
+      "v4": {
+        "statuses": {
+          "OK": 39
+        },
+        "missing_pages": []
+      },
+      "v5": {
+        "statuses": {
+          "OK": 39
+        },
+        "missing_pages": []
+      },
+      "vision": {
+        "statuses": {
+          "OK": 39
+        },
+        "missing_pages": []
+      }
+    }
+  },
+  {
+    "file": "GB_T 1800.1-2020 产品几何技术规范（GPS） 线性尺寸公差ISO代号体系 第1部分：公差、偏差和配合的基础.pdf",
+    "requested_pages": 36,
+    "engines": {
+      "v4": {
+        "statuses": {
+          "OK": 36
+        },
+        "missing_pages": []
+      },
+      "v5": {
+        "statuses": {
+          "OK": 36
+        },
+        "missing_pages": []
+      },
+      "vision": {
+        "statuses": {
+          "OK": 36
+        },
+        "missing_pages": []
+      }
+    }
+  },
+  {
+    "file": "T01_矩形花键套-正确图纸.pdf",
+    "requested_pages": 1,
+    "engines": {
+      "v4": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      },
+      "v5": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      },
+      "vision": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      }
+    }
+  },
+  {
+    "file": "T01_矩形花键套-错误图纸.pdf",
+    "requested_pages": 1,
+    "engines": {
+      "v4": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      },
+      "v5": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      },
+      "vision": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      }
+    }
+  },
+  {
+    "file": "T02_端盖-正确图纸.pdf",
+    "requested_pages": 1,
+    "engines": {
+      "v4": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      },
+      "v5": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      },
+      "vision": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      }
+    }
+  },
+  {
+    "file": "T02_端盖-错误图纸.pdf",
+    "requested_pages": 1,
+    "engines": {
+      "v4": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      },
+      "v5": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      },
+      "vision": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      }
+    }
+  },
+  {
+    "file": "T03_传动箱-正确图纸.pdf",
+    "requested_pages": 1,
+    "engines": {
+      "v4": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      },
+      "v5": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      },
+      "vision": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      }
+    }
+  },
+  {
+    "file": "T03_传动箱-错误图纸.pdf",
+    "requested_pages": 1,
+    "engines": {
+      "v4": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      },
+      "v5": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      },
+      "vision": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      }
+    }
+  },
+  {
+    "file": "T04_顶尖-正确图纸.pdf",
+    "requested_pages": 1,
+    "engines": {
+      "v4": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      },
+      "v5": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      },
+      "vision": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      }
+    }
+  },
+  {
+    "file": "T04_顶尖-错误图纸.pdf",
+    "requested_pages": 1,
+    "engines": {
+      "v4": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      },
+      "v5": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      },
+      "vision": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      }
+    }
+  },
+  {
+    "file": "T05_轴承盖-正确图纸.pdf",
+    "requested_pages": 1,
+    "engines": {
+      "v4": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      },
+      "v5": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      },
+      "vision": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      }
+    }
+  },
+  {
+    "file": "T05_轴承盖-错误图纸.pdf",
+    "requested_pages": 1,
+    "engines": {
+      "v4": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      },
+      "v5": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      },
+      "vision": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      }
+    }
+  },
+  {
+    "file": "GBT_4458.4-2003_机械制图_尺寸注法.pdf",
+    "requested_pages": 4,
+    "engines": {
+      "v4": {
+        "statuses": {
+          "OK": 4
+        },
+        "missing_pages": []
+      },
+      "v5": {
+        "statuses": {
+          "OK": 4
+        },
+        "missing_pages": []
+      },
+      "vision": {
+        "statuses": {
+          "OK": 4
+        },
+        "missing_pages": []
+      }
+    }
+  },
+  {
+    "file": "GBT_4458.6-2002_机械制图_图样画法_剖视图和断面图.pdf",
+    "requested_pages": 6,
+    "engines": {
+      "v4": {
+        "statuses": {
+          "OK": 6
+        },
+        "missing_pages": []
+      },
+      "v5": {
+        "statuses": {
+          "OK": 6
+        },
+        "missing_pages": []
+      },
+      "vision": {
+        "statuses": {
+          "OK": 6
+        },
+        "missing_pages": []
+      }
+    }
+  },
+  {
+    "file": "GBT_4458.1-2002_机械制图_图样画法_视图.pdf",
+    "requested_pages": 4,
+    "engines": {
+      "v4": {
+        "statuses": {
+          "OK": 4
+        },
+        "missing_pages": []
+      },
+      "v5": {
+        "statuses": {
+          "OK": 4
+        },
+        "missing_pages": []
+      },
+      "vision": {
+        "statuses": {
+          "OK": 4
+        },
+        "missing_pages": []
+      }
+    }
+  },
+  {
+    "file": "GBT_4458.5-2003_机械制图_尺寸公差与配合注法.pdf",
+    "requested_pages": 1,
+    "engines": {
+      "v4": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      },
+      "v5": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      },
+      "vision": {
+        "statuses": {
+          "OK": 1
+        },
+        "missing_pages": []
+      }
+    }
+  },
+  {
+    "file": "GBT_4457.4-2002_机械制图_图样画法_图线.pdf",
+    "requested_pages": 2,
+    "engines": {
+      "v4": {
+        "statuses": {
+          "OK": 2
+        },
+        "missing_pages": []
+      },
+      "v5": {
+        "statuses": {
+          "OK": 2
+        },
+        "missing_pages": []
+      },
+      "vision": {
+        "statuses": {
+          "OK": 2
+        },
+        "missing_pages": []
+      }
+    }
+  },
+  {
+    "file": "GBT_4457.5-2013_机械制图_剖面区域的表示法.pdf",
+    "requested_pages": 5,
+    "engines": {
+      "v4": {
+        "statuses": {
+          "OK": 5
+        },
+        "missing_pages": []
+      },
+      "v5": {
+        "statuses": {
+          "OK": 5
+        },
+        "missing_pages": []
+      },
+      "vision": {
+        "statuses": {
+          "OK": 5
+        },
+        "missing_pages": []
+      }
+    }
+  },
+  {
+    "file": "GB-T_4459.3-2000_机械制图_花键表示法.pdf",
+    "requested_pages": 3,
+    "engines": {
+      "v4": {
+        "statuses": {
+          "OK": 3
+        },
+        "missing_pages": []
+      },
+      "v5": {
+        "statuses": {
+          "OK": 3
+        },
+        "missing_pages": []
+      },
+      "vision": {
+        "statuses": {
+          "OK": 3
+        },
+        "missing_pages": []
+      }
+    }
+  },
+  {
+    "file": "GBT_4459.1-1995_机械制图_螺纹及螺纹紧固件表示法.pdf",
+    "requested_pages": 4,
+    "engines": {
+      "v4": {
+        "statuses": {
+          "OK": 4
+        },
+        "missing_pages": []
+      },
+      "v5": {
+        "statuses": {
+          "OK": 4
+        },
+        "missing_pages": []
+      },
+      "vision": {
+        "statuses": {
+          "OK": 4
+        },
+        "missing_pages": []
+      }
+    }
+  }
+]

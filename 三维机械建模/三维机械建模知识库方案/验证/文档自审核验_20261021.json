@@ -1,0 +1,47 @@
+{
+  "recorded_at": "2026-10-20T16:52:53.658688+00:00",
+  "scope": "文档静态核对、导航局部回归；不验证工程能力或新Wiki实现",
+  "local_markdown_links_missing": [],
+  "unclosed_code_fences": [],
+  "new_page_table_column_errors": [],
+  "source_implementation_and_input_fingerprints": [
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/验证/validate_facts.py",
+      "sha256": "7739222267a69e3c419abc3103ce33ebb4f579a51341411df9ce7245ab812009",
+      "unchanged": true
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/契约/engineering-facts.schema.json",
+      "sha256": "479522380b5a85e3818dbfae65d175254c7adbf8ca38ec9ce34e99772c5e12be",
+      "unchanged": true
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/设计样例/工程事实包.json",
+      "sha256": "4eaa8bc189e0c364d28d1db002ff96e219d4816211f13489c560265b7761b652",
+      "unchanged": true
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/fixtures/contract_examples.json",
+      "sha256": "76162f857c67ce25e2a752c20810ecd989a38a7d336cea716d5e2e3e6fb73d23",
+      "unchanged": true
+    }
+  ],
+  "open_start_items": 10,
+  "wiki_scenarios": {
+    "count": 12,
+    "status": "NOT_RUN"
+  },
+  "navigation_regression": {
+    "test_methods": 9,
+    "exit_code": 0,
+    "scope": "阅读导航与源变更保护"
+  },
+  "new_navigation_classifications_verified": true,
+  "existing_attachment_regression": {
+    "test_methods": 16,
+    "exit_code": 0,
+    "new_semantic_negatives_fixed": false
+  },
+  "engineering_kernel_run_this_turn": false,
+  "knowledge_compilation_run_this_turn": false
+}

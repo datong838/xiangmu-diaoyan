@@ -1,0 +1,55 @@
+{
+  "revision": "KB-DESIGN-001",
+  "archived_at": "2026-10-16T14:27:54.891657+08:00",
+  "purpose": "保留本轮重构前内容，不是冻结依据",
+  "files": [
+    {
+      "file": "00-编制工作方案.md",
+      "sha256": "8b79630c4a7207c44c1b9e30c8ef22331356c1a46b489779c89aa43c8e817340"
+    },
+    {
+      "file": "01-总体建设方案.md",
+      "sha256": "02f4818076d8a025e5b6ba6c1ced2782ad4bc5b5f5bf2a0f64813074af63ce29"
+    },
+    {
+      "file": "02-全量记忆与数据治理.md",
+      "sha256": "76123130c729f6f1131cfbd43fbbce7c64ae579221d85089a098743dfbd2c0df"
+    },
+    {
+      "file": "03-检索执行与秒级响应设计.md",
+      "sha256": "644a9582511a7fe096f4f26e148c970b657c9133a221dd2adbb20f492bf161ec"
+    },
+    {
+      "file": "04-CAD知识工程与审查系统衔接.md",
+      "sha256": "d2e6747686214b0fc148e966452055f644b946403d1105c3aacf264a8ed3f36a"
+    },
+    {
+      "file": "05-容量资源与构建部署方案.md",
+      "sha256": "ac10cc8e34445a5206c8ec4faa6344ffd83729ce268d72e55e910403add575ee"
+    },
+    {
+      "file": "06-实施验收与持续维护.md",
+      "sha256": "2583c132d4ba0b4dd2d5c1cf259056655c3491ea8ef07fa9b49b5e92035f591b"
+    },
+    {
+      "file": "07-依据审阅与设计决策.md",
+      "sha256": "d08197930cbec89b73979d2d175935cbf7df4053ac888e19af7c422416825928"
+    },
+    {
+      "file": "08-验收场景种子.csv",
+      "sha256": "097adee4053a1dbd81877d9073749c74e1c79b83ec72b3b5f267c812cefcdab0"
+    },
+    {
+      "file": "09-方案自审与交付记录.md",
+      "sha256": "22a237455d093cad597fdd9cea4461dadd2a45f0714f4a001fce25968842b38b"
+    },
+    {
+      "file": "README.md",
+      "sha256": "2b594adcf8e7bd151ab62c46b14a93e4b0ab21fdfa773ac963b4d9ad2514a2b8"
+    },
+    {
+      "file": "参考资料指纹.json",
+      "sha256": "07fdc3ee6c8cf77a099d0dd421da151c6e9e8f24ae3af95e4360319aee97e063"
+    }
+  ]
+}

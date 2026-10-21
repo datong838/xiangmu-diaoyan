@@ -1,0 +1,25 @@
+{
+  "ok": true,
+  "checks": {
+    "selfContainedData": true,
+    "uniqueIds": true,
+    "eightPrimaryGroups": true,
+    "everyNodeClassified": true,
+    "everyGroupUsed": true,
+    "edgeEndpoints": true,
+    "deepLinkRoute": true,
+    "searchControl": true,
+    "treeControls": true,
+    "relationView": true,
+    "themeControl": true,
+    "reviewBoundary": true
+  },
+  "stats": {
+    "documents": 153,
+    "product_design": 19,
+    "current_review": 17,
+    "historical": 77,
+    "relations": 153,
+    "source_bytes": 1610458
+  }
+}

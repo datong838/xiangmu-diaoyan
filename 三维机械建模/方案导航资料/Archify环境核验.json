@@ -1,0 +1,11 @@
+{
+  "recorded_at": "2026-10-20T12:12:49.750450+00:00",
+  "package": "/Users/ddt/work/projects/ai_agent/archify/archify",
+  "node": "/Users/ddt/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node",
+  "command": "node bin/archify.mjs doctor",
+  "observed_exit_code": 0,
+  "result": "Archify is ready",
+  "artifact_type": "custom document navigation index, NOT Typed JSON diagram",
+  "nine_graph_checks_claimed": false,
+  "initial_recovery": "系统PATH无node、首层目录非包根；改用bundled Node与实际嵌套包目录后成功"
+}

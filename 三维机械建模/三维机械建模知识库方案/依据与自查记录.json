@@ -1,0 +1,1070 @@
+{
+  "revision": "KB-3D-DESIGN-001",
+  "recorded_at": "2026-10-16T22:30:56.730408+08:00",
+  "goal_status": "complete",
+  "scope": "Documentation and synthetic design fixture static verification only",
+  "checks": {
+    "markdown_files": 20,
+    "local_links_checked": 137,
+    "missing_links": [],
+    "balanced_fences": true,
+    "design_fixture_json_parsed": true,
+    "positive_parameters_and_hole_containment": true,
+    "dependency_graph_closed_acyclic": true,
+    "parameter_and_requirement_references_closed": true,
+    "synthetic_and_not_run_markers": true,
+    "planned_negative_cases": 6,
+    "design_contract_tests_passed": 5,
+    "negative_subcases": 26,
+    "prior_test_fingerprints_still_match": true,
+    "shared_compatibility_methods_passed": 5,
+    "shared_probe_fingerprints_unchanged": true,
+    "combined_attachment_test_methods_passed": 16,
+    "engineering_fact_negative_subcases": 29,
+    "goal_design_requirements_audited": 15,
+    "current_test_evidence_matches": true
+  },
+  "two_dimensional_followup": {
+    "source_receipt": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/reports/real_b_validation.json",
+    "receipt_recorded_at": "2026-10-16T14:28:12.723787+00:00",
+    "test_methods_reported": 54,
+    "exit_code_reported": 0,
+    "independently_rerun_here": false,
+    "engineering_release_reported": [
+      false,
+      false,
+      false
+    ]
+  },
+  "read_sources_current_fingerprints": [
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/README.md",
+      "bytes": 7010,
+      "sha256": "cb3d34a968cff061fe90269d2cee64624e6373db75cd29ae8b2f9900c685f7f1"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/10-知识域与认知职责组织.md",
+      "bytes": 8452,
+      "sha256": "3e73ca47af54b54903af8546e901d2b63ea6d9ec496ccbfd4f13732b73673dcc"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/11-工程判断链与能力单元.md",
+      "bytes": 11394,
+      "sha256": "24a8e5eaf8ebcc47038e9e6d405cbf385bd4462819f27b669e987b9a71e5fe8c"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/15-成熟度与实施就绪自查报告.md",
+      "bytes": 20309,
+      "sha256": "93c21ac8afb5dd087b186a23173386af83a5b813e0feb1ce4c8283b8ea3b1b5c"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/16-首轮实施与最小契约设计.md",
+      "bytes": 9840,
+      "sha256": "36ad6ebcd6abaa749d2e7ad796aef3225147e7c4120f32070b329ba069946341"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/17-首轮契约与真实来源验证记录.md",
+      "bytes": 4782,
+      "sha256": "b57611140ae0b2cdf5a9ae77cc980dc2918be287461ee98b8483e604863746e1"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/18-真实工程样例B实施设计.md",
+      "bytes": 3933,
+      "sha256": "7c7ca3539a62baf5b8311b7a78a07c3f3bd37db4c77a77897e56bb9a0cfb196f"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/AGENTS.md",
+      "bytes": 19428,
+      "sha256": "a8c876ab288ee4b14903fafdbdd66e25f0f6214b68cefe5888921524d6e77f5d"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/README.md",
+      "bytes": 5580,
+      "sha256": "d9daa1907b7de216fbefc54a794e796a1aa2b45532122e41a1e786931e51c172"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/.agents/operations/INDEX.md",
+      "bytes": 11363,
+      "sha256": "54fc277c52b20b64af8a5737ea05f2363ce362e9ac67821356f080fab988a206"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/.agents/operations/booleans.md",
+      "bytes": 8372,
+      "sha256": "82d9233f56f9bdedc1c85f2c8a89e707ae93dbe572307f6d05b6310176944fd6"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/.agents/docs/generate_asset.md",
+      "bytes": 34542,
+      "sha256": "351ac83a9b6923d7f1475c1206f99c5e9be95e77837c661d686a0cb089ba07ab"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/reports/real_b_validation.json",
+      "bytes": 7043,
+      "sha256": "3ad6ce0b3a8a11095c1f0e17e7a130cf1adff267576019d2596b11b42b9611f5"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/README.md",
+      "bytes": 3733,
+      "sha256": "4995d0bc899cd8e9bfc81ea525ee2c9fee4e7a16c33b5ab6312cbdbf780f8acd"
+    }
+  ],
+  "deliverables_excluding_this_record": [
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/00-编制工作方案与协作边界.md",
+      "bytes": 8192,
+      "sha256": "160b52031152473430d51f86149a01cc52e3e3ec62247cd2590e0312e082a066"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/01-总体方案与共库架构.md",
+      "bytes": 5701,
+      "sha256": "09b86a2a4826bf9b2894e6301f4973d226de9ef65970551f6aa825d557a13b72"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/02-三维对象与共享数据契约扩展.md",
+      "bytes": 6536,
+      "sha256": "4bba5e7c146656111e719de63d40810ddb74a934566d61b7cf8fb3d81c49da31"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/03-知识组织与资料吸收.md",
+      "bytes": 5590,
+      "sha256": "2b3cc50a087b4cccb643432c4816b4e0bc13e1d7f6a15c9e2ac5771b15d7a985"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/04-建模规划与usd-brep执行适配.md",
+      "bytes": 5695,
+      "sha256": "13a7f935e13b64fe078f6a27f33990d51d7b1680dfe22ab1d031f0879512b43b"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/05-二维三维关联与工程验证.md",
+      "bytes": 5866,
+      "sha256": "fd5b31bea1716ccad521c75217c7ed1e75622d728f78962bad48906fe46268ee"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/06-检索资源与秒级响应.md",
+      "bytes": 5336,
+      "sha256": "9c5b503ea97fe858e2bca41c25a0d92ef2c480098d08bf730d13723da36f519b"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/07-分阶段实施与验收设计.md",
+      "bytes": 6552,
+      "sha256": "a93a852a0a7eb2f3ae47300eec941d70f7e9546087c709216367e4e2a0b1d891"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/08-依据自查与待决问题.md",
+      "bytes": 6323,
+      "sha256": "beb6ce78033f00f3f414e4c570b37bf29cfb36fa07695f5f008b69d858c1b15f"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/09-首阶段接口与板孔样例设计.md",
+      "bytes": 6309,
+      "sha256": "7afdd22cd5c790b185089da8a98c14f581494e1b35c8ddf7ec8dd179ba57a967"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/10-接口校验与二维增量跟进.md",
+      "bytes": 4863,
+      "sha256": "b8d3afa87f6c33f5f4a3005a9a45b0a08cc3cd8b8703ecc4fa87f9e0a71becd0"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/11-工程事实与设计意图.md",
+      "bytes": 6961,
+      "sha256": "6d9497fbbe9bd8378f606c77582aa453f7899cec8ac1b844968dc3d6a495a462"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/12-装配事实与条件化验证.md",
+      "bytes": 5594,
+      "sha256": "a75daf001b48df37f791b7d679ce34f6ae1e9741786259c4cc72efd1aae681d3"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/13-跨版本特征绑定与修改协议.md",
+      "bytes": 6011,
+      "sha256": "121ec1d3ecca489d817ae6dd82a0403e2719fa3641bb0407df1f16dc67220516"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/14-内核适配前置与测量风险.md",
+      "bytes": 5760,
+      "sha256": "71889b462ccbc75e2bad66bea36e32873922cba18e0dba32d32df980e485d5e0"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/15-共库接口映射与首阶段评审清单.md",
+      "bytes": 8998,
+      "sha256": "e52c183b56a848437047c462099119baa7c5bf8525a7529a01889d478d9d058c"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/16-工程事实扩展合同实施设计.md",
+      "bytes": 3682,
+      "sha256": "922a4aa652b5e1f2af228dc351f80a8f48a5fc33d1af57996c4a53a660996c16"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/17-工程事实合同验证与实施边界.md",
+      "bytes": 3648,
+      "sha256": "3e796c9163afebac7666387bed97d4448c57015e97c636ba50a1acc7db867bd5"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/18-交付自查与实施移交.md",
+      "bytes": 7363,
+      "sha256": "da55d6690d8e2092f32e0ee67f30508c4cbd63c0bc8bfa5ec67b347397920cf9"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/README.md",
+      "bytes": 5479,
+      "sha256": "257ad7e23c309df9329227ea997ed0fe69090a2468f3d9363a9e73ceae83d123"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/契约/engineering-facts.schema.json",
+      "bytes": 15119,
+      "sha256": "479522380b5a85e3818dbfae65d175254c7adbf8ca38ec9ce34e99772c5e12be"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/契约/model-plan.schema.json",
+      "bytes": 11133,
+      "sha256": "e5d8e92688acf1e4538349996fb9683af90c87589f20b4297575b9ff1d413f83"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/设计样例/工程事实包.json",
+      "bytes": 4664,
+      "sha256": "4eaa8bc189e0c364d28d1db002ff96e219d4816211f13489c560265b7761b652"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/设计样例/板孔计划.json",
+      "bytes": 4117,
+      "sha256": "1b29e68b457bb9597f8be9eaa9e0d938ffeab8f8fc12654d97a876fedf1ba4cf"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/验证/requirements-design.lock.txt",
+      "bytes": 302,
+      "sha256": "b94cda68c0f0fce4535313305c2cf5f809f70120e7bff43836805fef7fa75f7a"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/验证/test_facts.py",
+      "bytes": 6129,
+      "sha256": "8c8c8ec083247f484332b2330ccc83fb1ec0272900b62b5d38337bbf005cf43f"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/验证/test_plan.py",
+      "bytes": 4213,
+      "sha256": "3d0096fa61a3e3f607e634e0ff6f91eecb4b87d1c632142e2ed935033042bd2d"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/验证/test_shared_compat.py",
+      "bytes": 2488,
+      "sha256": "facf77cca9bd836792bd9d708a83b2ee3ebe92754872ee3901cb3332cc189152"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/验证/validate_facts.py",
+      "bytes": 8241,
+      "sha256": "7739222267a69e3c419abc3103ce33ebb4f579a51341411df9ce7245ab812009"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/验证/validate_plan.py",
+      "bytes": 6900,
+      "sha256": "2c4efd6fa10faf7e4afb68a39400eaf190cf319932e897e12c606762e815c126"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/验证/三维附件组合结果.json",
+      "bytes": 2754,
+      "sha256": "2dca19f1b00b85a5379849b64e577fdc59dcc33aa404ac872b7055439a404e71"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/验证/共库兼容结果.json",
+      "bytes": 3514,
+      "sha256": "1e5bd7a2f66e169805c8539ff039d838d90c9104bf4540cb4e2365725254e5f6"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/验证/内核环境只读探测.json",
+      "bytes": 851,
+      "sha256": "7bf67880685fdfe7c98d9bd111c83370760f9060a53cc43e9ddf6ff6c1cf4ddc"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/验证/工程事实合同结果.json",
+      "bytes": 1732,
+      "sha256": "e26159413647b989abc84a0a12e52e5c80210c7b3f5abb332f62bfb6f22340c3"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/验证/接口校验结果.json",
+      "bytes": 2525,
+      "sha256": "1b889688f45692cef02c10c6e1be75a350b5f8658de52d92f0c8901c297e3d4e"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/验证/接口阶段文档自查快照.json",
+      "bytes": 23916,
+      "sha256": "72d9d39af8b52f024d216c8be20fc06c0f3ca8eddf7b425139a90c64c6b3a7ec"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/验证/目标完成状态.json",
+      "bytes": 289,
+      "sha256": "69948e0900097dcdce4ddd96cae154262b235dbbd88487fc3e29de63c912bbcd"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/验证/目标逐项审计.json",
+      "bytes": 10430,
+      "sha256": "d710a9e09257364e3359fff1873b0d099fe264cd6722c18da988b51168cecdc5"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/验证/首轮文档自查快照.json",
+      "bytes": 21671,
+      "sha256": "c5371840bb5a196786577b3ec65ff8fd5a226db5957e0348607d1d08835d0b26"
+    }
+  ],
+  "links": [
+    {
+      "file": "18-交付自查与实施移交.md",
+      "target": "00-编制工作方案与协作边界.md",
+      "exists": true
+    },
+    {
+      "file": "18-交付自查与实施移交.md",
+      "target": "验证/目标逐项审计.json",
+      "exists": true
+    },
+    {
+      "file": "18-交付自查与实施移交.md",
+      "target": "依据与自查记录.json",
+      "exists": true
+    },
+    {
+      "file": "18-交付自查与实施移交.md",
+      "target": "验证/requirements-design.lock.txt",
+      "exists": true
+    },
+    {
+      "file": "18-交付自查与实施移交.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/22-人工确认持久化与真实反馈实施设计.md",
+      "exists": true
+    },
+    {
+      "file": "02-三维对象与共享数据契约扩展.md",
+      "target": "16-工程事实扩展合同实施设计.md",
+      "exists": true
+    },
+    {
+      "file": "02-三维对象与共享数据契约扩展.md",
+      "target": "17-工程事实合同验证与实施边界.md",
+      "exists": true
+    },
+    {
+      "file": "02-三维对象与共享数据契约扩展.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/02-全量记忆与数据治理.md",
+      "exists": true
+    },
+    {
+      "file": "02-三维对象与共享数据契约扩展.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/16-首轮实施与最小契约设计.md",
+      "exists": true
+    },
+    {
+      "file": "14-内核适配前置与测量风险.md",
+      "target": "04-建模规划与usd-brep执行适配.md",
+      "exists": true
+    },
+    {
+      "file": "14-内核适配前置与测量风险.md",
+      "target": "05-二维三维关联与工程验证.md",
+      "exists": true
+    },
+    {
+      "file": "14-内核适配前置与测量风险.md",
+      "target": "07-分阶段实施与验收设计.md",
+      "exists": true
+    },
+    {
+      "file": "14-内核适配前置与测量风险.md",
+      "target": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/.agents/skills/smlib-python-api-use/SKILL.md",
+      "exists": true
+    },
+    {
+      "file": "14-内核适配前置与测量风险.md",
+      "target": "验证/内核环境只读探测.json",
+      "exists": true
+    },
+    {
+      "file": "14-内核适配前置与测量风险.md",
+      "target": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/README.md",
+      "exists": true
+    },
+    {
+      "file": "14-内核适配前置与测量风险.md",
+      "target": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/source/SmPyLib/stubs/usd_brep/__init__.pyi",
+      "exists": true
+    },
+    {
+      "file": "14-内核适配前置与测量风险.md",
+      "target": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/.agents/operations/primitives.md",
+      "exists": true
+    },
+    {
+      "file": "14-内核适配前置与测量风险.md",
+      "target": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/KNOWN_ISSUES.md",
+      "exists": true
+    },
+    {
+      "file": "14-内核适配前置与测量风险.md",
+      "target": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/reports/catalog_validation.json",
+      "exists": true
+    },
+    {
+      "file": "03-知识组织与资料吸收.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/10-知识域与认知职责组织.md",
+      "exists": true
+    },
+    {
+      "file": "03-知识组织与资料吸收.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/14-现有资料与采购资料吸收方案.md",
+      "exists": true
+    },
+    {
+      "file": "03-知识组织与资料吸收.md",
+      "target": "/Volumes/NVME2T/projects/ai_agent/cad/dataset/ParaCAD/详细使用说明.md",
+      "exists": true
+    },
+    {
+      "file": "03-知识组织与资料吸收.md",
+      "target": "/Volumes/NVME2T/projects/ai_agent/cad/dataset/TriView2CAD/详细使用说明.md",
+      "exists": true
+    },
+    {
+      "file": "04-建模规划与usd-brep执行适配.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/11-工程判断链与能力单元.md",
+      "exists": true
+    },
+    {
+      "file": "04-建模规划与usd-brep执行适配.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/16-首轮实施与最小契约设计.md",
+      "exists": true
+    },
+    {
+      "file": "04-建模规划与usd-brep执行适配.md",
+      "target": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/AGENTS.md",
+      "exists": true
+    },
+    {
+      "file": "04-建模规划与usd-brep执行适配.md",
+      "target": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/README.md",
+      "exists": true
+    },
+    {
+      "file": "04-建模规划与usd-brep执行适配.md",
+      "target": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/.agents/operations/INDEX.md",
+      "exists": true
+    },
+    {
+      "file": "04-建模规划与usd-brep执行适配.md",
+      "target": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/.agents/operations/booleans.md",
+      "exists": true
+    },
+    {
+      "file": "04-建模规划与usd-brep执行适配.md",
+      "target": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/.agents/docs/generate_asset.md",
+      "exists": true
+    },
+    {
+      "file": "04-建模规划与usd-brep执行适配.md",
+      "target": "14-内核适配前置与测量风险.md",
+      "exists": true
+    },
+    {
+      "file": "10-接口校验与二维增量跟进.md",
+      "target": "契约/model-plan.schema.json",
+      "exists": true
+    },
+    {
+      "file": "10-接口校验与二维增量跟进.md",
+      "target": "验证/validate_plan.py",
+      "exists": true
+    },
+    {
+      "file": "10-接口校验与二维增量跟进.md",
+      "target": "验证/test_plan.py",
+      "exists": true
+    },
+    {
+      "file": "10-接口校验与二维增量跟进.md",
+      "target": "验证/接口校验结果.json",
+      "exists": true
+    },
+    {
+      "file": "10-接口校验与二维增量跟进.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/19-真实工程样例B验证与方案修订.md",
+      "exists": true
+    },
+    {
+      "file": "10-接口校验与二维增量跟进.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/20-目录检索原型与代际实施设计.md",
+      "exists": true
+    },
+    {
+      "file": "15-共库接口映射与首阶段评审清单.md",
+      "target": "18-交付自查与实施移交.md",
+      "exists": true
+    },
+    {
+      "file": "15-共库接口映射与首阶段评审清单.md",
+      "target": "16-工程事实扩展合同实施设计.md",
+      "exists": true
+    },
+    {
+      "file": "15-共库接口映射与首阶段评审清单.md",
+      "target": "17-工程事实合同验证与实施边界.md",
+      "exists": true
+    },
+    {
+      "file": "15-共库接口映射与首阶段评审清单.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/16-首轮实施与最小契约设计.md",
+      "exists": true
+    },
+    {
+      "file": "15-共库接口映射与首阶段评审清单.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/20-目录检索原型与代际实施设计.md",
+      "exists": true
+    },
+    {
+      "file": "15-共库接口映射与首阶段评审清单.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/21-目录检索原型验证与实施差距更新.md",
+      "exists": true
+    },
+    {
+      "file": "15-共库接口映射与首阶段评审清单.md",
+      "target": "验证/test_shared_compat.py",
+      "exists": true
+    },
+    {
+      "file": "15-共库接口映射与首阶段评审清单.md",
+      "target": "验证/共库兼容结果.json",
+      "exists": true
+    },
+    {
+      "file": "15-共库接口映射与首阶段评审清单.md",
+      "target": "07-分阶段实施与验收设计.md",
+      "exists": true
+    },
+    {
+      "file": "01-总体方案与共库架构.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/01-总体建设方案.md",
+      "exists": true
+    },
+    {
+      "file": "01-总体方案与共库架构.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/10-知识域与认知职责组织.md",
+      "exists": true
+    },
+    {
+      "file": "01-总体方案与共库架构.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/11-工程判断链与能力单元.md",
+      "exists": true
+    },
+    {
+      "file": "16-工程事实扩展合同实施设计.md",
+      "target": "02-三维对象与共享数据契约扩展.md",
+      "exists": true
+    },
+    {
+      "file": "16-工程事实扩展合同实施设计.md",
+      "target": "11-工程事实与设计意图.md",
+      "exists": true
+    },
+    {
+      "file": "16-工程事实扩展合同实施设计.md",
+      "target": "12-装配事实与条件化验证.md",
+      "exists": true
+    },
+    {
+      "file": "16-工程事实扩展合同实施设计.md",
+      "target": "13-跨版本特征绑定与修改协议.md",
+      "exists": true
+    },
+    {
+      "file": "16-工程事实扩展合同实施设计.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/16-首轮实施与最小契约设计.md",
+      "exists": true
+    },
+    {
+      "file": "05-二维三维关联与工程验证.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/04-CAD知识工程与审查系统衔接.md",
+      "exists": true
+    },
+    {
+      "file": "05-二维三维关联与工程验证.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/11-工程判断链与能力单元.md",
+      "exists": true
+    },
+    {
+      "file": "05-二维三维关联与工程验证.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/17-首轮契约与真实来源验证记录.md",
+      "exists": true
+    },
+    {
+      "file": "05-二维三维关联与工程验证.md",
+      "target": "14-内核适配前置与测量风险.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/README.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "01-总体方案与共库架构.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "11-工程事实与设计意图.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "07-分阶段实施与验收设计.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "18-交付自查与实施移交.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "00-编制工作方案与协作边界.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "01-总体方案与共库架构.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "02-三维对象与共享数据契约扩展.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "03-知识组织与资料吸收.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "04-建模规划与usd-brep执行适配.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "05-二维三维关联与工程验证.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "06-检索资源与秒级响应.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "07-分阶段实施与验收设计.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "08-依据自查与待决问题.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "09-首阶段接口与板孔样例设计.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "10-接口校验与二维增量跟进.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "11-工程事实与设计意图.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "12-装配事实与条件化验证.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "13-跨版本特征绑定与修改协议.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "14-内核适配前置与测量风险.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "15-共库接口映射与首阶段评审清单.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "16-工程事实扩展合同实施设计.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "17-工程事实合同验证与实施边界.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "18-交付自查与实施移交.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "验证/三维附件组合结果.json",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "验证/共库兼容结果.json",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "契约/model-plan.schema.json",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "设计样例/板孔计划.json",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "契约/engineering-facts.schema.json",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "设计样例/工程事实包.json",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "验证/requirements-design.lock.txt",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "验证/目标逐项审计.json",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "依据与自查记录.json",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/README.md",
+      "exists": true
+    },
+    {
+      "file": "00-编制工作方案与协作边界.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/README.md",
+      "exists": true
+    },
+    {
+      "file": "00-编制工作方案与协作边界.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/16-首轮实施与最小契约设计.md",
+      "exists": true
+    },
+    {
+      "file": "00-编制工作方案与协作边界.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/17-首轮契约与真实来源验证记录.md",
+      "exists": true
+    },
+    {
+      "file": "00-编制工作方案与协作边界.md",
+      "target": "16-工程事实扩展合同实施设计.md",
+      "exists": true
+    },
+    {
+      "file": "17-工程事实合同验证与实施边界.md",
+      "target": "16-工程事实扩展合同实施设计.md",
+      "exists": true
+    },
+    {
+      "file": "17-工程事实合同验证与实施边界.md",
+      "target": "契约/engineering-facts.schema.json",
+      "exists": true
+    },
+    {
+      "file": "17-工程事实合同验证与实施边界.md",
+      "target": "设计样例/工程事实包.json",
+      "exists": true
+    },
+    {
+      "file": "17-工程事实合同验证与实施边界.md",
+      "target": "验证/validate_facts.py",
+      "exists": true
+    },
+    {
+      "file": "17-工程事实合同验证与实施边界.md",
+      "target": "验证/test_facts.py",
+      "exists": true
+    },
+    {
+      "file": "17-工程事实合同验证与实施边界.md",
+      "target": "验证/工程事实合同结果.json",
+      "exists": true
+    },
+    {
+      "file": "17-工程事实合同验证与实施边界.md",
+      "target": "验证/三维附件组合结果.json",
+      "exists": true
+    },
+    {
+      "file": "08-依据自查与待决问题.md",
+      "target": "18-交付自查与实施移交.md",
+      "exists": true
+    },
+    {
+      "file": "08-依据自查与待决问题.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/README.md",
+      "exists": true
+    },
+    {
+      "file": "08-依据自查与待决问题.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/10-知识域与认知职责组织.md",
+      "exists": true
+    },
+    {
+      "file": "08-依据自查与待决问题.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/11-工程判断链与能力单元.md",
+      "exists": true
+    },
+    {
+      "file": "08-依据自查与待决问题.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/15-成熟度与实施就绪自查报告.md",
+      "exists": true
+    },
+    {
+      "file": "08-依据自查与待决问题.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/16-首轮实施与最小契约设计.md",
+      "exists": true
+    },
+    {
+      "file": "08-依据自查与待决问题.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/17-首轮契约与真实来源验证记录.md",
+      "exists": true
+    },
+    {
+      "file": "08-依据自查与待决问题.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/18-真实工程样例B实施设计.md",
+      "exists": true
+    },
+    {
+      "file": "08-依据自查与待决问题.md",
+      "target": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/README.md",
+      "exists": true
+    },
+    {
+      "file": "08-依据自查与待决问题.md",
+      "target": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/AGENTS.md",
+      "exists": true
+    },
+    {
+      "file": "08-依据自查与待决问题.md",
+      "target": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/README.md",
+      "exists": true
+    },
+    {
+      "file": "08-依据自查与待决问题.md",
+      "target": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/.agents/operations/INDEX.md",
+      "exists": true
+    },
+    {
+      "file": "08-依据自查与待决问题.md",
+      "target": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/.agents/operations/booleans.md",
+      "exists": true
+    },
+    {
+      "file": "08-依据自查与待决问题.md",
+      "target": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/.agents/docs/generate_asset.md",
+      "exists": true
+    },
+    {
+      "file": "08-依据自查与待决问题.md",
+      "target": "依据与自查记录.json",
+      "exists": true
+    },
+    {
+      "file": "08-依据自查与待决问题.md",
+      "target": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/reports/real_b_validation.json",
+      "exists": true
+    },
+    {
+      "file": "09-首阶段接口与板孔样例设计.md",
+      "target": "10-接口校验与二维增量跟进.md",
+      "exists": true
+    },
+    {
+      "file": "09-首阶段接口与板孔样例设计.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/16-首轮实施与最小契约设计.md",
+      "exists": true
+    },
+    {
+      "file": "09-首阶段接口与板孔样例设计.md",
+      "target": "02-三维对象与共享数据契约扩展.md",
+      "exists": true
+    },
+    {
+      "file": "09-首阶段接口与板孔样例设计.md",
+      "target": "04-建模规划与usd-brep执行适配.md",
+      "exists": true
+    },
+    {
+      "file": "09-首阶段接口与板孔样例设计.md",
+      "target": "设计样例/板孔计划.json",
+      "exists": true
+    },
+    {
+      "file": "07-分阶段实施与验收设计.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/06-实施验收与持续维护.md",
+      "exists": true
+    },
+    {
+      "file": "07-分阶段实施与验收设计.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/16-首轮实施与最小契约设计.md",
+      "exists": true
+    },
+    {
+      "file": "07-分阶段实施与验收设计.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/17-首轮契约与真实来源验证记录.md",
+      "exists": true
+    },
+    {
+      "file": "11-工程事实与设计意图.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/10-知识域与认知职责组织.md",
+      "exists": true
+    },
+    {
+      "file": "11-工程事实与设计意图.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/16-首轮实施与最小契约设计.md",
+      "exists": true
+    },
+    {
+      "file": "11-工程事实与设计意图.md",
+      "target": "02-三维对象与共享数据契约扩展.md",
+      "exists": true
+    },
+    {
+      "file": "13-跨版本特征绑定与修改协议.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/16-首轮实施与最小契约设计.md",
+      "exists": true
+    },
+    {
+      "file": "13-跨版本特征绑定与修改协议.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/19-真实工程样例B验证与方案修订.md",
+      "exists": true
+    },
+    {
+      "file": "12-装配事实与条件化验证.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/11-工程判断链与能力单元.md",
+      "exists": true
+    },
+    {
+      "file": "12-装配事实与条件化验证.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/02-全量记忆与数据治理.md",
+      "exists": true
+    },
+    {
+      "file": "12-装配事实与条件化验证.md",
+      "target": "11-工程事实与设计意图.md",
+      "exists": true
+    },
+    {
+      "file": "06-检索资源与秒级响应.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/03-检索执行与秒级响应设计.md",
+      "exists": true
+    },
+    {
+      "file": "06-检索资源与秒级响应.md",
+      "target": "../../CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/05-容量资源与构建部署方案.md",
+      "exists": true
+    }
+  ],
+  "not_verified": [
+    "General three-dimensional contract, real source/assembly package and production implementation",
+    "usd-brep import/build or kernel operations",
+    "three-dimensional physical or manufacturing correctness",
+    "one-TB retrieval performance",
+    "independent rerun of two-dimensional tests"
+  ],
+  "write_scope_this_task": [
+    "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案"
+  ],
+  "existing_two_dimensional_and_kernel_files": "No edits performed by this task; concurrent updates may occur externally",
+  "followup_sources": [
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/19-真实工程样例B验证与方案修订.md",
+      "bytes": 6623,
+      "sha256": "8312259c86b92724c21b66c2e6d9103d89508b08827bd67168a42857338162e5"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/20-目录检索原型与代际实施设计.md",
+      "bytes": 4932,
+      "sha256": "def4b74466f62c5527b64b64d354fb421892912554c0ea483e4eb4af994c6cc6"
+    }
+  ],
+  "updated_at": "2026-10-16T14:54:52.986955+00:00",
+  "two_dimensional_followup_latest": {
+    "receipt": {
+      "path": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/reports/catalog_validation.json",
+      "bytes": 27333,
+      "sha256": "0fab89ad9f8d8f12d9fe8446b89b28b575d6410b8a978813bffa2b17000a3298"
+    },
+    "tests_total_reported": 79,
+    "observed_exit_code_reported": 0,
+    "denominator": {
+      "sources": 8,
+      "units": 20,
+      "relations": 21,
+      "source_bytes_sum": 495718,
+      "coverage": "仅该试验清单；不是数据集全体、归档成员全体或工程领域覆盖"
+    },
+    "independently_rerun_here": false
+  },
+  "kernel_followup_sources": [
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/KNOWN_ISSUES.md",
+      "bytes": 4874,
+      "sha256": "4602b1ad0310a005a00c65a2cfcb2d3708f2e3d32daf1ada9137e7732382c0e7"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/source/SmPyLib/stubs/usd_brep/__init__.pyi",
+      "bytes": 33375,
+      "sha256": "6072ac37174ba4f24ec092cc4545fd81881a22c77f7635308390f2417467e758"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/.agents/operations/primitives.md",
+      "bytes": 8593,
+      "sha256": "848d2ac04cce76ca0f11e5289355c9783488f4225cee61f130ec6193b0f9f2b8"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/cad/usd-brep/.agents/skills/smlib-python-api-use/SKILL.md",
+      "bytes": 5226,
+      "sha256": "2a128d6fa687148659ce24466221f26773247b333521952ddf0ef90594e90505"
+    }
+  ],
+  "kernel_probe_ref": "验证/内核环境只读探测.json",
+  "latest_two_dimensional_document": {
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/21-目录检索原型验证与实施差距更新.md",
+    "bytes": 6030,
+    "sha256": "5a74025ed3e4b13e46de73f2004a74d0dda44f71f161386c5708378d250cec4b"
+  },
+  "latest_two_dimensional_followup": {
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/22-人工确认持久化与真实反馈实施设计.md",
+    "bytes": 4931,
+    "sha256": "11ac3a104365366183f5420956c438bcfe162616fdaa6c7cfeda2ba9d906594c"
+  },
+  "completion_scope": "Design delivery complete by goal tool; software rollout and engineering acceptance remain staged implementation tasks"
+}

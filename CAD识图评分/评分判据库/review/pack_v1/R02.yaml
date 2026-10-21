@@ -1,0 +1,22 @@
+# 引文位置核查项，请按普通卡独立核对。
+id: R02
+claim: 「标注直径时，应在尺寸数字前加注符号 Φ」位于 GB/T 4458.4-2003 §5.2（PDF p3）
+basis_type: standard
+evidence:
+- type: 声称页(E0)
+  file: review/pack_v1/_probe/page_3.png
+- type: 引文（逐字）
+  text: 标注直径时，应在尺寸数字前加注符号 Φ
+- type: 条款
+  std: GB/T 4458.4-2003
+  title: 机械制图 尺寸注法
+  clause: '5.2'
+  pdf_page: 3
+my_conclusion: hypothesis
+question_for_reviewer: 核对该句是否位于声称的条款与页码；给出原页证据。
+reviewer_output:
+  verdict: ''
+  reason: ''
+  evidence: ''
+  suggested_fix: ''
+  independent_first: ''

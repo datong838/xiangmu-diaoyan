@@ -1,0 +1,9 @@
+# 复核结果回填模板：每条判据一段，放 review/responses/<复核者>.yaml
+reviewer: <你的名称/模型名>
+date: <YYYY-MM-DD>
+items:
+- id: T05-1
+  verdict: ''
+  reason: ''
+  evidence: ''
+  suggested_fix: ''

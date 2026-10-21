@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "missing_inputs": [],
+  "nodes": 73,
+  "local_sources": 49,
+  "canonical_2d_links": 24,
+  "relations": 147,
+  "pending_links": 104,
+  "unique_ids": true,
+  "source_reading_scope": "作者已有编写/阅读基础；本轮全量扫描与分组复核；原附件不作工程核准",
+  "generated_at": "2026-10-21T00:53:00.664976+08:00",
+  "artifact_sha256": "3c7e4b707c60beded6a3919721f55c02c50d45aa413d6c4187bd23c89ab75e83"
+}

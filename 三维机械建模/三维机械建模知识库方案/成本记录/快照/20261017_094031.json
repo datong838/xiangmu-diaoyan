@@ -1,0 +1,105 @@
+{
+  "generated_at_utc": "2026-10-17T01:40:31.896692+00:00",
+  "pricing": {
+    "verified_on": "2026-10-17",
+    "model": "gpt-6.1-sol",
+    "tier": "Standard API equivalent, not actual bill",
+    "currency": "USD",
+    "per_tokens": 1000000,
+    "long_input_above": 272000,
+    "source": "https://developers.openai.com/api/docs/pricing",
+    "threshold_source": "https://developers.openai.com/api/docs/models/gpt-6.1-sol",
+    "rates": {
+      "short": [
+        "2.00",
+        "0.10",
+        "2.50",
+        "10.00"
+      ],
+      "long": [
+        "4.00",
+        "0.20",
+        "5.00",
+        "15.00"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "path": "/Users/ddt/.codex/sessions/2026/10/14/rollout-2026-10-14T22-36-48-01a13ad8-2f0c-7c21-ae5f-30ffc8ad88ca.jsonl",
+      "read_bytes": 26344979,
+      "parsed_complete_bytes": 26344979,
+      "snapshot_sha256": "0adc4ec704c1daac6e1bd1fd7347fbb74bbaf592572c675d7fd76912fba7ed9a"
+    },
+    {
+      "path": "/Users/ddt/.codex/sessions/2026/10/16/rollout-2026-10-16T22-06-49-01a14509-71d7-7da2-b644-fa69bf432b62.jsonl",
+      "read_bytes": 3225508,
+      "parsed_complete_bytes": 3225508,
+      "snapshot_sha256": "d2e2c143030ea369f45569888baf87c6d505beb0b1352259ddb8d23d27defcd1"
+    }
+  ],
+  "scope_totals": {
+    "parent": {
+      "input_tokens": 122807320,
+      "cached_input_tokens": 120005248,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 433648,
+      "reasoning_output_tokens": 102832,
+      "total_tokens": 123240968,
+      "uncached_input_tokens": 2802072,
+      "standard_equivalent_usd": "32.2668894",
+      "call_records": 574
+    },
+    "fork_increment": {
+      "input_tokens": 10901447,
+      "cached_input_tokens": 10479488,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 81392,
+      "reasoning_output_tokens": 10712,
+      "total_tokens": 10982839,
+      "uncached_input_tokens": 421959,
+      "standard_equivalent_usd": "2.7057868",
+      "call_records": 68
+    },
+    "deduplicated_combined": {
+      "input_tokens": 133708767,
+      "cached_input_tokens": 130484736,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 515040,
+      "reasoning_output_tokens": 113544,
+      "total_tokens": 134223807,
+      "uncached_input_tokens": 3224031,
+      "standard_equivalent_usd": "34.9726762",
+      "call_records": 642
+    }
+  },
+  "cutoffs_utc": {
+    "parent": "2026-10-17T01:29:10.171Z",
+    "fork": "2026-10-17T01:40:15.302Z"
+  },
+  "excluded_inherited_baseline": {
+    "input_tokens": 101886875,
+    "cached_input_tokens": 99741824,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 300192,
+    "reasoning_output_tokens": 68261,
+    "total_tokens": 102187067
+  },
+  "baseline_matched_parent_timestamps": [
+    "2026-10-16T14:06:20.341Z",
+    "2026-10-16T14:08:07.440Z"
+  ],
+  "goal_counter_separate_not_added": {
+    "tokens": 172325,
+    "elapsed_seconds": 1721,
+    "source": "../验证/目标完成状态.json"
+  },
+  "actual_billed_usd": null,
+  "limitations": [
+    "Only these two thread logs; not all projects or account usage",
+    "Current unfinished call/final reply tail may not be logged",
+    "Standard public-price restatement, not historical actual invoice",
+    "OCR/third-party API/web tool/storage charges excluded",
+    "Goal accounting and API-log accounting differ; do not add them"
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "checked_at": "2026-10-16T14:08:57.477669+00:00",
+  "scope": "静态文档核验，不证明原型功能或性能",
+  "local_links_checked": 53,
+  "missing_links": [],
+  "unbalanced_fences": [],
+  "json_examples": [
+    {
+      "file": "03-检索执行与秒级响应设计.md",
+      "valid_json": true
+    },
+    {
+      "file": "11-工程判断链与能力单元.md",
+      "valid_json": true
+    }
+  ],
+  "empty_evidence_missing_roles_consistent": true,
+  "csv": {
+    "08-验收场景种子.csv": {
+      "rows": 60,
+      "states": [
+        "NOT_RUN"
+      ],
+      "unchanged": true
+    },
+    "13-知识职责与判断环节矩阵.csv": {
+      "rows": 27,
+      "states": [
+        "DESIGN_ONLY"
+      ],
+      "unchanged": true
+    }
+  },
+  "before": {
+    "00-编制工作方案.md": {
+      "sha256": "ca63021dc6d7804beb5ffec03580eb06e8a239c0fc842421beb3fdf1d863318a",
+      "bytes": 6792
+    },
+    "01-总体建设方案.md": {
+      "sha256": "2e3082432a902783e8c9871dfd02a39cf7155d4522e829e95701f21736c97c3a",
+      "bytes": 10087
+    },
+    "02-全量记忆与数据治理.md": {
+      "sha256": "461e227c7dddaf223de34d6831ed4476d4fc3ded0a12b2c8c897d7e549e87b3b",
+      "bytes": 13371
+    },
+    "03-检索执行与秒级响应设计.md": {
+      "sha256": "aa0b7025e5a18e9b72c01c51785e1145beaf3b098c6c41baceb6a980fa9a5183",
+      "bytes": 13208
+    },
+    "04-CAD知识工程与审查系统衔接.md": {
+      "sha256": "2011230efb3f6ba940e6914916e4f294b7f2b8c5948b561335dfbce13a0326fb",
+      "bytes": 12889
+    },
+    "05-容量资源与构建部署方案.md": {
+      "sha256": "883ef00c0e045ecb808b4f6c66b91f3c03797aec5e5e6e5d4defbfedb3169294",
+      "bytes": 9625
+    },
+    "06-实施验收与持续维护.md": {
+      "sha256": "fd83c84db045773f2293abb7567a669a72445da8d2c897c69ce1e5166f79a341",
+      "bytes": 12188
+    },
+    "07-依据审阅与设计决策.md": {
+      "sha256": "a798898e35393ca5c5dd7df2af8337aef28071e58872a8bb62dc236d97481659",
+      "bytes": 11411
+    },
+    "08-验收场景种子.csv": {
+      "sha256": "a7ec2ba071ac83dd19926c2dc343b2feae94d226c9d5f923729477451119cfb5",
+      "bytes": 12327
+    },
+    "09-方案自审与交付记录.md": {
+      "sha256": "3effc371a40cc492ae0430ed15e535f828553bbeed38d892c7565455865e93e6",
+      "bytes": 4035
+    },
+    "10-知识域与认知职责组织.md": {
+      "sha256": "3e73ca47af54b54903af8546e901d2b63ea6d9ec496ccbfd4f13732b73673dcc",
+      "bytes": 8452
+    },
+    "11-工程判断链与能力单元.md": {
+      "sha256": "bf434676aa6553b0f7f75fe6ed2f3f981cd0f23c2c4f54cc77538f542a036672",
+      "bytes": 10770
+    },
+    "12-工程实例与建设覆盖.md": {
+      "sha256": "2dd9948531b6003cc8f276a5132c3008e2e6d438e5fbdcbc607eb038f131e637",
+      "bytes": 6373
+    },
+    "13-知识职责与判断环节矩阵.csv": {
+      "sha256": "16e9037afee8f3d1d968ab8ac6ef977ec289c03464c9deb0047fb793f380d9aa",
+      "bytes": 4318
+    },
+    "14-现有资料与采购资料吸收方案.md": {
+      "sha256": "0e13fd5dd2e48b9bc7ae6c5c953dec508712baf711581f7d60e9ff54603ef5f5",
+      "bytes": 13852
+    },
+    "README.md": {
+      "sha256": "b295f784919c931129fc4f289bb81178b3502d8b83779ac84a254f1a590f4e8a",
+      "bytes": 5677
+    },
+    "参考资料指纹.json": {
+      "sha256": "73ecbc0c51914f57f36b202af868607253174fee4006352689f17b8cdfc5cc40",
+      "bytes": 26343
+    }
+  },
+  "changed_existing_files": [
+    "00-编制工作方案.md",
+    "03-检索执行与秒级响应设计.md",
+    "04-CAD知识工程与审查系统衔接.md",
+    "06-实施验收与持续维护.md",
+    "09-方案自审与交付记录.md",
+    "README.md"
+  ],
+  "unchanged_existing_files": [
+    "01-总体建设方案.md",
+    "02-全量记忆与数据治理.md",
+    "05-容量资源与构建部署方案.md",
+    "07-依据审阅与设计决策.md",
+    "08-验收场景种子.csv",
+    "10-知识域与认知职责组织.md",
+    "11-工程判断链与能力单元.md",
+    "12-工程实例与建设覆盖.md",
+    "13-知识职责与判断环节矩阵.csv",
+    "14-现有资料与采购资料吸收方案.md",
+    "参考资料指纹.json"
+  ],
+  "issues": [
+    {
+      "id": "KB-A01",
+      "priority": "P1",
+      "status": "OPEN",
+      "title": "数据合同还不能直接约束实现",
+      "evidence": "02第2/11/12节；03第2/11节；11第6节",
+      "impact": "有对象与字段表，没有统一可校验Schema、版本兼容规则、主键生成/定位坐标/状态枚举和错误合同。不同开发者可能实现出不兼容的数据。",
+      "action": "先形成最小AssetVersion/Unit/Observation/KnowledgeItem/CapabilityUnit/QueryReceipt/ReviewEvent合同及正负样例。",
+      "close_when": "Schema可校验，错误坐标/错版本/未确认状态无法被当作有效输入；同一源重跑身份稳定。"
+    },
+    {
+      "id": "KB-A02",
+      "priority": "P1",
+      "status": "OPEN",
+      "title": "条件与方法缺少可执行表达",
+      "evidence": "02第12节；11第4/6节",
+      "impact": "TRUE/FALSE/UNKNOWN及冲突原则清楚，但未定义条件表达式语法、单位/精度、依赖求值及方法注册；自然语言method_ref不能直接执行。",
+      "action": "选首条方法定义受限条件表达与工具输入输出；区分完整字串、数值、单位、工程语义四种比较。",
+      "close_when": "缺单位返回UNKNOWN；cm与mm不能因数字相同而通过；源标签与像素冲突不自动覆盖。"
+    },
+    {
+      "id": "KB-A03",
+      "priority": "P1",
+      "status": "OPEN",
+      "title": "尚无真实跨源工程闭环",
+      "evidence": "12全部为设计演练；14第5节；06的W1/W3",
+      "impact": "真实资料存在、识图试验可运行，但没有原页→知识项→对象绑定→适用性→方法执行→结果回执的完整实际实例。",
+      "action": "先建一个限定主题的可重放纵向样例，同时有正常、错误、未知分支。",
+      "close_when": "每步均指向真实版本与原文；相同字符换附着关系后，适用分支随之变化；缺关键证据时不虚构计算。"
+    },
+    {
+      "id": "KB-A04",
+      "priority": "P1",
+      "status": "OPEN",
+      "title": "检索与秒级性能仍是设计目标",
+      "evidence": "03第3/6节；05第4节；06第4/5节",
+      "impact": "没有本库中文/短符号/大小写/罕见词召回报告，也没有实际Q0/Q1服务的端到端延迟。OCR时延不能代替检索时延。",
+      "action": "先做精确与全文基线，再对比向量/路由/关系/精排；固定配置、输入和分母。",
+      "close_when": "工程符号关键集命中、长尾漏召回与冷/热P95有报告；增加组件要能解释收益，不先固定全部模型。"
+    },
+    {
+      "id": "KB-A05",
+      "priority": "P1",
+      "status": "OPEN",
+      "title": "验收种子尚未变成金标准",
+      "evidence": "08共60行NOT_RUN；13共27行DESIGN_ONLY；06第2节",
+      "impact": "300题是规划，现有60题尚未绑定真实源版本/期望证据。用户确认的14处只支持指定图面复核，不是完整工程金标准。",
+      "action": "先落地一小组有实际来源、期望证据/缺口、评分办法的开发题；另建按来源族隔离的保留集。",
+      "close_when": "JSON辅助与纯图盲测分开；标签不喂给被测识图器；对未读区域和工程合理性不继承字形确认。"
+    },
+    {
+      "id": "KB-A06",
+      "priority": "P1",
+      "status": "OPEN",
+      "title": "人工确认没有持久化与发布合同",
+      "evidence": "02的Decision/ChangeEvent；04第8节；增强测试的复核页面",
+      "impact": "目前页面填写可读取，但增强目录的机器回执不等于最新用户填写；尚未形成带确认范围的正式ReviewEvent及发布流程。",
+      "action": "定义导入/追加、来源/操作者/时点/确认字段、幂等/冲突/撤回与候选知识发布关系。",
+      "close_when": "用户只确认看见cm时不得改为工程单位正确；C07的看不清+备注推测仍为候选；重复提交不重复回写。"
+    },
+    {
+      "id": "KB-A07",
+      "priority": "P2",
+      "status": "OPEN",
+      "title": "容量、构建成本和恢复目标未测",
+      "evidence": "05第1/2/4/7/8节；06第10节",
+      "impact": "100MB导航与1.81TB占用是算例，没有本库放大率、归档成员规模、吞吐/重试成本、备份介质和恢复目标数据。",
+      "action": "W0分层测对象数与放大率；以代表样本测构建资源，选择独立备份与分层恢复目标。",
+      "close_when": "不复制小集凑1TB；先测批次峰值；原件/目录/确认记录/索引分别给出恢复结果与可接受丢失范围。"
+    },
+    {
+      "id": "KB-A08",
+      "priority": "P2",
+      "status": "OPEN",
+      "title": "代际切换与撤销缺少实现协议",
+      "evidence": "02第8/9节；03第1/8节；06第6节",
+      "impact": "已有staged/validated/published与读取水位原则，但还没有持久化步骤、并发写入/比较交换、查询持有快照与重启恢复的具体协议。",
+      "action": "以单机串行发布者先定义SQLite事务、分片校验、manifest切换和崩溃恢复步骤。",
+      "close_when": "发布中断只见旧完整或新完整代际；撤回后旧缓存不泄漏；故障后可重放同题并解释版本。"
+    },
+    {
+      "id": "KB-A09",
+      "priority": "P2",
+      "status": "OPEN",
+      "title": "手册/表格/公式尚无实际知识样件",
+      "evidence": "10第9节；14第3/4/6节",
+      "impact": "分类与阅读路线合理，但没有来自实际可用手册/教材正文的一个带表头单位、变量范围、条件和例外的完整知识产物。",
+      "action": "按取得情况选一段已获准正文小试；未取得时记录角色缺口，先推进现有资料支撑部分。",
+      "close_when": "来源回原页，公式变量/单位/适用区间可复核；不等全书OCR才开工，不编造未到货书内结论。"
+    },
+    {
+      "id": "KB-A10",
+      "priority": "P2",
+      "status": "CORRECTED_IN_DOC",
+      "title": "W0全量与W1启动范围容易误解",
+      "evidence": "06第1节与第12节",
+      "impact": "原工作包表易被理解为枚举全部成员后才可开W1，与并行小链验证的意图不够明确。",
+      "action": "已区分W0-A物理文件登记、W0-B成员/页/记录枚举；W1可在完整小快照上开始。",
+      "close_when": "文档已纠偏；实施仍需生成真实分母，不能据此声称已全量纳管。"
+    },
+    {
+      "id": "KB-A11",
+      "priority": "P1",
+      "status": "CORRECTED_IN_DOC",
+      "title": "OCR L4b与知识证据检查职责混淆",
+      "evidence": "04原第8节；当前OCR pipeline/l4b_evidence_gate.py及增强回执",
+      "impact": "原文把mandatory角色/coverage检查放在L4b；当前引擎L4b实际是识读取证闸，混用会产生错误接口。",
+      "action": "已改为知识检索/任务执行器负责证据充分性，保留OCR L4b/L4c/L5实际职责。",
+      "close_when": "文档已对齐；没有因此声称正式知识服务API已建好。"
+    },
+    {
+      "id": "KB-A12",
+      "priority": "P2",
+      "status": "CORRECTED_IN_DOC",
+      "title": "证据缺口JSON示例不闭合",
+      "evidence": "03第11节",
+      "impact": "示例evidence为空、mandatory有4角色，却只列2个missing，开发者照抄会漏报缺口。",
+      "action": "已把4个必需角色全部列入missing_roles。",
+      "close_when": "静态检查该例空证据时缺口集合一致；正式合同校验器尚待建设。"
+    },
+    {
+      "id": "KB-A13",
+      "priority": "P2",
+      "status": "OPEN",
+      "title": "工作包还不是文件级实施任务",
+      "evidence": "06的W0—W5及第9节",
+      "impact": "有阶段目标但未绑定拟建仓库/模块、输入输出、依赖、测试与回退；不能直接当整库开发工单。",
+      "action": "先明确小原型文件级清单及接口样例，选取当前可验证的退出条件。",
+      "close_when": "另一位实现者无需猜数据合同与样例，即可照同一小包复现结果；不要求一次细化所有远期功能。"
+    }
+  ],
+  "historical_archive_before_after_verified": false,
+  "history_note": "本轮未操作历史归档；未建立前置指纹，不提供未改动机器证明。",
+  "runtime_tests": "NOT_RUN"
+}

@@ -1,0 +1,41 @@
+# 复核卡 T01-5（自包含，无需我方上下文）
+#   ★ 本类核查的是「引文是否真在声称页上、条款是否适用」——有原文可锚，可机器验。
+audit:
+  date: '2026-10-08'
+  verdict: 通过
+  reason: 原引文为相邻零件方向相反，支持对象错误；改为§4.1。
+  method: 源资料上下文审查；非盲复核，非多专家共识
+path_base: 评分判据库根目录
+id: T01-5
+claim: 同一金属零件剖面线按§4.1保持方向和间隔一致；局部放大图的间距需结合比例与表达核准。
+basis_type: standard
+evidence:
+- type: 引文（逐字）
+  text: 在同一金属零件的图中，剖视图、断面图中的剖面线，应画成间隔相等、方向相同
+- type: 条款
+  std: GB/T 4457.5-2013
+  title: 机械制图 剖面区域的表示法
+  clause: §4.1
+  pdf_page: 4
+- type: 机器校验
+  status: PENDING_REVERIFY
+- type: 完整上下文原页
+  file: evidence/cards/T01-5/context_4.png
+  pdf_page: 4
+- type: 完整上下文原页
+  file: evidence/cards/T01-5/context_6.png
+  pdf_page: 6
+- type: 客户正确图
+  file: ../工程图审核/T01_矩形花键套-正确图纸.pdf
+- type: 客户错误图
+  file: ../工程图审核/T01_矩形花键套-错误图纸.pdf
+- type: 原始标准全文
+  file: ../国标/GBT_4457.5-2013_机械制图_剖面区域的表示法.pdf
+my_conclusion: hypothesis
+question_for_reviewer: 分别核对引文、条款/图例支持、适用条件、合法例外及本例。原引文为相邻零件方向相反，支持对象错误；改为§4.1。
+reviewer_output:
+  verdict: ''
+  reason: ''
+  evidence: ''
+  suggested_fix: ''
+  independent_first: ''

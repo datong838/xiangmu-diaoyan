@@ -1,0 +1,41 @@
+{
+  "recorded_at": "2026-10-20T12:12:49.750450+00:00",
+  "observed_command": "python3 -B -m unittest discover -s /Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/方案导航资料 -p test_navigation.py -v",
+  "observed_exit_code": 0,
+  "observed_test_methods": 9,
+  "observed_unittest_elapsed_seconds": 0.633,
+  "scope": "临时材料和临时本机服务的导航/阅读测试；非工程知识或建模能力验收",
+  "tested_files": [
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/方案导航资料/生成导航.py",
+      "sha256": "7dfe29a5f6cb88a51e4bfe42e5040feee6f31dd36a7af2c78e2629768e264d99",
+      "bytes": 12090
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/方案导航资料/预览服务.py",
+      "sha256": "326347d4b1ea19626d8993524deda5a5a2cbb31fafe0ebbd7a19769aee85602d",
+      "bytes": 6942
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/方案导航资料/test_navigation.py",
+      "sha256": "afbc20959ae40d4b90d3dcf655b5b6a7e88eaea97d87ba737f5b9aa49bc401f3",
+      "bytes": 5318
+    }
+  ],
+  "browser_visual": {
+    "actual_viewport": "1280x720",
+    "light_and_dark": true,
+    "title_search": {
+      "query": "工程事实",
+      "observed_results": 6
+    },
+    "body_search": {
+      "query": "几何签名",
+      "observed_results": 3
+    },
+    "tree_and_local_graph": true,
+    "wide_reader": true,
+    "correction_rounds": 1,
+    "limits": "未穷举所有文档和所有屏幕尺寸；Mermaid显示为代码块"
+  }
+}

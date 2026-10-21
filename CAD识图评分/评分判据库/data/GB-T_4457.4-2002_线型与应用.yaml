@@ -1,0 +1,203 @@
+std: GB/T 4457.4-2002
+title: 机械制图 图样画法 图线
+replaced: GB/T 4457.4-1984
+adoption: MOD ISO 128-24:1999
+base_std: GB/T 17450 技术制图 图线（本部分是对 GB/T 17450 的补充，见 3.1）
+source_file: ../国标/GBT_4457.4-2002_机械制图_图样画法_图线.pdf
+clauses:
+- id: '3.1'
+  title: 基本要求
+  pdf_page: 4
+  text: GB/T 17450 是本部分的基础，本部分是对 GB/T 17450 的补充。图线标准中所涉及的基本线型的结构、尺寸、标记和绘制规则见 GB/T 17450。
+- id: '4'
+  title: 线型及其应用
+  pdf_page: 4
+  text: 表 1 中第 1 列的代码根据 GB/T 17450 给出。
+  table: 表1 线型及应用（跨 PDF p4–p6）
+- id: '5'
+  title: 图线宽度和图线组别
+  pdf_page: 6
+  text: 在机械图样中采用粗细两种线宽，它们之间的比例为2:1。
+  table: 表2 图线宽度和图线组别
+line_types:
+- code: '01.1'
+  name: 细实线
+  group: 细
+  applications:
+  - sub: '.1'
+    use: 过渡线
+  - sub: '.2'
+    use: 尺寸线
+  - sub: '.3'
+    use: 尺寸界线
+  - sub: '.4'
+    use: 指引线和基准线
+  - sub: '.5'
+    use: 剖面线
+  - sub: '.6'
+    use: 重合断面的轮廓线
+  - sub: '.7'
+    use: 短中心线
+  - sub: '.8'
+    use: 螺纹牙底线
+  - sub: '.9'
+    use: 尺寸线的起止线
+  - sub: '.10'
+    use: 表示平面的对角线
+  - sub: '.11'
+    use: 零件成形前的弯折线
+  - sub: '.12'
+    use: 范围线及分界线
+  - sub: '.13'
+    use: 重复要素表示线（例如：齿轮的齿根线）
+  - sub: '.14'
+    use: 锥形结构的基面位置线
+  - sub: '.15'
+    use: 叠片结构位置线（例如：变压器叠钢片）
+  - sub: '.16'
+    use: 辅助线
+  - sub: '.17'
+    use: 不连续同一表面连线
+  - sub: '.18'
+    use: 成规律分布的相同要素连线
+  - sub: '.19'
+    use: 投影线
+  - sub: '.20'
+    use: 网格线
+  - sub: '.21'
+    use: 断裂处边界线；视图与剖视图的分界线
+    also_known_as: 波浪线
+  - sub: '.22'
+    use: 断裂处边界线；视图与剖视图的分界线
+    also_known_as: 双折线
+- code: '01.2'
+  name: 粗实线
+  group: 粗
+  applications:
+  - sub: '.1'
+    use: 可见棱边线
+  - sub: '.2'
+    use: 可见轮廓线
+  - sub: '.3'
+    use: 相贯线
+  - sub: '.4'
+    use: 螺纹牙顶线
+  - sub: '.5'
+    use: 螺纹长度终止线
+  - sub: '.6'
+    use: 齿顶圆（线）
+  - sub: '.7'
+    use: 表格图、流程图中的主要表示线
+  - sub: '.8'
+    use: 系统结构线（金属结构工程）
+  - sub: '.9'
+    use: 模样分型线
+  - sub: '.10'
+    use: 剖切符号用线
+- code: '02.1'
+  name: 细虚线
+  group: 细
+  applications:
+  - sub: '.1'
+    use: 不可见棱边线
+  - sub: '.2'
+    use: 不可见轮廓线
+- code: '02.2'
+  name: 粗虚线
+  group: 粗
+  applications:
+  - sub: '.1'
+    use: 允许表面处理的表示线
+- code: '04.1'
+  name: 细点画线
+  group: 细
+  applications:
+  - sub: '.1'
+    use: 轴线
+  - sub: '.2'
+    use: 对称中心线
+  - sub: '.3'
+    use: 分度圆（线）
+  - sub: '.4'
+    use: 孔系分布的中心线
+  - sub: '.5'
+    use: 剖切线
+- code: '04.2'
+  name: 粗点画线
+  group: 粗
+  applications:
+  - sub: '.1'
+    use: 限定范围表示线
+- code: '05.1'
+  name: 细双点画线
+  group: 细
+  applications:
+  - sub: '.1'
+    use: 相邻辅助零件的轮廓线
+  - sub: '.2'
+    use: 可动零件的极限位置的轮廓线
+  - sub: '.3'
+    use: 重心线
+  - sub: '.4'
+    use: 成形前轮廓线
+  - sub: '.5'
+    use: 剖切面前的结构轮廓线
+  - sub: '.6'
+    use: 轨迹线
+  - sub: '.7'
+    use: 毛坯图中制成品的轮廓线
+  - sub: '.8'
+    use: 特定区域线
+  - sub: '.9'
+    use: 延伸公差带表示线
+  - sub: '.10'
+    use: 工艺用结构的轮廓线
+  - sub: '.11'
+    use: 中断线
+width_table:
+  ratio: '2:1'
+  note: 本次原页p6目视核对7行；0.25/0.35组细线为表列0.13/0.18，按原表保留。
+  groups:
+  - group: '0.25'
+    thick: 0.25
+    thin: 0.13
+    preferred: false
+  - group: '0.35'
+    thick: 0.35
+    thin: 0.18
+    preferred: false
+  - group: '0.5'
+    thick: 0.5
+    thin: 0.25
+    preferred: true
+  - group: '0.7'
+    thick: 0.7
+    thin: 0.35
+    preferred: true
+  - group: '1.0'
+    thick: 1.0
+    thin: 0.5
+    preferred: false
+    suspect: true
+  - group: '1.4'
+    thick: 1.4
+    thin: 0.7
+    preferred: false
+  - group: '2.0'
+    thick: 2.0
+    thin: 1.0
+    preferred: false
+  selection_rule: 应根据图样的类型、尺寸、比例和缩微复制的要求确定（第 5 章）
+supports_rules:
+- rule: 中心线须用细点画线，不得用细双点画线
+  cite: 表1 代码 04.1.4（孔系分布的中心线）vs 05.1（相邻辅助零件/可动零件极限位置等）
+  sample: T02-纠错点5
+- rule: 断裂处边界线／视图与剖视图分界线须用细实线（波浪线 01.1.21），不得用粗实线或虚线
+  cite: 表1 代码 01.1.21 / 01.1.22 + 第 4 章
+  sample: T03-纠错点6、T04-纠错点3
+- rule: 剖切符号用线依01.2.10为粗实线；具体线宽按所选线组。表2不要求比粗轮廓线更粗，不固定0.7mm。
+  cite: 表1 代码 01.2.10 + 表2（第 5 章）
+  sample: T05-纠错点5
+table1_footnote: 表1脚注a：在一张图样上一般采用一种线型，即采用波浪线或双折线。只限定带脚注的断裂边界线，不是全图只用一种线型。
+audit_status: 表1用途与表2已对照原页p4–p6；图例须随规则保留，未核查标准现行性
+

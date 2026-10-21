@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-21T01:07:53.456999+08:00",
+  "scope": "仅本轮新文档分类、来源快照与阅读服务同步，不是知识库专业验收",
+  "nodes": 199,
+  "relations": 499,
+  "static_interaction_checks": 24,
+  "reader_regression_tests": 9,
+  "professional_tests_NOT_RUN": 19,
+  "reading_pages": {
+    "30-": {
+      "html": true,
+      "title_present": true,
+      "url": "http://127.0.0.1:8842/source/cad-7061caafcf27317c"
+    },
+    "31-": {
+      "html": true,
+      "title_present": true,
+      "url": "http://127.0.0.1:8842/source/cad-e537a927ee671388"
+    }
+  },
+  "html_sha256": "5cce2196b3cedbbd357b091f0acffb6997712df907866ffe0d60e2161e5639dd",
+  "generator_sha256": "2aefab246ab7431288b136eb926b3138cb12a245338f683f593e8c8f339be9fc",
+  "visual_review": "本轮未重做视觉验收，页面模板与阅读样式未改",
+  "preview_recovery": "发现原本机预览已退出，恢复同一只读导航服务；未恢复下载定时跟进"
+}

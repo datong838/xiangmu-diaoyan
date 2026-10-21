@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-16",
+  "scope": "仅文档纠错，不修改代码/图纸/引擎配置",
+  "files": [
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/CAD图纸智能审查系统_目标态建设技术方案.md",
+      "before_sha256": "a587c3afd73c2822e850188bf7dc318e0ce676ba220f04f8436df7e5dfb149d1",
+      "after_sha256": "cf2926a5c93f54997fc14d5117a9d3f26cb2c3b61a58f19bfbfb36851cb25ecb"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/DXF到货验证报告_T01-T05正误变体.md",
+      "before_sha256": "73339a4b9cdd8b3dbe1219067145ecfe20dd7f3fc89ddac41462fa48970d60db",
+      "after_sha256": "db02d4f45b9ef4e716e2a588e44a903fef6085e3bb2d2ecd2a8f4a8b855961c1"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD三件套_方案文档/DXF到货验证报告_T01-T05正误变体.md",
+      "before_sha256": "73339a4b9cdd8b3dbe1219067145ecfe20dd7f3fc89ddac41462fa48970d60db",
+      "after_sha256": "db02d4f45b9ef4e716e2a588e44a903fef6085e3bb2d2ecd2a8f4a8b855961c1"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/CAD图纸智能审查系统_工程实施方案.md",
+      "before_sha256": "3edd13fe49eb39067c7882b3b0e8c496f6202dc059807bc93c172cc8ed6ae2fb",
+      "after_sha256": "6cf2366f06c18727cac6ca16f4244010335b2d44a228f609a31d057c26d7f489"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/机械图纸案例库建设方案.md",
+      "before_sha256": "d1a697b229f9643ea1ee9285de88fc5ba054e77696d8ed9ea2fbffddbf89e389",
+      "after_sha256": "d41cc9c0c8adc842d8020a8585a46d6ccb39187075b8d0bc1d9b0a7e03306817"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD三件套_方案文档/机械图纸案例库建设方案.md",
+      "before_sha256": "d1a697b229f9643ea1ee9285de88fc5ba054e77696d8ed9ea2fbffddbf89e389",
+      "after_sha256": "d41cc9c0c8adc842d8020a8585a46d6ccb39187075b8d0bc1d9b0a7e03306817"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/CAD图纸审查_可解释证明体系.md",
+      "before_sha256": "4572c5443a3aa5d20a38c0cb08bff45aa8652f922dac691c02d9d81d29f0198e",
+      "after_sha256": "b92eb5b0be11595a55e8f94bf8ae0232ba4b174db4a51cbc8546e6d224ce0b4c"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/CAD图纸审查_评测与验证体系.md",
+      "before_sha256": "a3c683747b36535842626c8658174c474f2839166b8308ddd65e952ac1292212",
+      "after_sha256": "15d763e7ff581a9c9c0882e52cbc704419b1d2d71f990dbe6636de97b8b6b2ee"
+    }
+  ],
+  "verification": {
+    "date": "2026-10-16",
+    "markdown_fences": "PASS",
+    "case_json_and_pending_states": "PASS",
+    "known_wrong_phrases": "PASS",
+    "duplicate_documents_identical": "PASS",
+    "symbol_layer_counts": {
+      "ACAD_PROXY_ENTITY": 94,
+      "CIRCLE": 4,
+      "MTEXT": 6,
+      "LINE": 10,
+      "SOLID": 2
+    },
+    "scope": "仅文档静态核验；未运行引擎、未做专业规则验收"
+  }
+}

@@ -1,0 +1,650 @@
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon"/>
+</head>
+<body>
+
+
+<link rel="shortcut icon" href="https://www.spc.org.cn/images/favicon.ico" type="image/x-icon"/>
+<link rel="stylesheet" type="text/css" href="/styles/base.css?v=20230922" />
+<link rel="stylesheet" type="text/css" href="/styles/style_zh_CN.css?v=202600907"/>
+<link rel="stylesheet" type="text/css" href="/styles/autocomplete.css?v=20230925" />
+<link rel="stylesheet" type="text/css" href="/styles/online.css?v=20230925" />
+<link rel="stylesheet" type="text/css" href="/js/css/jquery-ui.css" />
+<link rel="stylesheet" type="text/css" href="/styles/common.css?v=20230922" />
+<link rel="stylesheet" type="text/css" href="/styles/gb168/header.css?v=202600907" />
+<link rel="stylesheet" type="text/css" href="/styles/gb168/header_vip.css?v=20230925" />
+
+
+
+
+<div class="headerback">
+	<!-- 顶部导航 -->
+  	<div class="indetopnav">
+		<div class="topnavli">
+			<div class="topleft" style="margin-left:63px">
+				<ul>
+					<li><a href="/customer/plugin" target="_blank">插件下载</a></li>
+					
+					
+						
+						<li><a href="/login" title="登录" target="_blank"  disabled >登录</a><span></span></li>
+						<li><a href="/register" title="注册" target="_blank" >注册</a></li>
+					
+				</ul>
+			</div>		
+			
+			<div class="topright">
+				<div class="rightbtv">
+					<a target="_blank" href="https://www.spc.org.cn/app/2/index.html"><img style="margin-top: -11px;width: 94px;height: 62px;" src="/images/header/bzreadapp.gif" alt=""></a>
+					<a href="/home/findfinshedstandards" title="我的标准" target="_blank" style=""><img src="/images/header/wdbz.png" alt="">我的标准</a>
+				
+					<a href="/login" title="开发票" target="_blank" style="">开发票</a>
+				
+				
+				<a href="/stdlib/vipinfo" title="会员介绍" target="_blank">会员介绍</a>
+				</div>
+				<a href="/orders/cart" class="rightbuy" target="_blank" ><img src="/images/header/telbuy.png?v=20240205" alt="">购物车<!-- <b>2</b>件 --></a>
+				<span><img src="/images/header/telone.png?v=20240223" alt="">400-168-0010</span>
+			</div>
+		</div>
+	</div>
+	<!--  头部 -->
+	<div class="indexhead">
+		<!-- logo -->
+		<div class="indexhead_left">
+			<a href="https://www.spc.org.cn" target="_blank" ><img src="/images/header/index_02.png?v=20231017" alt=""></a>
+		</div>
+		<div class="center">
+			<h3>中国标准在线服务网</h3>
+		</div>
+		
+		<!-- 搜索框 -->
+		<div class="indexhead_center">
+			<div class="search-form">
+				<form action="/basicsearch" method="post" name="form1" autocomplete="off" onsubmit="return searchKey();">
+					<input type="text" class="ky" name="text" id="search-text" value="" placeholder="请输入标准号或标准名称关键词，如 '19001' 或 '食品'" onkeydown="keyDown(event)">
+					<div id="show_search_results123" style=""></div>
+					<input type="button" class="btn" value="检索" onclick="btnSub();">
+					<input type="button" class="advbtn" value="高级检索" onclick="advancedSub();">
+					<a href="/aichat/index" class="chat" target="_blank"><img src="/images/header/ai-query.png"></a>
+					<!-- <input type="button" class="mybtn" value="我的标准" onclick="mySub();"> -->
+					<input type="hidden" name="search" value="a100" />
+				</form>
+				<form action="/basicsearch" method="post" name="basicform" onsubmit="return searchKey();">
+		                <input type="hidden" class="ky" name="text" id="basicsearch-text" value="" />
+	            </form>
+	            <form id="senior-form-header" action="/advancedsearch" method="post">
+	                <input type="hidden" name="sc" value="CN" />
+	            </form>
+	            
+			</div>
+			
+		</div>
+		<!-- denglu -->
+		
+	</div>
+	<div id="header" class="clearfix">
+		<div class="nav-bar">
+		    <div class="nav-back" style="height: 12px; color: red">
+		        <div class="nav">
+		            <ul class="nav-top">
+		                <li><a href="https://www.spc.org.cn" class='curr' target="_blank" ><em>首页</em></a></li>
+		                <li id="nav-frist">
+		                    
+		                    
+		                        <a href="/stdlib/vipinfo"  target="_blank" >
+		                            <em id="ppt">会员中心</em>
+		                         </a>
+		                    
+		                    <div class="nav-subnav" style="display: none">
+		                        <ul>
+		                        	<li><a href="/stdlib/view/openvip" target="_blank">加入会员</a></li>
+		                            <li><a href="/stdlib/readroom" target="_blank">标准下载阅读</a></li>
+		                            <li><a href="/stdlib/stdschedule" target="_blank">标准进度查询</a></li>
+		                            <li><a href="/myknowledge/termsearchnew" target="_blank">标准术语查询</a></li>
+		                            
+		                            
+		                                <li><a href="/stdlib/madepushdetail" target="_blank" rel="nofollow">定制推送</a></li>
+		                                <li><a href="/stdlib/madepushdetail" target="_blank" rel="nofollow">标准跟踪</a></li>
+		                            
+		                        </ul>
+		                    </div>
+		                </li>
+		                <li id="nav-frist"><a href=""><em>在线服务</em></a>
+		                	<div class="nav-subnav" style="display: none">
+		                        <ul>
+		                            <li><a href="/standardonline/replace?type=3" target="_blank">标准引用查询</a></li>
+		                            <li><a href="/standardonline/replace?type=0" target="_blank" >作废代替查询</a></li>
+		                            <li><a href="/knowledge/termsearch" target="_blank" >标准术语库</a></li>
+		                            <li><a href="/freeread?type=1" target="_blank" >强制性国家标准全文库</a></li>
+		                            <li><a href="/adoptstand/searchlist" target="_blank" >采标标准库</a></li>
+		                            <li><a href="/freeread?type=0" target="_blank" >计量检定规程规范</a></li>
+		                            <li><a href="/stdverification/" target="_blank" >标准批量查新</a></li>
+		                            <li><a href="/revision/query" target="_blank" >国家标准计划查询</a></li>
+		                        </ul>
+		                    </div>
+		                </li>
+		                <li id="nav-frist"><a href=""><em>标准知识库</em></a>
+		                	<div class="nav-subnav" style="display: none">
+		                        <ul>
+		                            <li><a href="https://www.spc.org.cn/bzbxknowledge/bzbx/index" target="_blank">标准编写知识库</a></li>
+		                            <li><a href="/know/knownew/allsearchnew?&knowtype=YYWS" target="_blank">医药卫生知识库</a></li>
+		                            <li><a href="/know/knownew/allsearchnew?&knowtype=SPHY" target="_blank">食品安全知识库</a></li>
+		                            <li><a href="/know/knownew/allsearchnew?&knowtype=SYHY" target="_blank">石油石化知识库</a></li>
+		                            <!-- <li><a href="" target="_blank" rel="nofollow">工程建设知识库</a></li> -->
+		                        </ul>
+		                    </div>
+		                </li>
+		                
+		                <li><a href="/standardonline/replace?type=5"><em>标准英文版</em></a></li>
+		                <li id="nav-frist"><a href="/standardonline" id="ppt"  target="_blank"><em>标准分类</em></a>
+		                	<div class="nav-subnav" style="display: none">
+		                        <ul>
+		                            <li><a href="/standardonline/datalist?type=CN" target="_blank" >国家标准</a></li>
+		                            <li><a href="/standardonline/datalist?type=QT" target="_blank" >行业标准</a></li>
+		                            <li><a href="/standardonline/datalist?type=ISO" target="_blank" >国际标准</a></li>
+		                            <li><a href="/standardonline/datalist?type=GW" target="_blank" >国外标准</a></li>
+		                            <li><a href="/standardonline/datalist?type=JJ" target="_blank" >计量规程规范标准</a></li>
+		                       		<li><a href="/standardonline/datalist?type=TC" target="_blank" >团体标准</a></li>
+		                            <li><a href="/standardonline/datalist?type=DFBZ" target="_blank" >地方标准</a></li>
+		                            <li><a href="/standardonline/datalist?type=QYBZ" target="_blank" >企业标准</a></li>
+		                        </ul>
+		                    </div>
+		                </li>
+		              
+		                <li><a href="/customer/questions" target="_blank"><em>常见问题</em></a></li>
+	                    <li><a href="/about" ><em>关于我们</em></a></li>
+		                
+		                <!-- <li><a href="https://www.spc.org.cn/bzbxknowledge/bzbx/index" target="_blank" rel="nofollow"><em>标准编写知识库</em></a></li> -->
+		                
+		                
+		                
+		                
+	                    
+		            </ul>
+		        </div>
+		    </div>
+		</div>
+	</div>
+		<div style="display: none; width: 100%" id="colorbox"></div>
+		<!--↓遮罩-->
+		<div class="mark-tip" style="display: none;">
+			<div class="mark-back"></div>
+		    <div class="mark-con">
+		    	<div class="mark-fork" onclick="cancelmark()">
+		    		<img src="/images/fork.png"/>
+		    	</div>
+		    	<div class="mark-cen">
+		    		<input type="hidden" value="" name="mark-jt" />
+		    		<p>本标准阅读由<span class="wbbz"></span>平台提供</p>
+		    		<p>即将离开本页面去往<span class="wbbz"></span>平台，确定前往？</p>
+	                <button type="button" onclick="cancelmark()" style="background:#c0c0c0;">取消</button>
+	                <button type="button" onclick="confirmsubmit()" style="margin-left:30px;">确认</button>
+		 		 </div>
+		    </div>
+		</div>
+		<!--↓遮罩-->
+		<div class="mark-tip-vip" style="display:none">
+			<div class="mark-back"></div>
+		    <div class="mark-con">
+		    	<div class="mark-cen">
+		    		<p>提示：</p>
+		    		<p class="tip"></p>
+		               <button type="button" onclick="confirmsubmitvip()">确认</button>
+		 		 </div>
+		    </div>
+		</div>
+		<div class="float" id="error_box" style='display: none;'>
+			<div class="float-top pngfix"></div>
+			<div class="float-mid pngfix">
+				<div class="float-success">
+					<div class="success" style="height:140px">
+						<div class="m-left" style="padding:50px 0 0 0px"><img alt="" src="/images/success_warning.png"></div>
+							<span id="errorMessage1" style="display:inline-block;font-size:18px; float: right;margin-top: -27px;margin-left: 40px;width: 516px;"></span>
+					</div>					
+					<div style="margin: 10px 10px 0 0;position: absolute;top: 45px;right: 45px;"><a href="javascript:;" onclick="hideErrorBox();" style="font-size: 12px;color: blue;"><img alt="" src="/images/cha.png"></a></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="sidebar">
+		<div class="vertical-grid">
+			<span>AI</span>
+			<span>搜</span>
+		</div>
+		<div class="sideAI" style="display: none;">
+			<div class="aiput">
+				<div class="lt">
+					<span>AI</span>
+					<span>搜</span>
+				</div>
+				<div class="rt">
+					<img src="/images/barcode/robot.png" alt="">
+				</div>
+			</div>
+		</div>
+	</div>
+	
+<script type="text/javascript">
+	(function() {
+		var gbkEntry = document.getElementById("header-gbk-login");
+		if (!gbkEntry) {
+			return;
+		}
+		requestJson("GET", "/third/gongbiaoku/eligible", null, function(res) {
+			if (res && res.errorCode == "0" && String(res.value) == "0") {
+				gbkEntry.style.display = "none";
+			}
+		}, function() {
+			// 接口异常时保持入口可见，避免出现“全站都不显示”
+		});
+	})();
+
+	function requestJson(method, url, data, success, error) {
+		if (window.jQuery && $.ajax) {
+			$.ajax({
+				type: method,
+				url: url,
+				data: data,
+				dataType: "json",
+				success: success,
+				error: error
+			});
+			return;
+		}
+		var xhr = new XMLHttpRequest();
+		xhr.open(method, url, true);
+		if (method === "POST") {
+			xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8");
+		}
+		xhr.onreadystatechange = function() {
+			if (xhr.readyState !== 4) {
+				return;
+			}
+			if (xhr.status >= 200 && xhr.status < 300) {
+				try {
+					var res = JSON.parse(xhr.responseText || "{}");
+					if (success) success(res);
+				} catch (e) {
+					if (error) error(e);
+				}
+			} else {
+				if (error) error();
+			}
+		};
+		xhr.send(data || null);
+	}
+
+	function loginGbkFromHeader() {
+		requestJson("POST", "/third/gongbiaoku/sso", "", function(res) {
+			if (res && res.errorCode == "0" && res.value) {
+				window.open(res.value, "_blank");
+			} else {
+				alert((res && res.value) ? res.value : "获取工标库登录地址失败，请稍后重试");
+			}
+		}, function() {
+			alert("获取工标库登录地址失败，请稍后重试");
+		});
+	}
+	(function () {
+		const widget = document.getElementById('competitionWidget');
+		const collapse = document.getElementById('competitionCollapse');
+		const expand = document.getElementById('competitionExpand');
+
+		function setCollapsed(isCollapsed) {
+		widget.classList.toggle('is-collapsed', isCollapsed);
+		collapse.setAttribute('aria-expanded', String(!isCollapsed));
+		expand.setAttribute('aria-expanded', String(!isCollapsed));
+	}
+
+		collapse.addEventListener('click', function () { setCollapsed(true); });
+		collapse.addEventListener('keydown', function (event) {
+		if (event.key === 'Enter' || event.key === ' ') {
+		event.preventDefault();
+		setCollapsed(true);
+	}
+	});
+		expand.addEventListener('click', function () { setCollapsed(false); });
+	})();
+</script>
+<div class="float" id="error_box" style='display: none;'>
+	<div class="float-top pngfix"></div>
+	<div class="float-mid pngfix">
+		<div class="float-success">
+			<div class="success" style="height:140px">
+				<div class="m-left" style="padding:50px 0 0 150px"><img alt="" src="/images/success_warning.png"></div>
+					<span id="errorMessage" style="display:inline-block;margin:50px 0px;font-size:18px;"></span>
+			</div>					
+			<div style="margin: 10px 10px 0 0;position: absolute;top: 45px;right: 45px;"><a href="javascript:;" onclick="hideErrorBox();" style="font-size: 12px;color: blue;"><img alt="" src="/images/cha.png"></a></div>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript" src="/js/jquery-ui-datepicker.js"></script>
+<script type="text/javascript" src="/js/stdtype.js"></script>
+<script type="text/javascript" src="/js/jquery.validate.js"></script>
+<script type="text/javascript" src="/js/validate_zh_CN.js?v=20220615"></script>
+<script type="text/javascript" src="/js/formatdate.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/js/common.js"></script>
+<script type="text/javascript" src="/js/stdcourse/common.js?v=20221017" ></script> 
+<script type="text/javascript" src="/js/search.js"></script>
+<script type="text/javascript" src="/js/My97DatePicker/WdatePicker.js"></script>
+<script type="text/javascript" src="/js/crypto-js-4.1.1/crypto-js.js"></script>
+<script type="text/javascript" src="/js/include_yh.js?v=20250623"></script>
+<script type="text/javascript">
+var cust = "";
+
+
+/* gb168.cn 百度统计  */
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?b5bdb81ba9543a3b3567778ab86df74b";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+/* spc.org.cn 百度统计  */
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?f1e3be80a525d0bb9e111ca6cbaa2457";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+//360统计
+/* (function(b,a,e,h,f,c,g,s){b[h]=b[h]||function(){(b[h].c=b[h].c||[]).push(arguments)};
+b[h].s=!!c;g=a.getElementsByTagName(e)[0];s=a.createElement(e);
+s.src="//s.union.360.cn/"+f+".js";s.defer=!0;s.async=!0;g.parentNode.insertBefore(s,g)
+})(window,document,"script","_qha",503364,false); */
+
+//百度爬虫自动抓取js
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+var search="";
+var keyword="";
+var path="";
+</script>
+
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<title>客户服务-客户须知-中国标准在线网</title>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="国家标准网,标准,GB,ISO,国家标准,标准网,国际标准,行业标准,标准查询,标准下载,IEC,国外标准,标准分享网">
+<meta name="description" Content="中国标准在线服务网提供各行业标准,国家标准查询,公告,及标准下载,地方规范标准文本下载,推动企业标准体系建设,国家标准免费下载。">
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon"/>
+
+
+<!--[if lte IE 6]>
+<script type="text/javascript" src="js/fixpng.js"></script>	
+<script type="text/javascript" src="js/ie6.js"></script>
+<script type="text/javascript">
+	$(function(){
+		$(".nav .child-nav").parents().css({"z-index":"999"});
+	});
+</script>
+<![endif]-->
+</head>
+<body>
+<div id="content">   
+    <div class="customer">
+    	<div class="clearfix">
+        	<div class="sidebar left">
+            	<h4 class="tt">客户服务</h4>
+            	<ul class="menu">
+            		<li class="curr"><a href="/customer">购买须知</a></li>
+                    <li><a href="/customer/questions">常见问题</a></li>
+                    <li><a href="/customer/paymentmethods">付款方式</a></li>
+                    <li><a href="/customer/email">客服邮箱</a></li>
+                    <li><a href="/customer/plugin">插件下载</a></li>
+            	</ul> 
+                <span class="bline"></span>
+            </div>
+            <div class="main right">
+            	<div class="main-top"></div>
+            	<div class="customer-cont">
+            		<div class="customer-head ">
+            			<!-- <div class="sns-links right">
+            		    	<a href="tencent://message/?uin=921361359&Site=中国标准在线服务网&Menu=yes" class="qq">qq</a>
+            		        <a href="http://shop102274034.taobao.com/" class="taobao" target="_blank">淘宝</a>
+            		        <a href="http://e.weibo.com/u/3197843300" class="sina" target="_blank">新浪微博</a>
+            		    </div> -->
+            			<h5>客户须知</h5>
+            		</div>
+                    <div class="notice-list">
+                    	<div class="title">前言</div>
+                    	<div class="content" style="font-weight: bold;">
+                    		<span style="color: #ff6600;">欢迎光临中国标准在线服务网！我们可为您安全、便捷地提供标准网上购买服务，如果您在购买标准过程中遇到问题，请及时与我们联系。</span><br />
+                    		销售服务热线：400-168-0010&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;传真：（86）010-51780182&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电子邮箱：service@spc.org.cn
+                    	</div>
+                    	<div class="title">购买流程</div>
+                    	<div class="content">
+                    		<img alt="" src="/images/notice_flow_zh_CN.png"/>
+                    	</div>
+                    	<div class="note">
+                    		<div class="note_icon"></div>&nbsp;&nbsp;&nbsp;<span style="font-size: 16px;font-weight: bold;">注意事项：</span><br/>
+                    		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;根据国家标准委《标准网络出版发行管理规定》，为保护国家标准版权，《国家网络服务发行系统》对电子版国家标准进行了个性化加密处理，您注册，务必如实填写您所在单位名称及单位简称，该信息将以水印形式显示在标准文本中，此个性化水印是您合法购买正版电子版国家标准依据。<br/>
+                    		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="red">如因注册信息不真实而引起的不良后果，完全由客户自己承担。</span>
+                    	</div>
+                    	<div class="title">使用指南<a name="download" href="#download"></a></div>
+                    	<div class="content-notice">
+                    		1、如果您不是《中国标准在线服务网》网站的注册用户，请先免费注册成为我们的&quot;注册用户 &quot;，无须交纳任何费用，但如果您想要用&quot;预付款&quot;方式购买标准，请注册后，先通过电汇或转账、邮局汇款、交纳现金等方式为您的&quot;我的账户&quot;充值后，方可使用。<br/>
+                    		2、登录后，您可以准确、方便、快捷地查找您所需的标准，并可以查看标准的详细信息及标准的文前页内容，以便您确定是否购买该标准。<br/>
+                    		3、您选定了所需标准后，您可以选择"预付款、网银支付、微信支付、支付宝"四种支付方式中的任何一种来付款。<br/>
+                    		4、标准购买完成后，请您务必记住您所提交订单的订单号，您可以在&quot;我的账户&quot;中查询订单状态，订单一旦处理完成后，订单会在&quot;已处理完成的订单&quot;中出现，您可打开订单查询细目，逐一下载自己所购买的标准。<br/>
+                    		<font style="color: red;">特别声明：自订单生成之日起10日后，未付款订单将视为无效订单被清除；付款订单如需保留本地文件请在10日内下载，超过10日不能下载，可去我的标准中在线阅读。</font><br/>
+                    		5、电力标准电子版（加密加水印）需同时安装Adobe Reader和FileOpen插件，限制3台电脑使用，总打印次数5次。安装好插件后，右击PDF标准文件选择默认打开方式Adobe Reader打开即可阅读或打印。<a href="/customer/plugin"><font style="color: blue;">插件下载</font></a><br/>
+                    		6、新用户注册即可开通普通会员，老用户须联系我们免费开通普通会员；成为普通会员后，可选择不同等级在线支付升级会员，详见<a href="/stdlib/view/myvipjs" style="color:blue">会员介绍</a>。<br/>
+                    	</div>
+                    	<div class="title">信息安全保证</div>
+                    	<div class="content" style='height: 300px;font:13px/30px "微软雅黑";margin-top: -20px;'>
+                    		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;未经您本人同意，我们不会向第三者透露您的任何个人信息和购买记录。您在使用信用卡、储蓄卡和其它支付方式的时候，个人资料在结算时将向有关的金融认证系统直接传送，包括我们在内的任何其他人无法得知。为了保护您的隐私和个人信息安全，我们建议您：<br/>
+                    		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、妥善保管您的有关密码；<br/>
+                    		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2、在公共场合或者他人在场的情况下，输入您的任何个人资料应该特别小心;离开电脑时应关闭所有浏览器窗口;长时间离开时应该关闭电脑;<br/>
+                    		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3、如果您使用的是个人电脑，请使用加密码的屏幕保护功能;<br/>
+                    		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4、定期使用新版的杀毒软件清理病毒；<br/>
+                    	</div>
+                    </div>
+                    
+            	</div>
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+
+
+
+
+<!-- <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head> -->
+		<!-- <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> -->
+		<style type="text/css">
+		* html {overflow-x:auto;overflow-y:auto;}
+		* html #qq {position:absolute;}
+		/*2019-02-28改*/.footer-cont {position:relative;}
+		.footer-nav a:hover {color:#e53937!important;}
+		.wx {position:absolute;top:6px;right:30px;}
+		.wx img {width:70px;height:70px;}
+		.wx dl dd {margin-top:3px;}
+		.wx dl {float:left;margin: 0 10px;}
+		/* .wx .gb-wx {margin-right:34px;} */
+		#footer {height:150px;background:#3c3c3c;}
+		.footer-link {float:left;text-align:left;height:20px;line-height:20px;}
+		.footer-link p {width:70px;float:left;font-size:14px;}
+		.footer-link ul {float:right;width:800px;}
+		.footer-link ul li {float:left;}
+		.footer-link ul li a {font-size:13px;margin:0 10px;color:#fff;line-height:24px;}
+		.footer-link ul li a:hover {color:#e53937;font-weight:bold;}
+		.footer-brief {float:left;clear:both;margin-top:20px;}
+		.footer-brief p {font-size:14px;}
+		.brief-left {float:left;}
+		/* 修改 */
+		.brief-right {float:right;margin-left:145px;}
+		.brief-right p {font-size:15px;}
+		.footer-conttom {width:100%;min-width:1280px!important;margin:0 auto;text-align:center;color:#fff;background:#3C3C3C;border-top:1px solid lightblue;}
+		.footer-conttom p span {font-size:12px;margin:0 12px;}
+		.footer-conttom .flag {position:relative;right:-400px;bottom:10px;}
+		.footer-conttom .flag img {width:20px;height:25px;}
+		/*2019-02-28改*/
+		</style>
+	<!-- </head> -->
+	<body>
+		<div id="footer">
+		    <div class="footer-cont">
+		        <div class="footer-nav" style="float:left;margin-top:10px">
+		            <a href="/customer" rel="nofollow">购买流程</a><em>|</em>
+		            <a href="/about" rel="nofollow">关于我们</a><em>|</em>
+		            <a href="/about/link" rel="nofollow">联系我们</a><em>|</em>
+		            <a href="/about/ad" rel="nofollow">广告服务</a><em>|</em>
+		            <a href="/customer" rel="nofollow">帮助中心</a>
+		        </div>
+		        <div class="footer-link">
+		            <p><b>友情链接：</b></p>
+		            <ul>
+		                <li><a rel="nofollow" href="http://www.samr.gov.cn/" title="国家市场监督管理总局" target="_blank">国家市场监督管理总局</a></li>
+                        <li><a rel="nofollow" href="http://www.sac.gov.cn/" title="国家标准化管理委员会" target="_blank">国家标准化管理委员会</a></li>
+                        <li><a rel="nofollow" href="https://www.iso.org/home.html"   title="ISO" target="_blank">ISO</a></li>
+                        <li><a rel="nofollow" href="https://www.iec.ch/"  title="IEC" target="_blank">IEC</a></li>
+                        <li><a rel="nofollow" href="http://www.faxin.cn/" title="法信网" target="_blank">法信网</a></li>
+		            </ul>
+		        </div>
+		        
+		        
+		         <div class="footer-link" style="margin-top:10px;">
+		            <p><b>社内链接：</b></p>
+		            <ul>
+                        <li><a rel="nofollow" href="http://www.spc.net.cn/#" title="中国质量标准出版传媒有限公司（中国标准出版社）" target="_blank">中国质量标准出版传媒有限公司（中国标准出版社）</a></li>
+                        <li style="display: none;"><a rel="nofollow" href="http://pxzx.spc.net.cn/index" title="教育培训中心" target="_blank">教育培训中心</a></li>
+                        <li><a rel="nofollow" href="http://webstore.spc.net.cn/" title="中国标网" target="_blank">发行中心</a></li>
+		            </ul>
+		        </div>
+		        
+		        
+		        <div class="footer-brief" style="">
+		            <div class="brief-left">
+		                <p>主管：国家市场监督管理总局 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;主办：中国标准出版社 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;运营：北京标科网络技术有限公司&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+		                <a style="color:red;" href="javascript:;" onclick="togom()" rel="nofollow">访问手机端</a></p>
+		            </div>
+		            <div class="brief-right">
+		                <p>服务热线：400-168-0010</p>
+
+		            </div>
+		        </div>
+		        <div class="wx">
+		            <dl class="gb-wx">
+		                <dt><img src="/images/barcode/zjcbs.png"></dt>
+		                <dd style="width: 90px;">中国标准出版社微信公众号</dd>
+		            </dl>
+		            <dl>
+		                <dt><img src="/images/barcode/footer_weixin.jpg" /></dt>
+		                <dd style="width: 110px;">中国标准在线服务网微信公众号</dd>
+		            </dl>
+		            <dl>
+		                <dt><img src="/images/barcode/footer_qq1.jpg" /></dt>
+		                <dd>QQ交流2群</dd>
+		            </dl>
+		        </div>
+		        
+		    </div>
+		</div>
+		<div class="footer-conttom">
+			
+<div class="footer-records" style="padding:8px 0 7px;font-size:14px;line-height:24px;">
+	<div>
+		<a style="display:inline-block;margin:0 10px;color:#fff;" rel="nofollow noopener noreferrer" target="_blank" href="http://www.spc.org.cn">www.spc.org.cn</a>
+		<a style="display:inline-block;margin:0 10px;color:#fff;" rel="nofollow noopener noreferrer" target="_blank" href="https://beian.miit.gov.cn">京ICP备16035570号-4</a>
+		<a style="display:inline-block;margin:0 10px;color:#fff;" rel="nofollow noopener noreferrer" target="_blank" href="https://beian.mps.gov.cn/#/query/webSearch?code=11010502034497">京公网安备11010502034497号</a>
+		<a style="display:inline-block;margin:0 10px;color:#fff;" rel="nofollow noopener noreferrer" target="_blank" href="http://www.gb168.cn">www.gb168.cn</a>
+		<a style="display:inline-block;margin:0 10px;color:#fff;" rel="nofollow noopener noreferrer" target="_blank" href="https://beian.miit.gov.cn">京ICP备16035570号-13</a>
+		<a style="display:inline-block;margin:0 10px;color:#fff;" rel="nofollow noopener noreferrer" target="_blank" href="https://beian.mps.gov.cn/#/query/webSearch?code=11010502034995">京公网安备11010502034995号</a>
+	版权所有 侵权必究</div>
+</div>
+
+			<span class="flag"></span>
+		</div>
+	</body>
+<!-- </html> -->
+<script type="text/javascript">
+				
+	$(function() {
+		$("#qq table tr:not(:last)").hide();
+		$("#qq table tr:first").show();
+		$("#hidead").toggle(function() {
+			$("#qq table tr").show();
+			$("#qq table tr:first").hide();
+		}, function() {
+			$("#qq table tr:not(:last)").hide();
+			$("#qq table th").parent().show();
+		});
+		$("#close_qq").mouseover(function() {
+			$("#close_qq").css("background", "#E53937");
+		});
+		$("#close_qq").mouseout(function() {
+			$("#close_qq").css("background", "#3B80C7");
+		});
+	});
+	function showqq() {
+		$("#qq table tr").show();
+		$("#qq table tr:first").hide();
+	}
+	function hideqq() {
+		$("#qq table tr:not(:last)").hide();
+		$("#qq table th").parent().show();
+	}
+
+	/*关闭提示信息*/
+	function hideMessage() {
+		$("#colorbox").hide();
+		$(".operateMsg").hide();
+	};
+	function togom(){
+		var expiresDate= new Date();
+		expiresDate.setTime(expiresDate.getTime() + (30*60*1000));
+		$.cookie('togo','off',{expires:expiresDate,path:'/'});
+		window.location.href = "/mobile/index";
+	 }
+</script>
+<script type="text/javascript">
+	var _hmt = _hmt || [];
+	(function() {
+	  var hm = document.createElement("script");
+	  hm.src = "//hm.baidu.com/hm.js?b5bdb81ba9543a3b3567778ab86df74b";
+	  var s = document.getElementsByTagName("script")[0]; 
+	  s.parentNode.insertBefore(hm, s);
+	})();
+</script>
+
+</body>
+</html>

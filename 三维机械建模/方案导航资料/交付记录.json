@@ -1,0 +1,89 @@
+{
+  "recorded_at": "2026-10-20T12:14:06.457139+00:00",
+  "entry": "http://127.0.0.1:8843/",
+  "canonical_2d": "http://127.0.0.1:8842/",
+  "scope": "三维方案与精选工件导航；二维只指向原入口、不复制正文",
+  "navigation_report": {
+    "ok": true,
+    "missing_inputs": [],
+    "nodes": 68,
+    "local_sources": 45,
+    "canonical_2d_links": 23,
+    "relations": 122,
+    "pending_links": 104,
+    "unique_ids": true,
+    "source_reading_scope": "作者已有编写/阅读基础；本轮全量扫描与分组复核；原附件不作工程核准",
+    "generated_at": "2026-10-20T20:14:05.536020+08:00",
+    "artifact_sha256": "7e8eb9bf8b940ebf5c2aa105d54c62d4f6c1b5d9c1d45ef34547e641f5b528b8"
+  },
+  "artifacts": [
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维方案文档地图.html",
+      "sha256": "7e8eb9bf8b940ebf5c2aa105d54c62d4f6c1b5d9c1d45ef34547e641f5b528b8",
+      "bytes": 614496
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/方案导航资料/生成导航.py",
+      "sha256": "7dfe29a5f6cb88a51e4bfe42e5040feee6f31dd36a7af2c78e2629768e264d99",
+      "bytes": 12090
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/方案导航资料/导航模板.html",
+      "sha256": "681a881d2537a01c4603131246c28cdc60ffeb6d07c104b5490dcd47fcfc281e",
+      "bytes": 27960
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/方案导航资料/预览服务.py",
+      "sha256": "326347d4b1ea19626d8993524deda5a5a2cbb31fafe0ebbd7a19769aee85602d",
+      "bytes": 6942
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/方案导航资料/文档图谱数据.json",
+      "sha256": "ba94a66f2ea34c672bf5d3f2f1c7c166ade6ac57bfc981e0f7a5e59dbf12a4c9",
+      "bytes": 540612
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/方案导航资料/稳定节点ID.json",
+      "sha256": "d07f7013d99b2afe785721268712fde719ababf9a0c590852e7abf136ad7eaa9",
+      "bytes": 9137
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/方案导航资料/来源阅读与分类台账.jsonl",
+      "sha256": "ea15538fa3707fc2fa29ccace6ed12539669dd5dd3dfbce6078efe4742b676c7",
+      "bytes": 34975
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/方案导航资料/test_navigation.py",
+      "sha256": "afbc20959ae40d4b90d3dcf655b5b6a7e88eaea97d87ba737f5b9aa49bc401f3",
+      "bytes": 5318
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/方案导航资料/测试与视觉核验.json",
+      "sha256": "5014ad5f6ebd2013178b369831bcd24fe83fef76e3d9b293ad699fb5f4202984",
+      "bytes": 1630
+    }
+  ],
+  "two_dimensional_files_unchanged": true,
+  "service_bound_to": "127.0.0.1:8843",
+  "service_handle": 93173,
+  "two_dimensional_service_not_restarted": true,
+  "tests": {
+    "methods": 9,
+    "exit_code": 0,
+    "scope": "临时导航和阅读服务；非建模/知识正确性验收"
+  },
+  "visual_review": {
+    "actual_browser": true,
+    "viewport": "1280x720",
+    "title_and_body_search": true,
+    "wide_reader": true,
+    "graph_and_themes": true,
+    "correction_rounds": 1
+  },
+  "pending_references": {
+    "范围外工件入口": 104
+  },
+  "git_baseline": "/Users/ddt/work/projects/ai_agent/docs",
+  "archify": "doctor成功；自定义导航索引，非Typed JSON图，未宣称9项图形验收",
+  "maintenance": "来源快照，需生成器刷新；未设置定时任务"
+}

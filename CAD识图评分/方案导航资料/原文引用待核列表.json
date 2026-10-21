@@ -1,0 +1,1137 @@
+[
+  {
+    "source": "cad-01f26cdc46f4f12a",
+    "target": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/HANDOFF-CODEX-20261013.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-01f26cdc46f4f12a",
+    "target": "../_metadata/download-manifest.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-01f26cdc46f4f12a",
+    "target": "../_metadata/final-acceptance.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-01f26cdc46f4f12a",
+    "target": "../_metadata/archive-verification.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-01f26cdc46f4f12a",
+    "target": "../_metadata/三项数据使用说明验证.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-01f26cdc46f4f12a",
+    "target": "../_derived/ParaCAD/ocr_sample_20261016/inputs/05_sketch_7036_1_0.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-01f26cdc46f4f12a",
+    "target": "../_derived/ParaCAD/ocr_sample_20261016/inputs/07_sketch_4560_1_0.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-01f26cdc46f4f12a",
+    "target": "../_derived/ParaCAD/ocr_sample_20261016/inputs/08_sketch_7803_3_0.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-01f26cdc46f4f12a",
+    "target": "../_derived/ParaCAD/ocr_sample_20261016/inputs/10_sketch_1956_3_0.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-01f26cdc46f4f12a",
+    "target": "../_derived/ParaCAD/ocr_sample_20261016/抽样测试报告.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-01f26cdc46f4f12a",
+    "target": "../_derived/ParaCAD/ocr_sample_20261016/evaluation.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-01f26cdc46f4f12a",
+    "target": "../_derived/ParaCAD/ocr_sample_20261016/execution_summary.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-01f26cdc46f4f12a",
+    "target": "../_derived/ParaCAD/ocr_sample_20261016/verification.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-01f26cdc46f4f12a",
+    "target": "../_derived/ParaCAD/ocr_enhanced_20261016/L5待确认.html",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-01f26cdc46f4f12a",
+    "target": "../_derived/ParaCAD/ocr_enhanced_20261016/L5待确认.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-01f26cdc46f4f12a",
+    "target": "../_derived/ParaCAD/ocr_enhanced_20261016/增强测试报告.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-01f26cdc46f4f12a",
+    "target": "../_derived/ParaCAD/ocr_enhanced_20261016/execution_summary.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-e800ba3229a99593",
+    "target": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/HANDOFF-CODEX-20261013.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-e800ba3229a99593",
+    "target": "../_metadata/download-manifest.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-e800ba3229a99593",
+    "target": "../_metadata/final-acceptance.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-e800ba3229a99593",
+    "target": "../_metadata/archive-verification.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-e800ba3229a99593",
+    "target": "../_metadata/三项数据使用说明验证.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-e800ba3229a99593",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/知识库重点建设方案/README.md",
+    "reason": "原文链接目标待核"
+  },
+  {
+    "source": "cad-e800ba3229a99593",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/知识库重点建设方案/10-知识域与认知职责组织.md",
+    "reason": "原文链接目标待核"
+  },
+  {
+    "source": "cad-e800ba3229a99593",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/知识库重点建设方案/11-工程判断链与能力单元.md",
+    "reason": "原文链接目标待核"
+  },
+  {
+    "source": "cad-e800ba3229a99593",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/知识库重点建设方案/14-现有资料与采购资料吸收方案.md",
+    "reason": "原文链接目标待核"
+  },
+  {
+    "source": "cad-fe719a7c27622562",
+    "target": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/HANDOFF-CODEX-20261013.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-fe719a7c27622562",
+    "target": "../_metadata/download-manifest.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-fe719a7c27622562",
+    "target": "../_metadata/final-acceptance.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-fe719a7c27622562",
+    "target": "../_metadata/archive-verification.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-fe719a7c27622562",
+    "target": "../_metadata/三项数据使用说明验证.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-fe719a7c27622562",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/知识库重点建设方案/README.md",
+    "reason": "原文链接目标待核"
+  },
+  {
+    "source": "cad-fe719a7c27622562",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/知识库重点建设方案/10-知识域与认知职责组织.md",
+    "reason": "原文链接目标待核"
+  },
+  {
+    "source": "cad-fe719a7c27622562",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/知识库重点建设方案/11-工程判断链与能力单元.md",
+    "reason": "原文链接目标待核"
+  },
+  {
+    "source": "cad-fe719a7c27622562",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/知识库重点建设方案/14-现有资料与采购资料吸收方案.md",
+    "reason": "原文链接目标待核"
+  },
+  {
+    "source": "cad-98f732d0b7cea45f",
+    "target": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/高精度识图体系 · 五层流水线矩阵.html",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-98f732d0b7cea45f",
+    "target": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/HANDOFF-CODEX-20261013.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-98f732d0b7cea45f",
+    "target": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/pipeline/l0g_truth_check.py",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-98f732d0b7cea45f",
+    "target": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/evaluation/audit_triax.py",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-98f732d0b7cea45f",
+    "target": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/ocr_pipeline.py",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-98f732d0b7cea45f",
+    "target": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/pipeline/l0g_dxf_truth.py",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-98f732d0b7cea45f",
+    "target": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/testdata/_codex_dwg_audit_20261014/图框标题栏_变体目录.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-98f732d0b7cea45f",
+    "target": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/testdata/_codex_dwg_audit_20261014/核查汇总.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-98f732d0b7cea45f",
+    "target": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/testdata/_codex_compare_20261013/comparison_data.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-98f732d0b7cea45f",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/过程文档/阅读与核查记录/目标态方案_资料核查记录_20261015.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-2641fca3877f7c42",
+    "target": "/Volumes/NVME2T/projects/ai_agent/cad/dataset/_derived/ParaCAD/ocr_enhanced_20261016/增强测试报告.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-687a003dcf7aba0b",
+    "target": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/README.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-687a003dcf7aba0b",
+    "target": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/system/新MES系统设计/58-新MES文档与项目记忆管理机制.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-687a003dcf7aba0b",
+    "target": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/04-文档注册表.csv",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-687a003dcf7aba0b",
+    "target": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/05-主题与关系索引.csv",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-687a003dcf7aba0b",
+    "target": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/07-原始附件与资产总索引.csv",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-687a003dcf7aba0b",
+    "target": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/08-旧依据到新设计全链路映射.csv",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-9ed57c89a39969ea",
+    "target": "/Volumes/NVME2T/projects/ai_agent/cad/dataset/_derived/ParaCAD/ocr_enhanced_20261016/增强测试报告.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-9ed57c89a39969ea",
+    "target": "/Volumes/NVME2T/projects/ai_agent/cad/dataset/_derived/ParaCAD/ocr_enhanced_20261016/execution_summary.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-9ed57c89a39969ea",
+    "target": "/Volumes/NVME2T/projects/ai_agent/cad/dataset/_derived/ParaCAD/ocr_enhanced_20261016/verification.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-8cb913e5390b355f",
+    "target": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/reports/contract_validation.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-8cb913e5390b355f",
+    "target": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/reports/real_a_validation.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-552f11dffb0771de",
+    "target": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/reports/real_b_validation.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-552f11dffb0771de",
+    "target": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/fixtures/real_b_sources.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-552f11dffb0771de",
+    "target": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/reports/real_b/normal_pair_overlay.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-e3798c9ec9c77126",
+    "target": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/reports/catalog_validation.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4eb1b72f56133c89",
+    "target": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/fixtures/review_capture_20261016/dom_feedback.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4eb1b72f56133c89",
+    "target": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/fixtures/review_capture_20261016/capture_manifest.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4eb1b72f56133c89",
+    "target": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/reports/review_capture.sqlite",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4eb1b72f56133c89",
+    "target": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/reports/review_store_validation.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-43ee9f64b5413341",
+    "target": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/reports/runtime_validation.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-2e80e6601e2fea8d",
+    "target": "08-验收场景种子.csv",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-716c303ce27764b9",
+    "target": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/README.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-716c303ce27764b9",
+    "target": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/system/新MES系统设计/58-新MES文档与项目记忆管理机制.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-716c303ce27764b9",
+    "target": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/04-文档注册表.csv",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-716c303ce27764b9",
+    "target": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/05-主题与关系索引.csv",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-716c303ce27764b9",
+    "target": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/07-原始附件与资产总索引.csv",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-716c303ce27764b9",
+    "target": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/08-旧依据到新设计全链路映射.csv",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-716c303ce27764b9",
+    "target": "参考资料指纹.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-0c8b4da3661a4359",
+    "target": "08-验收场景种子.csv",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-e12f20e892fa6844",
+    "target": "08-验收场景种子.csv",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4dad9d9ffe3b11dd",
+    "target": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/README.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4dad9d9ffe3b11dd",
+    "target": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/system/新MES系统设计/58-新MES文档与项目记忆管理机制.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4dad9d9ffe3b11dd",
+    "target": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/04-文档注册表.csv",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4dad9d9ffe3b11dd",
+    "target": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/05-主题与关系索引.csv",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4dad9d9ffe3b11dd",
+    "target": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/07-原始附件与资产总索引.csv",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4dad9d9ffe3b11dd",
+    "target": "/Users/ddt/work/projects/ai_agent/mrpmes/docs/project-memory/08-旧依据到新设计全链路映射.csv",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4dad9d9ffe3b11dd",
+    "target": "参考资料指纹.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4723b88a3d0c836e",
+    "target": "13-知识职责与判断环节矩阵.csv",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-1d83a58e12841541",
+    "target": "13-知识职责与判断环节矩阵.csv",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4d4da1bb93e397d4",
+    "target": "08-验收场景种子.csv",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4d4da1bb93e397d4",
+    "target": "13-知识职责与判断环节矩阵.csv",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-c1811443a91aa35e",
+    "target": "历史版本/",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-b335630551682c19",
+    "target": "CAD方案文档地图.html",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-b335630551682c19",
+    "target": "过程文档/文档治理/迁移清单_20261016.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-b335630551682c19",
+    "target": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/文档/脚本治理/脚本目录与使用指南.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-316577ec49236867",
+    "target": "竞赛介绍/匠学图纸助教_核心能力与产学研应用.docx",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-316577ec49236867",
+    "target": "竞赛介绍/竞赛材料_配图/",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-e43b0244fc42f123",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/对外材料/竞赛介绍/竞赛材料_配图/00_目标态识图审查改进总图.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-e43b0244fc42f123",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/对外材料/竞赛介绍/竞赛材料_配图/02_三类专业知识支撑.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-e43b0244fc42f123",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/对外材料/竞赛介绍/竞赛材料_配图/03_学校与企业使用闭环.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-e43b0244fc42f123",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/对外材料/竞赛介绍/竞赛材料_配图/04_问题解释与指导示意.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-756f66018f8e7e88",
+    "target": "标准PDF文本层检测.py",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-3cb4cc38edc43432",
+    "target": "国标/_ocr_text/",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-3cb4cc38edc43432",
+    "target": "过程文档/文档治理/文档职责清单_20261020.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-65c5a819c3089549",
+    "target": "/Users/ddt/.codex/sessions/2026/09/16/rollout-2026-09-16T07-18-28-01a0a75d-59b4-72c0-a5de-f4ade3806ab2.jsonl",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/T01-8.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "../evidence/cards/T01-8/context_14.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "../evidence/cards/T01-8/context_15.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "../evidence/cards/T01-8/context_16.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/W-T01-6.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "../evidence/crosscheck_20261009/rules/W-T01-6/context_11.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "../evidence/crosscheck_20261009/rules/W-T01-6/context_65.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "../evidence/crosscheck_20261009/rules/W-T01-6/context_86.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "../evidence/crosscheck_20261009/rules/W-T01-6/context_87.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/W-T02-1.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "../evidence/crosscheck_20261009/rules/W-T02-1/context_6.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/W-T02-2.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "../evidence/crosscheck_20261009/rules/W-T02-2/context_6.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "../evidence/crosscheck_20261009/rules/W-T02-2/context_7.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "../evidence/crosscheck_20261009/rules/W-T02-2/context_9.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/W-T02-4.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "../evidence/crosscheck_20261009/rules/W-T02-4/context_7.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "../evidence/crosscheck_20261009/rules/W-T02-4/context_14.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "../evidence/crosscheck_20261009/rules/W-T02-4/context_15.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "../evidence/crosscheck_20261009/rules/W-T02-4/context_16.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/W-T04-4.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "../evidence/crosscheck_20261009/rules/W-T04-4/context_14.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "../evidence/crosscheck_20261009/rules/W-T04-4/context_15.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "../evidence/crosscheck_20261009/rules/W-T04-4/context_16.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "../evidence/crosscheck_20261009/focus/T05_轴承盖-正确图纸_vector_overlay.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "../evidence/crosscheck_20261009/focus/T05_轴承盖-错误图纸_vector_overlay.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "../evidence/crosscheck_20261009/focus/index.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/C-L2-DIMCOMPLETE-001.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/T01-2.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/T01-3.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/C-L1-CLOSEDCHAIN-001.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/T01-5.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/W-T01-6.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/T01-7.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/T01-8.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/W-T02-1.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/W-T02-2.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/C-L2-DIMCOMPLETE-001.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/W-T02-4.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/T02-5.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/T02-6.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/T03-1.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/C-L2-PROJECTION-001.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/T03-3.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/C-L3-CONSISTENCY-001.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/C-L2-DIMCOMPLETE-001.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/T03-6.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/T04-1.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/T04-2.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/T04-3.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/W-T04-4.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/C-L3-CONSISTENCY-001.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/T04-6.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/T05-1.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/T05-2.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/T05-3.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/C-L2-DIMCOMPLETE-001.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/T05-5.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-21276856ee167721",
+    "target": "pack_v1/T05-6.yaml",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-944bfcba28b5d1f5",
+    "target": "CAD图纸智能审查系统_全套建设文档.zip",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-944bfcba28b5d1f5",
+    "target": "OCR选型研究.zip",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-944bfcba28b5d1f5",
+    "target": "采购旧稿/",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-bdb77ed4b5ab7a67",
+    "target": "迁移清单_20261016.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-bdb77ed4b5ab7a67",
+    "target": "目录整理核验_20261016.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-bdb77ed4b5ab7a67",
+    "target": "新增导航清单_20261016.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-bdb77ed4b5ab7a67",
+    "target": "文档职责清单_20261020.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-bdb77ed4b5ab7a67",
+    "target": "索引核验_20261020.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/过程文档/阅读与核查记录/CAD三件套_全文阅读清单_20261015.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/过程文档/阅读与核查记录/目标态方案_资料核查记录_20261015.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工具/标准PDF文本层检测.py",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工具/标准PDF文本层检测.py",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工具/标准PDF文本层检测.py",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/历史版本/KB-DESIGN-001/08-验收场景种子.csv",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/历史版本/KB-DESIGN-001/参考资料指纹.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/历史版本/KB-DESIGN-001/归档清单.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/历史版本/KB-DESIGN-002/08-验收场景种子.csv",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/历史版本/KB-DESIGN-002/13-知识职责与判断环节矩阵.csv",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/历史版本/KB-DESIGN-002/参考资料指纹.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/历史版本/KB-DESIGN-002/归档清单.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/过程文档/评审与修订记录/方案修订清单_20261016.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/过程文档/阅读与核查记录/全套建设文档_全文阅读清单_20261015.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/过程文档/历史方案与交付包/CAD图纸智能审查系统_全套建设文档.zip",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/过程文档/历史方案与交付包/OCR选型研究.zip",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/过程文档/调研记录/附图/图表_20261007151539.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/过程文档/调研记录/附图/机械制图_国标_20261007151619.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/过程文档/资料核查报告/国标电子文本_下载清单.xlsx.inspect.ndjson",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/对外材料/竞赛介绍/匠学图纸助教_核心能力与产学研应用.docx",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/对外材料/竞赛介绍/竞赛材料_配图/00_目标态识图审查改进总图.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/对外材料/竞赛介绍/竞赛材料_配图/00_目标态识图审查改进总图.svg",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/对外材料/竞赛介绍/竞赛材料_配图/01_核心能力全景.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/对外材料/竞赛介绍/竞赛材料_配图/01_核心能力全景.svg",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/对外材料/竞赛介绍/竞赛材料_配图/02_三类专业知识支撑.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/对外材料/竞赛介绍/竞赛材料_配图/02_三类专业知识支撑.svg",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/对外材料/竞赛介绍/竞赛材料_配图/03_学校与企业使用闭环.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/对外材料/竞赛介绍/竞赛材料_配图/03_学校与企业使用闭环.svg",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/对外材料/竞赛介绍/竞赛材料_配图/04_问题解释与指导示意.png",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/对外材料/竞赛介绍/竞赛材料_配图/04_问题解释与指导示意.svg",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/文档/专题记录/OCR引擎表现全记录.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/文档/专题记录/符号子集与混淆对照表-框架.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/文档/专题记录/视觉证据通道对比-DeepSeek-vs-GPT6.1Sol.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-4297f7ac73bd68c5",
+    "target": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/文档/历史快照/README_20261012.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-ab6ee04cf315753f",
+    "target": "方案修订清单_20261016.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-ae023e8b249bc02a",
+    "target": "附图/",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-d0b6f26dc714887e",
+    "target": "国标电子文本_下载清单.xlsx.inspect.ndjson",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-78b808995d773066",
+    "target": "../../工具/标准PDF文本层检测.py",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-78b808995d773066",
+    "target": "目标态方案_资料核查记录_20261015.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-78b808995d773066",
+    "target": "CAD三件套_全文阅读清单_20261015.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-c5eb4ea9c4c7c495",
+    "target": "CAD三件套_全文阅读清单_20261015.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-c5eb4ea9c4c7c495",
+    "target": "全套建设文档_全文阅读清单_20261015.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-c5eb4ea9c4c7c495",
+    "target": "目标态方案_资料核查记录_20261015.json",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-b8fa3d6e3a17100e",
+    "target": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/高精度识图体系 · 五层流水线矩阵.html",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-b8fa3d6e3a17100e",
+    "target": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/OCR组网方案-多引擎互证与语义仲裁.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-b8fa3d6e3a17100e",
+    "target": "/Users/ddt/work/projects/ai_agent/mybuddy/refs/ocr/文档/历史快照/README_20261012.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-0c59a72662e01408",
+    "target": "文档/脚本治理/脚本目录与使用指南.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-0c59a72662e01408",
+    "target": "高精度识图体系 · 五层流水线矩阵.html",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-0c59a72662e01408",
+    "target": "高精度识图体系 · 通俗版.html",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-0c59a72662e01408",
+    "target": "HANDOFF-CODEX-20261013.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-0c59a72662e01408",
+    "target": "OCR组网方案-多引擎互证与语义仲裁.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-0c59a72662e01408",
+    "target": "T01-T05 最终效果 · 直观证据.html",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-0c59a72662e01408",
+    "target": "文档/历史快照/README_20261012.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-8bef724b14cb2e74",
+    "target": "专题记录/OCR引擎表现全记录.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-8bef724b14cb2e74",
+    "target": "专题记录/符号子集与混淆对照表-框架.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-8bef724b14cb2e74",
+    "target": "专题记录/视觉证据通道对比-DeepSeek-vs-GPT6.1Sol.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-8bef724b14cb2e74",
+    "target": "历史快照/README_20261012.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-8bef724b14cb2e74",
+    "target": "脚本治理/脚本目录与使用指南.md",
+    "reason": "未在本导航范围"
+  },
+  {
+    "source": "cad-8bef724b14cb2e74",
+    "target": "脚本治理/实验脚本整理结果_20261016.md",
+    "reason": "未在本导航范围"
+  }
+]

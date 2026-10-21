@@ -1,0 +1,44 @@
+# 复核卡 T01-8（自包含，无需我方上下文）
+#   ★ 本类核查的是「引文是否真在声称页上、条款是否适用」——有原文可锚，可机器验。
+audit:
+  date: '2026-10-09'
+  verdict: 通过（条款命题）
+  reason: 1800.1 §4.1.2.5及§4.2.1，PDF第15页（印刷第11页）直接支持孔/轴代号大小写。客户DOCX写ø48H7，原PDF疑点实际φ42 h7，φ48 H10未变；保留目标冲突，待客户确认。
+  method: 文字层与原页视觉核准，非专家共识
+path_base: 评分判据库根目录
+id: T01-8
+claim: 在GB/T1800.1-2020代号体系适用范围内，孔的基本偏差用大写、轴用小写字母；本例φ42 h7应结合孔特征核查。允许使用极限偏差数值表达，不要求所有公差都必须字母代号。
+basis_type: standard
+evidence:
+- type: 条文内容转述，字符及表号省略；逐字原文以完整原页为准
+  text: 对于孔，用大写字母(A，…，ZC)；对于轴，用小写字母(a，…，zc)。
+- type: 条款
+  std: GB/T 1800.1-2020
+  title: 产品几何技术规范（GPS） 线性尺寸公差ISO代号体系 第1部分：公差、偏差和配合的基础
+  clause: §4.1.2.5/§4.2.1/§4.2.2
+  pdf_page: 15
+- type: 机器校验
+  status: PENDING_REVERIFY
+- type: 完整上下文原页
+  file: evidence/cards/T01-8/context_14.png
+  pdf_page: 14
+- type: 完整上下文原页
+  file: evidence/cards/T01-8/context_15.png
+  pdf_page: 15
+- type: 完整上下文原页
+  file: evidence/cards/T01-8/context_16.png
+  pdf_page: 16
+- type: 客户正确图
+  file: ../工程图审核/T01_矩形花键套-正确图纸.pdf
+- type: 客户错误图
+  file: ../工程图审核/T01_矩形花键套-错误图纸.pdf
+- type: 原始标准全文
+  file: ../国标/GB_T 1800.1-2020 产品几何技术规范（GPS） 线性尺寸公差ISO代号体系 第1部分：公差、偏差和配合的基础.pdf
+my_conclusion: hypothesis
+question_for_reviewer: 核准孔/轴特征、基本偏差字母与数字等级，不把图纸文字差异或客户标签自动当标准结论；检查§4.2.2极限偏差表达例外。
+reviewer_output:
+  verdict: ''
+  reason: ''
+  evidence: ''
+  suggested_fix: ''
+  independent_first: ''

@@ -1,0 +1,50 @@
+# 复核卡 T05-3（自包含，无需我方上下文）
+#   ★ 本类核查的是「引文是否真在声称页上、条款是否适用」——有原文可锚，可机器验。
+audit:
+  date: '2026-10-08'
+  verdict: 通过
+  reason: 原引注1不能单独证明图案互斥；附表1整页与例外。
+  method: 源资料上下文审查；非盲复核，非多专家共识
+path_base: 评分判据库根目录
+id: T05-3
+claim: 根据材料类别与表1核查剖面符号；须排除已有专用符号、复合材料及§4.5替代表达。
+basis_type: standard
+evidence:
+- type: 引文（逐字）
+  text: 剖面符号仅表示材料的类型
+- type: 条款
+  std: GB/T 4457.5-2013
+  title: 机械制图 剖面区域的表示法
+  clause: §4 注1
+  pdf_page: 4
+- type: 机器校验
+  status: PENDING_REVERIFY
+- type: 完整上下文原页
+  file: evidence/cards/T05-3/context_3.png
+  pdf_page: 3
+- type: 完整上下文原页
+  file: evidence/cards/T05-3/context_4.png
+  pdf_page: 4
+- type: 完整上下文原页
+  file: evidence/cards/T05-3/context_6.png
+  pdf_page: 6
+- type: 完整上下文原页
+  file: evidence/cards/T05-3/context_7.png
+  pdf_page: 7
+- type: 完整上下文原页
+  file: evidence/cards/T05-3/context_8.png
+  pdf_page: 8
+- type: 客户正确图
+  file: ../工程图审核/T05_轴承盖-正确图纸.pdf
+- type: 客户错误图
+  file: ../工程图审核/T05_轴承盖-错误图纸.pdf
+- type: 原始标准全文
+  file: ../国标/GBT_4457.5-2013_机械制图_剖面区域的表示法.pdf
+my_conclusion: hypothesis
+question_for_reviewer: 分别核对引文、条款/图例支持、适用条件、合法例外及本例。原引注1不能单独证明图案互斥；附表1整页与例外。
+reviewer_output:
+  verdict: ''
+  reason: ''
+  evidence: ''
+  suggested_fix: ''
+  independent_first: ''

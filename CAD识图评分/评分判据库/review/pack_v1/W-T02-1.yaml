@@ -1,0 +1,46 @@
+# 补充依据及适用性核准项
+id: W-T02-1
+sample: T02-1
+claim: 带短横的表面结构符号要求去除材料，符号底部带圆圈表示不允许去除材料；不可与各表面同要求的上部圆圈混淆。
+basis_type: standard_candidate
+audit:
+  date: '2026-10-09'
+  verdict: 依据已补，案例待核准
+  reason: 原图φ62 f7处Ra3.2符号从去除材料型变为不允许去除材料型，数值未改。条款能确定两符号不同工艺含义，f7配合代号本身不能证明必须切削；本例违规需客户确认目标表面的加工要求。
+  method: 原页视觉核准与OCR导航，非模型多数票
+path_base: 评分判据库根目录
+evidence:
+- type: 客户正确图
+  file: ../工程图审核/T02_端盖-正确图纸.pdf
+- type: 客户错误图
+  file: ../工程图审核/T02_端盖-错误图纸.pdf
+- type: 标准条款及图例
+  file: ../国标/GB_T 131-2006 产品几何技术规范(GPS) 技术产品文件中表面结构的表示法.pdf
+  clause: §4.2/§4.3.1/§4.3.2/§4.5/§11.2.2
+  pdf_pages:
+  - 5
+  - 6
+  - 7
+  - 14
+  - 15
+- type: 完整上下文原页
+  file: evidence/crosscheck_20261009/rules/W-T02-1/context_5.png
+  pdf_page: 5
+- type: 完整上下文原页
+  file: evidence/crosscheck_20261009/rules/W-T02-1/context_6.png
+  pdf_page: 6
+- type: 完整上下文原页
+  file: evidence/crosscheck_20261009/rules/W-T02-1/context_7.png
+  pdf_page: 7
+- type: 完整上下文原页
+  file: evidence/crosscheck_20261009/rules/W-T02-1/context_14.png
+  pdf_page: 14
+- type: 完整上下文原页
+  file: evidence/crosscheck_20261009/rules/W-T02-1/context_15.png
+  pdf_page: 15
+reviewer_output:
+  verdict: ''
+  reason: ''
+  evidence: ''
+  suggested_fix: ''
+source_status: 已补完整标准，条款与图例已核对；案例适用性单列

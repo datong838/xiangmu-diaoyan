@@ -1,0 +1,46 @@
+# 补充依据及适用性核准项
+id: W-T02-2
+sample: T02-2
+claim: 圆锥锥度图形符号方向与圆锥方向一致，基准线平行圆锥轴线，由指引线连接圆锥轮廓。
+basis_type: standard_candidate
+audit:
+  date: '2026-10-09'
+  verdict: 通过（方向条款命题）
+  reason: 所供版本15754-2025。正误图1:10符号确实左右翻转，锥孔右端较小；原图及图8对应后，方向规则得到支持。仍须区分锥度与斜度符号，不以OCR字符<或>代替图例。
+  method: 原页视觉核准与OCR导航，非模型多数票
+path_base: 评分判据库根目录
+evidence:
+- type: 客户正确图
+  file: ../工程图审核/T02_端盖-正确图纸.pdf
+- type: 客户错误图
+  file: ../工程图审核/T02_端盖-错误图纸.pdf
+- type: 标准条款及图例
+  file: ../国标/GBT 15754-2025 产品几何技术规范 尺寸和公差标注 圆锥.pdf
+  clause: 第4章图3/§5.2图8
+  pdf_pages:
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+- type: 完整上下文原页
+  file: evidence/crosscheck_20261009/rules/W-T02-2/context_6.png
+  pdf_page: 6
+- type: 完整上下文原页
+  file: evidence/crosscheck_20261009/rules/W-T02-2/context_7.png
+  pdf_page: 7
+- type: 完整上下文原页
+  file: evidence/crosscheck_20261009/rules/W-T02-2/context_8.png
+  pdf_page: 8
+- type: 完整上下文原页
+  file: evidence/crosscheck_20261009/rules/W-T02-2/context_9.png
+  pdf_page: 9
+- type: 完整上下文原页
+  file: evidence/crosscheck_20261009/rules/W-T02-2/context_10.png
+  pdf_page: 10
+reviewer_output:
+  verdict: ''
+  reason: ''
+  evidence: ''
+  suggested_fix: ''
+source_status: 已补完整标准，条款与图例已核对；案例适用性单列

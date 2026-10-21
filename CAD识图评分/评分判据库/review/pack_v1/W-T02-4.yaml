@@ -1,0 +1,46 @@
+# 补充依据及适用性核准项
+id: W-T02-4
+sample: T02-4
+claim: 表面结构注写、读取方向与尺寸一致；直接标在轮廓时从材料外指向并接触表面，也允许带箭头/黑点指引线、无歧义尺寸线等规定形式。
+basis_type: standard_candidate
+audit:
+  date: '2026-10-09'
+  verdict: 依据已补，案例待核准
+  reason: 右下Ra6.3原来通过带箭头指引线标注，错图将符号转向且数值落在不同位置；结合图16–20核查。不能把所有旋转符号或离开轮廓的标注判错。
+  method: 原页视觉核准与OCR导航，非模型多数票
+path_base: 评分判据库根目录
+evidence:
+- type: 客户正确图
+  file: ../工程图审核/T02_端盖-正确图纸.pdf
+- type: 客户错误图
+  file: ../工程图审核/T02_端盖-错误图纸.pdf
+- type: 标准条款及图例
+  file: ../国标/GB_T 131-2006 产品几何技术规范(GPS) 技术产品文件中表面结构的表示法.pdf
+  clause: §5.2/§11.2.1/§11.2.2–§11.2.5
+  pdf_pages:
+  - 7
+  - 8
+  - 14
+  - 15
+  - 16
+- type: 完整上下文原页
+  file: evidence/crosscheck_20261009/rules/W-T02-4/context_7.png
+  pdf_page: 7
+- type: 完整上下文原页
+  file: evidence/crosscheck_20261009/rules/W-T02-4/context_8.png
+  pdf_page: 8
+- type: 完整上下文原页
+  file: evidence/crosscheck_20261009/rules/W-T02-4/context_14.png
+  pdf_page: 14
+- type: 完整上下文原页
+  file: evidence/crosscheck_20261009/rules/W-T02-4/context_15.png
+  pdf_page: 15
+- type: 完整上下文原页
+  file: evidence/crosscheck_20261009/rules/W-T02-4/context_16.png
+  pdf_page: 16
+reviewer_output:
+  verdict: ''
+  reason: ''
+  evidence: ''
+  suggested_fix: ''
+source_status: 已补完整标准，条款与图例已核对；案例适用性单列

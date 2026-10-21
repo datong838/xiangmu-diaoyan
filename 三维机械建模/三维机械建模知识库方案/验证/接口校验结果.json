@@ -1,0 +1,43 @@
+{
+  "recorded_at": "2026-10-16T14:35:08.053529+00:00",
+  "command": [
+    "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/.venv-evidence/bin/python",
+    "-m",
+    "unittest",
+    "discover",
+    "-s",
+    "验证",
+    "-v"
+  ],
+  "cwd": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案",
+  "exit_code": 0,
+  "test_methods": 5,
+  "negative_subcases": 26,
+  "positive_design_cases": 1,
+  "output": "test_geometry_constraints_before_kernel (test_plan.PlanTests.test_geometry_constraints_before_kernel) ... ok\ntest_identity_units_and_source_scope (test_plan.PlanTests.test_identity_units_and_source_scope) ... ok\ntest_no_single_metric_or_misbound_requirement (test_plan.PlanTests.test_no_single_metric_or_misbound_requirement) ... ok\ntest_operation_dependencies_and_roles (test_plan.PlanTests.test_operation_dependencies_and_roles) ... ok\ntest_valid_design_is_not_execution_or_engineering_approval (test_plan.PlanTests.test_valid_design_is_not_execution_or_engineering_approval) ... ok\n\n----------------------------------------------------------------------\nRan 5 tests in 0.012s\n\nOK\n",
+  "input_code_fingerprints": [
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/契约/model-plan.schema.json",
+      "bytes": 11133,
+      "sha256": "e5d8e92688acf1e4538349996fb9683af90c87589f20b4297575b9ff1d413f83"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/设计样例/板孔计划.json",
+      "bytes": 4117,
+      "sha256": "1b29e68b457bb9597f8be9eaa9e0d938ffeab8f8fc12654d97a876fedf1ba4cf"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/验证/validate_plan.py",
+      "bytes": 6900,
+      "sha256": "2c4efd6fa10faf7e4afb68a39400eaf190cf319932e897e12c606762e815c126"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/三维机械建模/三维机械建模知识库方案/验证/test_plan.py",
+      "bytes": 4213,
+      "sha256": "3d0096fa61a3e3f607e634e0ff6f91eecb4b87d1c632142e2ed935033042bd2d"
+    }
+  ],
+  "runtime_versions": "{\"python\": \"3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]\", \"jsonschema\": \"4.25.1\"}",
+  "scope": "Synthetic plate-hole design contract only; no kernel execution, real-model or manufacturing acceptance",
+  "goal_status": "active"
+}

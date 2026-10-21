@@ -1,0 +1,625 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "sample_class",
+    "scope",
+    "representations",
+    "objects",
+    "contexts",
+    "facts",
+    "bindings",
+    "intents",
+    "instances"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "engineering-facts/0.1"
+    },
+    "sample_class": {
+      "const": "DESIGN_SIMULATION"
+    },
+    "scope": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "tenant",
+        "project"
+      ],
+      "properties": {
+        "tenant": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 1000
+        },
+        "project": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 1000
+        }
+      }
+    },
+    "representations": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 256,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "revision",
+          "source_ref",
+          "kind",
+          "unit",
+          "entities"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 1000
+          },
+          "revision": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "source_ref": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 1000
+          },
+          "kind": {
+            "enum": [
+              "DESIGN_DESCRIPTION",
+              "BREP",
+              "MESH",
+              "DRAWING"
+            ]
+          },
+          "unit": {
+            "enum": [
+              "mm",
+              "cm",
+              "m"
+            ]
+          },
+          "entities": {
+            "type": "array",
+            "minItems": 0,
+            "maxItems": 256,
+            "items": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 1000
+            },
+            "uniqueItems": true
+          }
+        }
+      }
+    },
+    "objects": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 256,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "revision",
+          "kind",
+          "representation_refs"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 1000
+          },
+          "revision": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "kind": {
+            "enum": [
+              "PART",
+              "HOLE",
+              "SHAFT",
+              "GROOVE",
+              "DATUM",
+              "ASSEMBLY"
+            ]
+          },
+          "representation_refs": {
+            "type": "array",
+            "minItems": 0,
+            "maxItems": 256,
+            "items": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 1000
+            }
+          }
+        }
+      }
+    },
+    "contexts": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 256,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "configuration",
+          "state_label"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 1000
+          },
+          "configuration": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 1000
+          },
+          "state_label": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 1000
+          }
+        }
+      }
+    },
+    "facts": {
+      "type": "array",
+      "minItems": 0,
+      "maxItems": 256,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "subject_ref",
+          "subject_revision",
+          "domain",
+          "predicate",
+          "assertion_kind",
+          "state",
+          "quantity",
+          "object_ref",
+          "context_ref",
+          "raw",
+          "conflict_refs"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 1000
+          },
+          "subject_ref": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 1000
+          },
+          "subject_revision": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "domain": {
+            "enum": [
+              "GEOMETRY",
+              "TOPOLOGY",
+              "PARAMETER",
+              "ASSEMBLY"
+            ]
+          },
+          "predicate": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 1000
+          },
+          "assertion_kind": {
+            "enum": [
+              "SOURCE_STATEMENT",
+              "INFERENCE",
+              "DESIGN_REQUIREMENT"
+            ]
+          },
+          "state": {
+            "enum": [
+              "KNOWN",
+              "UNKNOWN",
+              "CONFLICTED"
+            ]
+          },
+          "quantity": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "value",
+              "unit"
+            ],
+            "properties": {
+              "value": {
+                "anyOf": [
+                  {
+                    "type": "string",
+                    "pattern": "^-?(0|[1-9][0-9]*)(\\.[0-9]+)?$",
+                    "maxLength": 80
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "unit": {
+                "enum": [
+                  "mm",
+                  "cm",
+                  "m",
+                  "deg",
+                  "1",
+                  null
+                ]
+              }
+            }
+          },
+          "object_ref": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "maxLength": 1000
+          },
+          "context_ref": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 1000
+          },
+          "raw": {
+            "type": "string",
+            "maxLength": 2000
+          },
+          "conflict_refs": {
+            "type": "array",
+            "minItems": 0,
+            "maxItems": 256,
+            "items": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 1000
+            }
+          }
+        }
+      }
+    },
+    "bindings": {
+      "type": "array",
+      "minItems": 0,
+      "maxItems": 256,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "object_ref",
+          "object_revision",
+          "representation_ref",
+          "representation_revision",
+          "state",
+          "candidate_sets",
+          "basis"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 1000
+          },
+          "object_ref": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 1000
+          },
+          "object_revision": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "representation_ref": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 1000
+          },
+          "representation_revision": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "state": {
+            "enum": [
+              "RESOLVED",
+              "AMBIGUOUS",
+              "INVALIDATED",
+              "UNRESOLVED"
+            ]
+          },
+          "candidate_sets": {
+            "type": "array",
+            "minItems": 0,
+            "maxItems": 256,
+            "items": {
+              "type": "array",
+              "minItems": 1,
+              "maxItems": 256,
+              "items": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "uniqueItems": true
+            }
+          },
+          "basis": {
+            "enum": [
+              "DESIGN_DECLARATION",
+              "CANDIDATE_MATCH"
+            ]
+          }
+        }
+      }
+    },
+    "intents": {
+      "type": "array",
+      "minItems": 0,
+      "maxItems": 256,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "object_ref",
+          "goal",
+          "parameters",
+          "frozen",
+          "variable",
+          "constraints"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 1000
+          },
+          "object_ref": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 1000
+          },
+          "goal": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 1000
+          },
+          "parameters": {
+            "type": "array",
+            "minItems": 1,
+            "maxItems": 256,
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "id",
+                "kind",
+                "quantity",
+                "depends_on",
+                "method"
+              ],
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "minLength": 1,
+                  "maxLength": 1000
+                },
+                "kind": {
+                  "enum": [
+                    "INPUT",
+                    "DERIVED",
+                    "UNKNOWN"
+                  ]
+                },
+                "quantity": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "required": [
+                    "value",
+                    "unit"
+                  ],
+                  "properties": {
+                    "value": {
+                      "anyOf": [
+                        {
+                          "type": "string",
+                          "pattern": "^-?(0|[1-9][0-9]*)(\\.[0-9]+)?$",
+                          "maxLength": 80
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ]
+                    },
+                    "unit": {
+                      "enum": [
+                        "mm",
+                        "cm",
+                        "m",
+                        "deg",
+                        "1",
+                        null
+                      ]
+                    }
+                  }
+                },
+                "depends_on": {
+                  "type": "array",
+                  "minItems": 0,
+                  "maxItems": 256,
+                  "items": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 1000
+                  }
+                },
+                "method": {
+                  "enum": [
+                    "INPUT",
+                    "UNKNOWN",
+                    "add",
+                    "subtract",
+                    "multiply",
+                    "divide"
+                  ]
+                }
+              }
+            }
+          },
+          "frozen": {
+            "type": "array",
+            "minItems": 0,
+            "maxItems": 256,
+            "items": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 1000
+            }
+          },
+          "variable": {
+            "type": "array",
+            "minItems": 0,
+            "maxItems": 256,
+            "items": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 1000
+            }
+          },
+          "constraints": {
+            "type": "array",
+            "minItems": 0,
+            "maxItems": 256,
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "id",
+                "object_refs",
+                "parameter_refs",
+                "method",
+                "required"
+              ],
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "minLength": 1,
+                  "maxLength": 1000
+                },
+                "object_refs": {
+                  "type": "array",
+                  "minItems": 0,
+                  "maxItems": 256,
+                  "items": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 1000
+                  }
+                },
+                "parameter_refs": {
+                  "type": "array",
+                  "minItems": 0,
+                  "maxItems": 256,
+                  "items": {
+                    "type": "string",
+                    "minLength": 1,
+                    "maxLength": 1000
+                  }
+                },
+                "method": {
+                  "enum": [
+                    "distance",
+                    "coaxial",
+                    "dimension"
+                  ]
+                },
+                "required": {
+                  "type": "boolean"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "instances": {
+      "type": "array",
+      "minItems": 0,
+      "maxItems": 256,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "definition_ref",
+          "context_ref",
+          "parent_ref",
+          "transform"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 1000
+          },
+          "definition_ref": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 1000
+          },
+          "context_ref": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 1000
+          },
+          "parent_ref": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "maxLength": 1000
+          },
+          "transform": {
+            "type": "array",
+            "minItems": 4,
+            "maxItems": 4,
+            "items": {
+              "type": "array",
+              "minItems": 4,
+              "maxItems": 4,
+              "items": {
+                "type": "number",
+                "minimum": -1000000000.0,
+                "maximum": 1000000000.0
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Engineering facts design interchange draft 0.1"
+}

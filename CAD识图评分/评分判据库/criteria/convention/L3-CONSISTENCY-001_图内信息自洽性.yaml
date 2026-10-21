@@ -1,0 +1,97 @@
+id: L3-CONSISTENCY-001
+name: 图内信息自洽性（材料 ↔ 工艺要求 ↔ 标题栏）
+layer: L3
+basis: convention
+severity: low
+covers_samples:
+- T03-4
+- T04-5
+claim: '图样内部的信息应互相自洽：
+
+  标题栏的**材料**、技术要求的**工艺/热处理**要求、以及图形所表达的结构
+
+  三者不得互相矛盾（如钢件标注注塑工艺、塑料件的技术要求写成金属件工艺）。
+
+  '
+grounding:
+- 类型: 行业惯例
+  说明: 图纸是制造的唯一技术文件，图内矛盾将直接导致工艺路线错误、报废
+  备注: 待客户专家提供依据及适用范围，非已核准共识
+  verification_status: unverified
+rationale: 材料与技术要求冲突需引用双方原文和适用工艺知识；图样不是制造的唯一技术文件。T04可见材料45→PLA、热处理仍为淬火40–45HRC；T03材料HT150而技术要求改为塑料类，属于明确候选冲突。
+counterexample: '- 材料/热处理由**装配图或技术协议**另行规定，零件图从简 → 不构成矛盾
+
+  - 通用工艺要求由**企业标准/工艺规范**统一规定，图上只写特殊要求
+
+  - 图纸为**示意/教学图**，非生产用（不做工艺性判断）
+
+  - 复合工艺（如塑料包钢、双金属）本就有跨材质描述，非矛盾
+
+  - 术语差异（不同厂对同一工艺的命名不同）——须先归一化术语再判
+
+  '
+fp_risk: "① 判定需要图外信息（材料牌号体系、工艺知识、企业标准），信息不足时**必须标\"无法判定\"**；\n② **L3 纪律：永不自动判违规，只输出\"建议核查\"**（`01_判据库设计.md` §二 L3），\n   且报告中须注明\"此项判断依赖图外信息\"；\n③ 术语不统一会造成假矛盾，须先做术语归一化。\n"
+input:
+- title_block
+- tech_requirements
+- geometry_hints
+- external_knowledge
+logic: "signals = []\nsignals += extract_material(title_block)            # 如 \"Q235\" / \"ABS\" / \"45钢\"\nsignals += extract_process(tech_requirements)       # 如 \"调质 HRC28-32\" / \"注塑成型\"\nsignals +=\
+  \ infer_from_geometry(geometry_hints)      # 如 拔模斜度 → 疑似注塑件\nconflicts = find_conflicts(signals, external_knowledge)\nfor c in conflicts:\n    if not has_enough_external_knowledge(c):        # ★ 信息不足\n\
+  \        yield 无法判定, note=\"此项判断依赖图外信息\"\n        continue\n    # ★★ 永不 yield 命中 —— L3 只出建议\n    yield 建议核查, evidence=[冲突双方原文, 所需图外知识, 为什么构成冲突]\n"
+outputs:
+- 建议核查
+- 无异常
+- 无法判定
+detector_hint: '实现前置条件：① 材料牌号词典（GB/T 700 碳素钢、GB/T 3190 铝、塑料代号…）；
+
+  ② 材料↔工艺匹配表。这两项**本项目尚未具备**，因此本条短期内只能做示范，不可上线判定。
+
+  ★ 硬编码纪律：outputs 里不得出现"命中"，否则违反 L3 分层设计（01_判据库设计.md §二）。
+
+  '
+ocr_dependency:
+  negated_standard: GB/T 4458.4-2003
+  negate_scope: GB/T4458.1/4458.4/4458.5/4458.6四份，非18份全库
+  search_words:
+  - 自洽
+  - 互相矛盾
+  - 相互矛盾
+  - 不相符
+  - 技术要求应
+  - 材料与
+  - 标题栏
+  channel_A: 混合
+  channel_B: 可用
+  channel_C: 未做（待补）
+  negate_strength: 检索线索，不证明不存在
+  residual_risk: 同一原始PDF的文本层、OCR和目视是读取通道，不是独立权威来源；抽查关键页不等于全文消除漏读。需记录真实范围、全文页覆盖与缺失基础标准。
+negative_evidence:
+  tool: tools/negative_evidence.py
+  spec: evidence/negative_spec.json
+  report: evidence/NEGATIVE_EVIDENCE_REPORT.md
+  result: 限定材料与词表未找到直接支持命题的条文；不足以证明国标无明文
+  detail: 已有检索仅作相关条文线索；本轮核对关键原页及适用范围，不认证全文无明文。基础标准可能缺失，后续补收。
+  action_taken: 经验规则候选待客户专家确认；补收相关基础标准后复核
+audit_pages:
+- 4
+sample_detail:
+  T03-4: 技术要求内容为塑料制件的工艺要求，与图纸（金属件结构）不符
+  T04-5: 标题栏材料与图纸技术要求中的工艺要求不符
+annotation_consensus:
+  rule: 每个结论须有原页或可核准专家经验依据；多数票不自动入库，争议留待裁决。
+  annotators:
+  - who: null
+    verdict: null
+    reason: null
+    evidence: null
+    counterexample: null
+    independent_first: true
+my_conclusion: hypothesis
+question_for_reviewer: 核查样本是否适用、工程原理是否成立、反例是否完整；有直接国标依据则记录支持的精确范围，不因关键词命中自动改为standard。
+reviewer_output:
+  verdict: null
+  reason: null
+  evidence: null
+  suggested_fix: null
+approval_status: candidate_pending_customer_expert

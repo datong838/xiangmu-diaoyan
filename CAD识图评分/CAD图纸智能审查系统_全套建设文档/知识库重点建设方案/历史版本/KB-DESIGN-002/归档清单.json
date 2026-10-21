@@ -1,0 +1,70 @@
+{
+  "revision": "KB-DESIGN-002",
+  "archived_at": "2026-10-16T15:48:34.875955+08:00",
+  "files": [
+    {
+      "file": "01-总体建设方案.md",
+      "sha256": "3051dc820dcc9046878f6e4fda3a0ac16a19730c228df4d8ce8329bd0eb9c1ed"
+    },
+    {
+      "file": "08-验收场景种子.csv",
+      "sha256": "a7ec2ba071ac83dd19926c2dc343b2feae94d226c9d5f923729477451119cfb5"
+    },
+    {
+      "file": "06-实施验收与持续维护.md",
+      "sha256": "d1f57fba27874b1742b5951f17303d7c6cfb8816a51397c17c6bcebdf8a358ed"
+    },
+    {
+      "file": "00-编制工作方案.md",
+      "sha256": "e4fa07735503c64d78a337137887f2873296f02d5a34e4f792aaaeea1e509ba3"
+    },
+    {
+      "file": "10-知识域与认知职责组织.md",
+      "sha256": "cf436c0675d57c483b149de25d25f3fee92469bfa6fd03befc29f315a3cd1db7"
+    },
+    {
+      "file": "12-工程实例与建设覆盖.md",
+      "sha256": "8db6a790fb8e08a8cdcda51a248bdf7fd59585480ec7becb7162739209ae3e61"
+    },
+    {
+      "file": "11-工程判断链与能力单元.md",
+      "sha256": "98b9ede70629feb30a9029532ed669a95e3e910bb2c1191610b57b1f0909ae01"
+    },
+    {
+      "file": "05-容量资源与构建部署方案.md",
+      "sha256": "91b445ca3b38d606e9573e901c7606d2ac0bee029055de921b5c1911265e54b0"
+    },
+    {
+      "file": "09-方案自审与交付记录.md",
+      "sha256": "45058e125fead051ffc456210eb3fd71a97707d2da010128d2d01f8bcef53cf8"
+    },
+    {
+      "file": "README.md",
+      "sha256": "eb65e57962c67d3aebf6a5c57586dce5ab748a69b22d5a6707fe531c537bac2b"
+    },
+    {
+      "file": "参考资料指纹.json",
+      "sha256": "683ddcc027367a4f916f3032dcddeb8e34f8921a6ca120076e1ab38975f0ca34"
+    },
+    {
+      "file": "03-检索执行与秒级响应设计.md",
+      "sha256": "2ffdcc9a79b7dc93ea449954d1086aba81ef7f303dbb9b0af92cba9748a35ae2"
+    },
+    {
+      "file": "04-CAD知识工程与审查系统衔接.md",
+      "sha256": "f9c98f0a8631543c7ca9ac57dd3606bcb0065da029720f7f1bef089d84db572b"
+    },
+    {
+      "file": "13-知识职责与判断环节矩阵.csv",
+      "sha256": "16e9037afee8f3d1d968ab8ac6ef977ec289c03464c9deb0047fb793f380d9aa"
+    },
+    {
+      "file": "07-依据审阅与设计决策.md",
+      "sha256": "167fd216ad3deaae9c2a5bb822b68215df373904ca3d0ba560927aa248882610"
+    },
+    {
+      "file": "02-全量记忆与数据治理.md",
+      "sha256": "f7235039009d565d5f2516904cfd463f92e25b1dc62629fbbf642da9348e282d"
+    }
+  ]
+}

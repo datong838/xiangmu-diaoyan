@@ -1,0 +1,275 @@
+﻿============================================================
+ MES DB RECON  (READ-ONLY)
+ Host : Win202312301349
+ User : 采购主管
+ Time : 10/07/2026 17:13:44
+============================================================
+
+[1] NETWORK CONFIGURATION
+
+Windows IP 配置
+
+   主机名  . . . . . . . . . . . . . : Win202312301349
+   主 DNS 后缀 . . . . . . . . . . . : 
+   节点类型  . . . . . . . . . . . . : 混合
+   IP 路由已启用 . . . . . . . . . . : 否
+   WINS 代理已启用 . . . . . . . . . : 否
+
+以太网适配器 以太网:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . : 
+   描述. . . . . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   物理地址. . . . . . . . . . . . . : 80-E8-2C-F8-F5-D6
+   DHCP 已启用 . . . . . . . . . . . : 是
+   自动配置已启用. . . . . . . . . . : 是
+
+无线局域网适配器 本地连接* 1:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . : 
+   描述. . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   物理地址. . . . . . . . . . . . . : 5E-BA-EF-F0-B8-3B
+   DHCP 已启用 . . . . . . . . . . . : 是
+   自动配置已启用. . . . . . . . . . : 是
+
+无线局域网适配器 本地连接* 2:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . : 
+   描述. . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   物理地址. . . . . . . . . . . . . : DE-BA-EF-F0-B8-3B
+   DHCP 已启用 . . . . . . . . . . . : 是
+   自动配置已启用. . . . . . . . . . : 是
+
+无线局域网适配器 WLAN:
+
+   连接特定的 DNS 后缀 . . . . . . . : 
+   描述. . . . . . . . . . . . . . . : Realtek RTL8821CE 802.11ac PCIe Adapter
+   物理地址. . . . . . . . . . . . . : 5C-BA-EF-F0-B8-3B
+   DHCP 已启用 . . . . . . . . . . . : 是
+   自动配置已启用. . . . . . . . . . : 是
+   本地链接 IPv6 地址. . . . . . . . : fe80::6c1a:a912:7ffb:4325%14(首选) 
+   IPv4 地址 . . . . . . . . . . . . : 192.168.8.80(首选) 
+   子网掩码  . . . . . . . . . . . . : 255.255.255.0
+   获得租约的时间  . . . . . . . . . : 2026年9月29日 14:07:10
+   租约过期的时间  . . . . . . . . . : 2026年10月7日 18:32:01
+   默认网关. . . . . . . . . . . . . : 192.168.8.1
+   DHCP 服务器 . . . . . . . . . . . : 192.168.8.1
+   DHCPv6 IAID . . . . . . . . . . . : 123517679
+   DHCPv6 客户端 DUID  . . . . . . . : 00-01-00-01-2D-21-67-B8-80-E8-2C-F8-F5-D6
+   DNS 服务器  . . . . . . . . . . . : 223.5.5.5
+                                       223.6.6.6
+   TCPIP 上的 NetBIOS  . . . . . . . : 已启用
+
+以太网适配器 蓝牙网络连接:
+
+   媒体状态  . . . . . . . . . . . . : 媒体已断开连接
+   连接特定的 DNS 后缀 . . . . . . . : 
+   描述. . . . . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   物理地址. . . . . . . . . . . . . : 5C-BA-EF-F0-B8-3C
+   DHCP 已启用 . . . . . . . . . . . : 是
+   自动配置已启用. . . . . . . . . . : 是
+
+-- ARP / neighbour cache (other machines visible on this LAN) --
+
+接口: 192.168.8.80 --- 0xe
+  Internet 地址         物理地址              类型
+  192.168.8.1           00-90-27-e0-1d-51     动态        
+  192.168.8.12          3c-52-82-55-cf-21     动态        
+  192.168.8.45          c8-5a-cf-0d-11-19     动态        
+  192.168.8.51          00-68-eb-ba-23-20     动态        
+  192.168.8.66          64-4e-d7-6f-7a-1d     动态        
+  192.168.8.70          d0-ad-08-55-d3-cc     动态        
+  192.168.8.73          64-4e-d7-6f-7b-cf     动态        
+  192.168.8.75          fc-aa-14-e5-4f-3b     动态        
+  192.168.8.78          d0-ad-08-55-d5-9a     动态        
+  192.168.8.117         9c-7b-ef-84-ea-c9     动态        
+  192.168.8.120         54-be-f7-6a-67-21     动态        
+  192.168.8.130         b0-22-7a-50-a5-3a     动态        
+  192.168.8.132         00-15-00-65-db-6a     动态        
+  192.168.8.137         d4-20-00-b4-45-b8     动态        
+  192.168.8.140         f8-ed-fc-58-74-3e     动态        
+  192.168.8.150         80-e8-2c-f8-d2-46     动态        
+  192.168.8.152         80-e8-2c-f8-d2-49     动态        
+  192.168.8.154         6c-02-e0-65-03-83     动态        
+  192.168.8.157         d4-20-00-b4-45-e8     动态        
+  192.168.8.169         b0-22-7a-53-8b-98     动态        
+  192.168.8.180         80-e8-2c-dc-e9-52     动态        
+  192.168.8.181         80-e8-2c-d9-d9-72     动态        
+  192.168.8.200         f8-bc-12-87-f8-be     动态        
+  192.168.8.232         80-e8-2c-f8-d5-4e     动态        
+  192.168.8.255         ff-ff-ff-ff-ff-ff     静态        
+  224.0.0.2             01-00-5e-00-00-02     静态        
+  224.0.0.22            01-00-5e-00-00-16     静态        
+  224.0.0.251           01-00-5e-00-00-fb     静态        
+  224.0.0.252           01-00-5e-00-00-fc     静态        
+  224.0.1.60            01-00-5e-00-01-3c     静态        
+  239.255.255.250       01-00-5e-7f-ff-fa     静态        
+  239.255.255.251       01-00-5e-7f-ff-fb     静态        
+  239.255.255.253       01-00-5e-7f-ff-fd     静态        
+  255.255.255.255       ff-ff-ff-ff-ff-ff     静态        
+
+[2] LISTENING TCP PORTS ON THIS MACHINE
+
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       1060
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4
+  TCP    0.0.0.0:515            0.0.0.0:0              LISTENING       4116
+  TCP    0.0.0.0:1031           0.0.0.0:0              LISTENING       848
+  TCP    0.0.0.0:3389           0.0.0.0:0              LISTENING       1252
+  TCP    0.0.0.0:5357           0.0.0.0:0              LISTENING       4
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING       884
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING       776
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING       1452
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING       1244
+  TCP    0.0.0.0:49668          0.0.0.0:0              LISTENING       3720
+  TCP    127.0.0.1:9329         0.0.0.0:0              LISTENING       18428
+  TCP    127.0.0.1:9335         0.0.0.0:0              LISTENING       18428
+  TCP    127.0.0.1:11326        0.0.0.0:0              LISTENING       17628
+  TCP    127.0.0.1:11789        0.0.0.0:0              LISTENING       14180
+  TCP    127.0.0.1:11810        0.0.0.0:0              LISTENING       20964
+  TCP    127.0.0.1:14013        0.0.0.0:0              LISTENING       6076
+  TCP    127.0.0.1:14016        0.0.0.0:0              LISTENING       6076
+  TCP    127.0.0.1:14019        0.0.0.0:0              LISTENING       6076
+  TCP    127.0.0.1:14022        0.0.0.0:0              LISTENING       6076
+  TCP    127.0.0.1:14023        0.0.0.0:0              LISTENING       6076
+  TCP    127.0.0.1:18488        0.0.0.0:0              LISTENING       18268
+  TCP    127.0.0.1:39099        0.0.0.0:0              LISTENING       30196
+  TCP    192.168.8.80:139       0.0.0.0:0              LISTENING       4
+
+
+
+[3] DATABASE SERVICES / PROCESSES
+
+-- running processes --
+
+[4] .UDL FILES (often contain a complete connection string)
+
+[5] CONNECTION STRINGS FOUND IN CONFIG FILES
+
+--- scanning C:\Program Files ---
+AppxManifest.xml :: <com:Class Id="7B21B8BB-EE70-40DC-836C-687B6A30B642" DisplayName="AppInstaller Data Source"/>
+scenes-en.json :: "Create a website themed 'AI Development Trends · 2025-2026 Latest Trend Analysis'. The visuals follow Linear aesthetics with an engineering, cool, austere style. Content covers six core slices: the leap to Agent-ization, the collapse of inference costs, multimodal fusion, the explosion of on-device intelligence, deep cultivation of vertical industries, and governance and alignment. Include a set of key data (market size, enterprise adoption rate, annual decline in Token prices), a simplified diagram of the China-US-EU tripolar landscape, and five key predictions for 2026 (labeled with high/medium/low confidence). Data sources refer to Stanford HAI, McKinsey, a16z, Gartner, and IDC via online search.",
+scenes-en.json :: "Design a SaaS data analytics platform WebApp interface, including data source connections, a visualization chart editor, report generation, and permission management modules. Professional business color scheme."
+
+--- scanning C:\Program Files (x86) ---
+config.ini :: oldserver=http://search.kuwo.cn/newlyric.lrc
+config.ini :: newserver=http://newlyric.kuwo.cn
+config.ini :: lyricgadgetserver=http://userclient.kuwo.cn/musicInfo.web
+config.ini :: SearchServer=http://search.kuwo.cn
+config.ini :: TipServer=http://tips.kuwo.cn:80/t.s?type=2014&c=mbox&w=
+config.ini :: SigServer=http://rid.kuwo.cn/sig.s?w=
+
+--- scanning C:\ProgramData ---
+config.ini :: HeartbeatServer=175.102.178.96:25607,175.102.178.97:25607
+Microsoft.DesktopAppInstaller_1.29.380.0_x64__8wekyb3d8bbwe.xml :: <com:Class Id="7B21B8BB-EE70-40DC-836C-687B6A30B642" DisplayName="AppInstaller Data Source"/>
+desktop.ini :: ODBC Data Sources (64-bit).lnk=@%SystemRoot%\system32\odbcint.dll,-1694
+desktop.ini :: ODBC Data Sources (32-bit).lnk=@%SystemRoot%\syswow64\odbcint.dll,-1693
+
+--- scanning D:\ ---
+MXServerConf.txt :: <SERVERNAME>qq.com</SERVERNAME><POP3NAME>pop.qq.com</POP3NAME><POP3EntireAddress>1</POP3EntireAddress><SMTPNAME>smtp.qq.com</SMTPNAME><IMAPNAME>imap.qq.com</IMAPNAME><POP3PORT>995</POP3PORT><SMTPPORT>465</SMTPPORT><IMAPPORT>993</IMAPPORT><POP3SSL>1</POP3SSL><SMTPSSL>1</SMTPSSL><IMAPSSL>1</IMAPSSL><IMAPEntireAddress>1</IMAPEntireAddress><DefaultUseIMAP>1</DefaultUseIMAP>
+MXServerConf.txt :: <SERVERNAME>163.com</SERVERNAME><POP3NAME>pop.163.com</POP3NAME><POP3EntireAddress>1</POP3EntireAddress><SMTPNAME>smtp.163.com</SMTPNAME><IMAPNAME>imap.163.com</IMAPNAME><IMAPPORT>143</IMAPPORT><IMAPSSL>0</IMAPSSL><IMAPEntireAddress>1</IMAPEntireAddress><DefaultUseIMAP>1</DefaultUseIMAP>
+MXServerConf.txt :: <SERVERNAME>netease.com</SERVERNAME><POP3NAME>pop.qiye.163.com</POP3NAME><POP3EntireAddress>1</POP3EntireAddress><SMTPNAME>smtp.qiye.163.com</SMTPNAME>
+MXServerConf.txt :: <SERVERNAME>google.com</SERVERNAME><POP3NAME>pop.gmail.com</POP3NAME><SMTPNAME>smtp.gmail.com</SMTPNAME><IMAPNAME>imap.gmail.com</IMAPNAME><POP3PORT>995</POP3PORT><SMTPPORT>465</SMTPPORT><IMAPPORT>993</IMAPPORT><POP3SSL>1</POP3SSL><SMTPSSL>1</SMTPSSL><IMAPSSL>1</IMAPSSL><IMAPMoveToSentBox>0</IMAPMoveToSentBox>
+ServerConf.txt :: <SERVERNAME>qq.com</SERVERNAME><POP3NAME>pop.qq.com</POP3NAME><POP3EntireAddress>1</POP3EntireAddress><SMTPNAME>smtp.qq.com</SMTPNAME><IMAPNAME>imap.qq.com</IMAPNAME><POP3PORT>995</POP3PORT><SMTPPORT>465</SMTPPORT><IMAPPORT>143</IMAPPORT><POP3SSL>1</POP3SSL><SMTPSSL>1</SMTPSSL><IMAPSSL>1</IMAPSSL><IMAPEntireAddress>1</IMAPEntireAddress><DefaultUseIMAP>1</DefaultUseIMAP>
+ServerConf.txt :: <SERVERNAME>foxmail.com</SERVERNAME><POP3NAME>pop.qq.com</POP3NAME><POP3EntireAddress>1</POP3EntireAddress><SMTPNAME>smtp.qq.com</SMTPNAME><IMAPNAME>imap.qq.com</IMAPNAME><POP3PORT>995</POP3PORT><SMTPPORT>465</SMTPPORT><IMAPPORT>143</IMAPPORT><POP3SSL>1</POP3SSL><SMTPSSL>1</SMTPSSL><IMAPSSL>1</IMAPSSL><IMAPEntireAddress>1</IMAPEntireAddress><DefaultUseIMAP>1</DefaultUseIMAP>
+ServerConf.txt :: <SERVERNAME>vip.qq.com</SERVERNAME><POP3NAME>pop.qq.com</POP3NAME><POP3EntireAddress>1</POP3EntireAddress><SMTPNAME>smtp.qq.com</SMTPNAME><IMAPNAME>imap.qq.com</IMAPNAME><POP3PORT>995</POP3PORT><SMTPPORT>465</SMTPPORT><IMAPPORT>143</IMAPPORT><POP3SSL>1</POP3SSL><SMTPSSL>1</SMTPSSL><IMAPSSL>1</IMAPSSL><IMAPEntireAddress>1</IMAPEntireAddress><DefaultUseIMAP>1</DefaultUseIMAP>
+ServerConf.txt :: <SERVERNAME>163.com</SERVERNAME><POP3NAME>pop.163.com</POP3NAME><POP3EntireAddress>1</POP3EntireAddress><SMTPNAME>smtp.163.com</SMTPNAME><IMAPNAME>imap.163.com</IMAPNAME><IMAPPORT>143</IMAPPORT><IMAPSSL>0</IMAPSSL><IMAPEntireAddress>1</IMAPEntireAddress><DefaultUseIMAP>1</DefaultUseIMAP>
+ServerConf.txt :: <SERVERNAME>126.com</SERVERNAME><POP3NAME>pop3.126.com</POP3NAME><SMTPNAME>smtp.126.com</SMTPNAME><IMAPNAME>imap.126.com</IMAPNAME><DefaultUseIMAP>1</DefaultUseIMAP>
+ServerConf.txt :: <SERVERNAME>vip.163.com</SERVERNAME><POP3NAME>pop.vip.163.com</POP3NAME><SMTPNAME>smtp.vip.163.com</SMTPNAME><IMAPNAME>imap.vip.163.com</IMAPNAME><DefaultUseIMAP>1</DefaultUseIMAP>
+ServerConf.txt :: <SERVERNAME>yeah.net</SERVERNAME><POP3NAME>pop.yeah.net</POP3NAME><SMTPNAME>smtp.yeah.net</SMTPNAME><IMAPNAME>imap.yeah.net</IMAPNAME><DefaultUseIMAP>1</DefaultUseIMAP>
+ServerConf.txt :: <SERVERNAME>139.com</SERVERNAME><IMAPNAME>imap.139.com</IMAPNAME><POP3NAME>pop.139.com</POP3NAME><SMTPNAME>smtp.139.com</SMTPNAME><DefaultUseIMAP>1</DefaultUseIMAP>
+ServerConf.txt :: <SERVERNAME>189.cn</SERVERNAME><POP3NAME>pop.189.cn</POP3NAME><SMTPNAME>smtp.189.cn</SMTPNAME><IMAPNAME>imap.189.cn</IMAPNAME><DefaultUseIMAP>1</DefaultUseIMAP>
+ServerConf.txt :: <SERVERNAME>gmail.com</SERVERNAME><POP3NAME>pop.gmail.com</POP3NAME><SMTPNAME>smtp.gmail.com</SMTPNAME><IMAPNAME>imap.gmail.com</IMAPNAME><POP3PORT>995</POP3PORT><SMTPPORT>465</SMTPPORT><IMAPPORT>993</IMAPPORT><POP3SSL>1</POP3SSL><SMTPSSL>1</SMTPSSL><IMAPSSL>1</IMAPSSL><IMAPMoveToSentBox>0</IMAPMoveToSentBox><DefaultUseIMAP>1</DefaultUseIMAP>
+ServerConf.txt :: <SERVERNAME>sohu.com</SERVERNAME><POP3NAME>pop3.sohu.com</POP3NAME><SMTPNAME>smtp.sohu.com</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>sogou.com</SERVERNAME><POP3NAME>pop.sogou.com</POP3NAME><SMTPNAME>smtp.sogou.com</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>hotmail.com</SERVERNAME><POP3NAME>pop3.live.com</POP3NAME><POP3EntireAddress>1</POP3EntireAddress><SMTPNAME>smtp.live.com</SMTPNAME><POP3SSL>1</POP3SSL><POP3PORT>995</POP3PORT><SMTPSSL>1</SMTPSSL>
+ServerConf.txt :: <SERVERNAME>outlook.com</SERVERNAME><POP3NAME>pop3.live.com</POP3NAME><SMTPNAME>smtp.live.com</SMTPNAME><POP3SSL>1</POP3SSL><POP3PORT>995</POP3PORT>
+ServerConf.txt :: <SERVERNAME>live.cn</SERVERNAME><POP3NAME>pop3.live.com</POP3NAME><POP3EntireAddress>1</POP3EntireAddress><SMTPNAME>smtp.live.com</SMTPNAME><POP3SSL>1</POP3SSL><POP3PORT>995</POP3PORT><SMTPSSL>0</SMTPSSL>
+ServerConf.txt :: <SERVERNAME>sina.com</SERVERNAME><POP3NAME>pop.sina.com</POP3NAME><SMTPNAME>smtp.sina.com</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>vip.sina.com</SERVERNAME><POP3NAME>pop3.vip.sina.com</POP3NAME><SMTPNAME>smtp.vip.sina.com</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>yahoo.com.cn</SERVERNAME><POP3NAME>pop.mail.yahoo.com.cn</POP3NAME><SMTPNAME>smtp.mail.yahoo.com.cn</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>wo.com.cn</SERVERNAME><POP3NAME>pop.wo.com.cn</POP3NAME><SMTPNAME>smtp.wo.com.cn</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>icloud.com</SERVERNAME><IMAPNAME>imap.mail.me.com</IMAPNAME><SMTPNAME>smtp.mail.me.com</SMTPNAME><DefaultUseIMAP>1</DefaultUseIMAP><IMAPSSL>1</IMAPSSL><IMAPPORT>993</IMAPPORT><SMTPSSL>1</SMTPSSL><SMTPPORT>587</SMTPPORT>
+ServerConf.txt :: <SERVERNAME>foxmail.com.cn</SERVERNAME><POP3NAME>pop.foxmail.com.cn</POP3NAME><POP3EntireAddress>1</POP3EntireAddress><SMTPNAME>smtp.foxmail.com.cn</SMTPNAME><POP3PORT>995</POP3PORT><SMTPPORT>465</SMTPPORT><POP3SSL>1</POP3SSL><SMTPSSL>1</SMTPSSL>
+ServerConf.txt :: <SERVERNAME>263.sina.com</SERVERNAME><POP3NAME>pop3.263.sina.com</POP3NAME><SMTPNAME>smtp.263.sina.com</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>my3ia.sina.com</SERVERNAME><POP3NAME>pop3.my3ia.sina.com</POP3NAME><SMTPNAME>smtp.my3ia.sina.com</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>sina100.com</SERVERNAME><POP3NAME>pop3.sina100.com</POP3NAME><SMTPNAME>smtp.sina100.com</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>163.net</SERVERNAME><POP3NAME>pop.163.net</POP3NAME><SMTPNAME>smtp.163.net</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>fm365.com</SERVERNAME><POP3NAME>mail.fm365.com</POP3NAME><SMTPNAME>mail.fm365.com</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>263.net</SERVERNAME><POP3NAME>263.net</POP3NAME><SMTPNAME>smtp.263.net</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>x263.net</SERVERNAME><POP3NAME>pop.x263.net</POP3NAME><SMTPNAME>smtp.x263.net</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>263.net.cn</SERVERNAME><POP3NAME>263.net.cn</POP3NAME><SMTPNAME>263.net.cn</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>elong.com</SERVERNAME><POP3NAME>pop3.elong.com</POP3NAME><SMTPNAME>smtp.elong.com</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>chinaren.com</SERVERNAME><POP3NAME>pop.chinaren.com</POP3NAME>
+ServerConf.txt :: <SERVERNAME>china.com</SERVERNAME><POP3NAME>pop.china.com</POP3NAME><SMTPNAME>smtp.china.com</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>cww.com</SERVERNAME><POP3NAME>pop.china.com</POP3NAME><SMTPNAME>smtp.china.com</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>eazier.com</SERVERNAME><POP3NAME>pop.easier.com</POP3NAME><SMTPNAME>smtp.eazier.com</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>vip.sohu.com</SERVERNAME><POP3NAME>pop3.vip.sohu.com</POP3NAME><SMTPNAME>smtp.vip.sohu.com</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>sohu.net</SERVERNAME><POP3NAME>pop3.sohu.net</POP3NAME><SMTPNAME>smtp.sohu.net</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>fd21.com</SERVERNAME><POP3NAME>pop.fd21.com</POP3NAME><SMTPNAME>smtp.fd21.com</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>online.sh.cn</SERVERNAME><POP3NAME>pop.citiz.net</POP3NAME><SMTPNAME>smtp.citiz.net</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>netease.com</SERVERNAME><POP3NAME>pop.netease.com</POP3NAME><SMTPNAME>smtp.netease.com</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>myrice.com</SERVERNAME><POP3NAME>pop.myrice.com</POP3NAME><SMTPNAME>smtp.myrice.com</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>wx88.net</SERVERNAME><POP3NAME>mail.wx88.net</POP3NAME><SMTPNAME>mail.wx88.net</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>email.com.cn</SERVERNAME><POP3NAME>www.email.com.cn</POP3NAME><SMTPNAME>www.email.com.cn</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>cn99.com</SERVERNAME><POP3NAME>pop.cn99.com</POP3NAME>
+ServerConf.txt :: <SERVERNAME>tonghua.com.cn</SERVERNAME><POP3NAME>pop3.tonghua.com.cn</POP3NAME><SMTPNAME>smtp.tonghua.com.cn</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>china1mail.com</SERVERNAME><POP3NAME>mail.china1mail.com</POP3NAME>
+ServerConf.txt :: <SERVERNAME>371.net</SERVERNAME><POP3NAME>371.net</POP3NAME><SMTPNAME>smtp.371.net</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>kali.com.cn</SERVERNAME><POP3NAME>pop.kali.com.cn</POP3NAME><SMTPNAME>smtp.kali.com.cn</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>focus.com.cn</SERVERNAME><POP3NAME>pop3.focus.com.cn</POP3NAME><SMTPNAME>smtp.focus.com.cn</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>8848.net</SERVERNAME><POP3NAME>pop.8848.net</POP3NAME><SMTPNAME>smtp.8848.net</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>ucs.com.tw</SERVERNAME><POP3NAME>210.66.17.1</POP3NAME>
+ServerConf.txt :: <SERVERNAME>mailbox.com.cn</SERVERNAME><POP3NAME>email.com.cn</POP3NAME><SMTPNAME>email.com.cn</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>990.net</SERVERNAME><POP3NAME>pop.990.net</POP3NAME><SMTPNAME>990.net</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>88998.com</SERVERNAME><POP3NAME>202.100.222.86</POP3NAME><SMTPNAME>202.100.222.86</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>ctn.com.cn</SERVERNAME><POP3NAME>mail.ctn.com.cn</POP3NAME>
+ServerConf.txt :: <SERVERNAME>2911.net</SERVERNAME><POP3NAME>pop.2911.net</POP3NAME><SMTPNAME>smtp.2911.net</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>soim.net</SERVERNAME><POP3NAME>freemail.soim.com</POP3NAME><SMTPNAME>freemail.soim.com</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>sh.soim.com</SERVERNAME><POP3NAME>sh.soim.com</POP3NAME>
+ServerConf.txt :: <SERVERNAME>777.net.cn</SERVERNAME><POP3NAME>mail.777.net.cn</POP3NAME><SMTPNAME>mail.777.net.cn</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>telekbird.com.cn</SERVERNAME><POP3NAME>pop.telekbird.com.cn</POP3NAME><SMTPNAME>smtp.telekbird.com.cn</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>btamail.net.cn</SERVERNAME><POP3NAME>btamail.net.cn</POP3NAME><SMTPNAME>btamail.net.cn</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>chinanew.com</SERVERNAME><POP3NAME>chinanew.com</POP3NAME>
+ServerConf.txt :: <SERVERNAME>gzyp21.net</SERVERNAME><POP3NAME>gzyp21.net</POP3NAME><SMTPNAME>gzyp21.net</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>freemail.online.tj.cn</SERVERNAME><POP3NAME>freemail.online.tj.cn</POP3NAME><SMTPNAME>freemail.online.tj.cn</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>363.net</SERVERNAME><POP3NAME>363.net</POP3NAME><SMTPNAME>smtp.363.net</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>w4f.com</SERVERNAME><POP3NAME>pop.email.com.cn</POP3NAME><SMTPNAME>smtp.email.com.cn</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>dl163.com</SERVERNAME><POP3NAME>www.dl163.com</POP3NAME><SMTPNAME>www.dl163.com</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>chinaxian.com</SERVERNAME><POP3NAME>www.email.com.cn</POP3NAME><SMTPNAME>www.email.com.cn</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>2888.com</SERVERNAME><POP3NAME>2888.com</POP3NAME><SMTPNAME>2888.com</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>yes100.com</SERVERNAME><POP3NAME>pop.yes100.com</POP3NAME><SMTPNAME>smtp.yes100.com</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>chinese.com</SERVERNAME><POP3NAME>pop.chinese.com</POP3NAME><SMTPNAME>smtp.chinese.com</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>yifan.net</SERVERNAME><POP3NAME>yifan.net</POP3NAME><SMTPNAME>yifan.net</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>china183.com</SERVERNAME><POP3NAME>mail.china183.com</POP3NAME><SMTPNAME>mail.china183.com</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>20520.com</SERVERNAME><POP3NAME>pop.20520.com</POP3NAME><SMTPNAME>smtp.20520.com</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>elawchina.com</SERVERNAME><POP3NAME>pop3.elawchina.com</POP3NAME><SMTPNAME>smtp.elawchina.com</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>fugao.net</SERVERNAME><POP3NAME>pop.email.com.cn</POP3NAME><SMTPNAME>smtp.email.com.cn</SMTPNAME>
+ServerConf.txt :: <SERVERNAME>mybada.net</SERVERNAME><POP3NAME>pop.mybada.net</POP3NAME><SMTPNAME>smtp.mybada.net</SMTPNAME>
+
+--- scanning E:\ ---
+SOFTSYS.INI :: ServerName=121.237.178.165
+
+[6] ODBC DATA SOURCE NAMES (DSN)
+-- Machine DSN (HKLM) --
+-- User DSN (HKCU) --
+-- 64-bit syswow DSN --
+
+[7] HOW TO READ THIS REPORT
+Priority: look at section [4] and [5] first.
+A typical line looks like:
+   Data Source=192.168.1.10,1433; Initial Catalog=MESDB; User ID=sa; Password=xxxx
+which tells you:   IP=192.168.1.10   PORT=1433   DB=MESDB
+
+PORT -> ENGINE:
+   1433  = Microsoft SQL Server
+   3306  = MySQL / MariaDB
+   1521  = Oracle
+   5432  = PostgreSQL
+   27017 = MongoDB
+
+If a config uses 'jdbc:mysql://...' or 'jdbc:oracle:thin:@...',
+the engine is named directly in the string.
+
+Report location: D:\MES\MES_DB_Recon_20261007_171343.txt

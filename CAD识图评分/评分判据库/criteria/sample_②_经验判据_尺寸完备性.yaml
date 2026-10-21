@@ -1,0 +1,129 @@
+# 经验候选示例，与源规则同步；待客户专家核准。
+id: L2-DIMCOMPLETE-001
+name: 尺寸标注完备性（特征不缺定形/定位尺寸）
+layer: L2
+basis: convention
+severity: medium
+covers_samples:
+- T01-1
+- T02-3
+- T03-5
+- T05-4
+claim: 对已核准需要检查的结构，确认全图及技术要求未提供足够的定形、定位或合法间接约束时，输出尺寸缺失候选；信息不足无法判定。
+grounding:
+- 类型: 教科书
+  出处: 《机械制图》（高等教育出版社）零件图/尺寸标注章节，"标注尺寸要齐全，不遗漏、不重复"
+  备注: 版本、作者、页码未提供，不作已核准引文
+  verification_status: unverified
+- 类型: 行业惯例
+  说明: 生产图纸是加工与检验的唯一依据，缺尺寸即不可制造
+  备注: 待客户专家提供依据及适用范围，非已核准共识
+  verification_status: unverified
+rationale: 确定几何特征需要足够的定形、定位或经核准的间接表达；缺尺寸可能导致制造和检验信息不足，但不能称尺寸是唯一依据。
+counterexample: 回看全部视图、技术要求、标准件定义、明确的对称/均布及间接约束。未注公差只补已有名义尺寸的公差，不补缺失的名义值。§5.7只规定由其它尺寸确定的半径，不得推广到所有几何尺寸。不能把倒角、退刀槽、孔深一概设为免注。参考尺寸括弧本身不证明必需尺寸齐备。 GB/T1182-2018 §3.7注4的缺省TED可不标注，仅限对应GPS语义，不能推广为任何角度/长度免注。GB/T15754-2025 §5.1仅标必要圆锥尺寸，图4–7有不同组合；锥度及其他独立尺寸若已充分约束，不能硬性要求额外孔深。
+standard_support:
+- std: GB/T 4458.4-2003
+  title: 机械制图 尺寸注法
+  clause: '5.4'
+  pdf_page: 11
+  quote: 标注参考尺寸时，应将尺寸数字加上圆括弧（图27）
+  supports: 反例（参考尺寸带括弧者合法）
+  channel: C
+  evidence_level: E0
+  evidence_file: review/pack_v1/_audit/4458.4_p11.png
+- std: GB/T 4458.4-2003
+  title: 机械制图 尺寸注法
+  clause: '5.7'
+  pdf_page: 12
+  quote: 当需要指明半径尺寸是由其他尺寸所确定时，应用尺寸线和符号“R”标出，但不要注写尺寸数字（图30）
+  supports: 只支持半径由其它尺寸确定时可不注数字的特例，不证明一般完备性或封闭尺寸链禁令
+  channel: C
+  evidence_level: E0
+  evidence_file: review/pack_v1/_audit/4458.4_p12.png
+- note: §5.4和§5.7各有明确范围，不证明一般尺寸完备性或禁止所有闭合尺寸链；经验候选等待客户专家核准。
+- std: GB/T1182-2018
+  clause: §3.7注4
+  pdf_page: 9
+  supports: 缺省TED限定例外，非一般免注规则
+  evidence_file: evidence/crosscheck_20261009/priority/1182_9.png
+- std: GB/T15754-2025
+  clause: §5.1/图4–7
+  pdf_pages:
+  - 7
+  - 8
+  - 9
+  supports: 必要圆锥尺寸和不同充分组合，非所有尺寸都必需
+  evidence_file: evidence/crosscheck_20261009/priority/15754_7.png
+fp_risk: '"图上没有识别到 ≠ 图上没有"。缺失类判据最易误报，必须：
+
+  ① 回看**全部视图**（含向视图、斜视图、局部放大图）；
+
+  ② 检索**技术要求**文字；
+
+  ③ 关联不可靠时**降级为"无法判定"**，不得直接报违规。
+
+  '
+input:
+- features
+- dims
+- views
+- tech_requirements
+- unstated_conventions
+logic: 建立全图尺寸与特征索引；先核准特征需哪些独立尺寸，未知则无法判定。收集全部视图和技术要求中的已有名义尺寸；仅采用有依据的标准件/几何导出关系。未注公差不填补缺失名义尺寸。关联或规则范围不可靠时输出无法判定。确认必需维度仍不确定时列为候选缺失，附全图搜索范围和证据。
+outputs:
+- 命中
+- 未命中
+- 无法判定
+detector_hint: 必须先收集全图证据；只看同视图更容易漏读和误报，不应宣称最保守。T05-4原标签与PDF可见80/φ60存在冲突，待客户明确位置。
+ocr_dependency:
+  negated_standard: GB/T 4458.4-2003
+  search_words:
+  - 齐全
+  - 完备
+  - 遗漏
+  - 唯一确定
+  - 完全确定
+  - 足以确定
+  - 所必需
+  - 不完整
+  - 全部尺寸
+  - 缺定形
+  - 缺定位
+  channel_A: 不可用
+  channel_B: 可用
+  channel_C: 已目视
+  negate_strength: 检索线索，不证明不存在
+  residual_risk: 同一原始PDF的文本层、OCR和目视是读取通道，不是独立权威来源；抽查关键页不等于全文消除漏读。需记录真实范围、全文页覆盖与缺失基础标准。
+negative_evidence:
+  tool: tools/negative_evidence.py
+  spec: evidence/negative_spec.json
+  report: evidence/NEGATIVE_EVIDENCE_REPORT.md
+  result: 限定材料与词表未找到直接支持命题的条文；不足以证明国标无明文
+  detail: 已有检索仅作相关条文线索；本轮核对关键原页及适用范围，不认证全文无明文。基础标准可能缺失，后续补收。
+  action_taken: 经验规则候选待客户专家确认；补收相关基础标准后复核
+audit_pages:
+- 4
+- 11
+- 12
+sample_detail:
+  T01-1: ø72 最大圆柱**定形尺寸**缺失
+  T02-3: 锥形孔**深度（定形）**缺失
+  T03-5: 孔的**定位尺寸 30** 缺失
+  T05-4: 客户标签为主孔数值缺失；PDF可见80及φ60，目标存在争议，暂不作已确认缺失样例。
+annotation_consensus:
+  rule: 每个结论须有原页或可核准专家经验依据；多数票不自动入库，争议留待裁决。
+  annotators:
+  - who: null
+    verdict: null
+    reason: null
+    evidence: null
+    counterexample: null
+    independent_first: true
+my_conclusion: hypothesis
+question_for_reviewer: 核查样本是否适用、工程原理是否成立、反例是否完整；有直接国标依据则记录支持的精确范围，不因关键词命中自动改为standard。
+reviewer_output:
+  verdict: null
+  reason: null
+  evidence: null
+  suggested_fix: null
+approval_status: candidate_pending_customer_expert

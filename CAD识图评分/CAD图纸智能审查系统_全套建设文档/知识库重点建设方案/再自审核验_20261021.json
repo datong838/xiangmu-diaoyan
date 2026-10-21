@@ -1,0 +1,257 @@
+{
+  "date": "2026-10-21T01:04:53.816784+08:00",
+  "revision": "KB-DESIGN-005",
+  "scope": "文档静态及声明一致性/任务依赖检查；语义自审见30；不证明知识吸收/工程判断/规模功能正确",
+  "markdown_files_checked": 32,
+  "local_links_checked": 187,
+  "tables_checked": 66,
+  "findings": 9,
+  "new_scenarios": 19,
+  "checks": {
+    "all_local_links_resolve": true,
+    "tables_and_fences_valid": true,
+    "06_sections_unique": true,
+    "tasks_F01_F26_retained": true,
+    "phase_dependencies_acyclic": true,
+    "early_wiki_not_blocked_by_full_scale": true,
+    "19_new_scenarios_NOT_RUN": true,
+    "all_9_findings_have_scenarios": true,
+    "no_fake_execution_results": true,
+    "historical_snapshots_and_seed_data_unchanged": true,
+    "new_files_in_responsibility_index": true,
+    "pilot_scope_in_current_entry": true
+  },
+  "passed": true,
+  "errors": [],
+  "task_dependency_graph": {
+    "F01": [],
+    "F02": [
+      "F01"
+    ],
+    "F03": [
+      "F01"
+    ],
+    "F04": [],
+    "F05": [
+      "F01",
+      "F04"
+    ],
+    "F06": [
+      "F04",
+      "F05"
+    ],
+    "F07": [
+      "F01",
+      "F04"
+    ],
+    "F08": [
+      "F05",
+      "F07"
+    ],
+    "F09": [
+      "F03",
+      "F04"
+    ],
+    "F10": [
+      "F03",
+      "F09"
+    ],
+    "F11": [
+      "F04",
+      "F09",
+      "F10"
+    ],
+    "F12": [
+      "F09",
+      "F10",
+      "F11"
+    ],
+    "F13": [
+      "F05",
+      "F07",
+      "F08"
+    ],
+    "F14": [
+      "F13",
+      "F16"
+    ],
+    "F15": [
+      "F09",
+      "F11",
+      "F13"
+    ],
+    "F16": [
+      "F09",
+      "F12",
+      "F13"
+    ],
+    "F17": [
+      "F13",
+      "F15",
+      "F16"
+    ],
+    "F18": [
+      "F02",
+      "F03",
+      "F08",
+      "F17",
+      "F19基础恢复"
+    ],
+    "F19基础恢复": [
+      "F06",
+      "F07",
+      "F08"
+    ],
+    "F19完整演练": [
+      "F19基础恢复",
+      "F18"
+    ],
+    "F20基础失效": [
+      "F06",
+      "F07",
+      "F08"
+    ],
+    "F20高级传播": [
+      "F20基础失效",
+      "F12",
+      "F19完整演练"
+    ],
+    "F21": [
+      "F01",
+      "F08",
+      "F20高级传播"
+    ],
+    "F22": [
+      "F04",
+      "F05",
+      "F07",
+      "F09"
+    ],
+    "F23": [
+      "F09",
+      "F22",
+      "F08",
+      "F19基础恢复",
+      "F20基础失效"
+    ],
+    "F24": [
+      "F16",
+      "F22",
+      "F23"
+    ],
+    "F25": [
+      "F06",
+      "F11",
+      "F12",
+      "F22"
+    ],
+    "F26": [
+      "F15",
+      "F20基础失效",
+      "F23",
+      "F24",
+      "F25"
+    ]
+  },
+  "dependency_cycles": [],
+  "early_wiki_blockers": [],
+  "protected_files": {
+    "15-成熟度与实施就绪自查报告.md": true,
+    "27-交付逐项核对与评审结论.md": true,
+    "23-真实人工反馈落盘与确认语义验证.md": true,
+    "08-验收场景种子.csv": true,
+    "21-目录检索原型验证与实施差距更新.md": true,
+    "文档补强核验_20261019.json": true,
+    "22-人工确认持久化与真实反馈实施设计.md": true,
+    "16-首轮实施与最小契约设计.md": true,
+    "24-统一运行契约与当前确认查询实施设计.md": true,
+    "20-目录检索原型与代际实施设计.md": true,
+    "25-统一契约与当前确认查询验证记录.md": true,
+    "17-首轮契约与真实来源验证记录.md": true,
+    "参考资料指纹.json": true,
+    "自查验证_20261016.json": true,
+    "19-真实工程样例B验证与方案修订.md": true,
+    "13-知识职责与判断环节矩阵.csv": true,
+    "18-真实工程样例B实施设计.md": true,
+    "交付核验_20261016.json": true,
+    "29-持续知识方案补强与自查记录.md": true,
+    "历史版本/KB-DESIGN-001/01-总体建设方案.md": true,
+    "历史版本/KB-DESIGN-001/08-验收场景种子.csv": true,
+    "历史版本/KB-DESIGN-001/06-实施验收与持续维护.md": true,
+    "历史版本/KB-DESIGN-001/00-编制工作方案.md": true,
+    "历史版本/KB-DESIGN-001/归档清单.json": true,
+    "历史版本/KB-DESIGN-001/05-容量资源与构建部署方案.md": true,
+    "历史版本/KB-DESIGN-001/09-方案自审与交付记录.md": true,
+    "历史版本/KB-DESIGN-001/README.md": true,
+    "历史版本/KB-DESIGN-001/参考资料指纹.json": true,
+    "历史版本/KB-DESIGN-001/03-检索执行与秒级响应设计.md": true,
+    "历史版本/KB-DESIGN-001/04-CAD知识工程与审查系统衔接.md": true,
+    "历史版本/KB-DESIGN-001/07-依据审阅与设计决策.md": true,
+    "历史版本/KB-DESIGN-001/02-全量记忆与数据治理.md": true,
+    "历史版本/KB-DESIGN-002/01-总体建设方案.md": true,
+    "历史版本/KB-DESIGN-002/08-验收场景种子.csv": true,
+    "历史版本/KB-DESIGN-002/06-实施验收与持续维护.md": true,
+    "历史版本/KB-DESIGN-002/00-编制工作方案.md": true,
+    "历史版本/KB-DESIGN-002/10-知识域与认知职责组织.md": true,
+    "历史版本/KB-DESIGN-002/归档清单.json": true,
+    "历史版本/KB-DESIGN-002/12-工程实例与建设覆盖.md": true,
+    "历史版本/KB-DESIGN-002/11-工程判断链与能力单元.md": true,
+    "历史版本/KB-DESIGN-002/05-容量资源与构建部署方案.md": true,
+    "历史版本/KB-DESIGN-002/09-方案自审与交付记录.md": true,
+    "历史版本/KB-DESIGN-002/README.md": true,
+    "历史版本/KB-DESIGN-002/参考资料指纹.json": true,
+    "历史版本/KB-DESIGN-002/03-检索执行与秒级响应设计.md": true,
+    "历史版本/KB-DESIGN-002/04-CAD知识工程与审查系统衔接.md": true,
+    "历史版本/KB-DESIGN-002/13-知识职责与判断环节矩阵.csv": true,
+    "历史版本/KB-DESIGN-002/07-依据审阅与设计决策.md": true,
+    "历史版本/KB-DESIGN-002/02-全量记忆与数据治理.md": true
+  },
+  "files_sha256": {
+    "01-总体建设方案.md": "cd38915ad62d9a9e72536065884fa4ec91ebfd3f510d958275e847249d9ecae4",
+    "15-成熟度与实施就绪自查报告.md": "93c21ac8afb5dd087b186a23173386af83a5b813e0feb1ce4c8283b8ea3b1b5c",
+    "26-分阶段文件任务与大容量验收实施清单.md": "3c182039f8f70b5884068420a505b5f8c3eaf79a717a4195037894c74e30c1d4",
+    "27-交付逐项核对与评审结论.md": "25d386ea8b0ac05fc36f4ba51abace4e366af54c77ab8c1ad765fd24ea28495e",
+    "23-真实人工反馈落盘与确认语义验证.md": "1b2f011c1a5faa88c8c1b3aa2b563a7a9063ecd45faca541a180e5899f2fb710",
+    "08-验收场景种子.csv": "a7ec2ba071ac83dd19926c2dc343b2feae94d226c9d5f923729477451119cfb5",
+    "06-实施验收与持续维护.md": "a79647f77476e951be85463a3a2fb6fd1f0cf15aacc498588d01821ca519a530",
+    "00-编制工作方案.md": "00893da1a1fac292384fb3d9271ceb29034d5e573b31d2a6de4c4dd4a7e10d62",
+    "10-知识域与认知职责组织.md": "6b09d618095c637ae53330c2445ce6f0e525284bdfe9a3e4fc489b8b95bd5dfb",
+    "21-目录检索原型验证与实施差距更新.md": "5a74025ed3e4b13e46de73f2004a74d0dda44f71f161386c5708378d250cec4b",
+    "文档补强核验_20261019.json": "4017f18d3f76c25e9675b65b7df6c90539bc9ec63f29423b361b98288fe36b8d",
+    "文档职责索引.md": "3ad4105b848168ccaf747f0f74aee8f0a43a6a13efd25602fbcb28fe3485087c",
+    "12-工程实例与建设覆盖.md": "0e0f00382236b26961cf2a6230122eaad4151a1530f6382223b647515a950737",
+    "11-工程判断链与能力单元.md": "57b127beda5ddeaa2d1aeebd979daba58b1761f75c22b1669241265d9eb98616",
+    "05-容量资源与构建部署方案.md": "2d7eaa5bca69a1602f4fa40a6900f64ec3a713639b125ac7748def2084959cc3",
+    "22-人工确认持久化与真实反馈实施设计.md": "11ac3a104365366183f5420956c438bcfe162616fdaa6c7cfeda2ba9d906594c",
+    "28-持续知识编译与工程Wiki设计.md": "439444e6c7f78153aae23504cd617dffb9e1047adf7732a954a77d1cd5de19ba",
+    "16-首轮实施与最小契约设计.md": "36ad6ebcd6abaa749d2e7ad796aef3225147e7c4120f32070b329ba069946341",
+    "09-方案自审与交付记录.md": "8f0046024bf9752e4d95630975e63302615f64662b9ffd5110634d58426e49f6",
+    "24-统一运行契约与当前确认查询实施设计.md": "ab00ed98da30439e403337bb4b5a1aa52f86cb19421793498f7d48aa5db74704",
+    "20-目录检索原型与代际实施设计.md": "e7a5c29c7d3d90f7233806789ea70695ba44e5349f59f27d4558fbf1bf4f1e4e",
+    "25-统一契约与当前确认查询验证记录.md": "6ff19e9150bb26260ea61e477eab4ebb61fe00adb78703cbb56bc1972a8e7edd",
+    "17-首轮契约与真实来源验证记录.md": "b57611140ae0b2cdf5a9ae77cc980dc2918be287461ee98b8483e604863746e1",
+    "README.md": "e6c607ddb15602e15204a305b52c657d80fdb9ed3381fab400daf5b2b6259a74",
+    "参考资料指纹.json": "73ecbc0c51914f57f36b202af868607253174fee4006352689f17b8cdfc5cc40",
+    "03-检索执行与秒级响应设计.md": "7271a73b4d328c6eff9a2088c9fd328974ba30f40ad109c660794b570061fb52",
+    "自查验证_20261016.json": "568ddb8cd8eb9014369e8be512e46828a0cb76d27edab25349f73c23314d8ddd",
+    "04-CAD知识工程与审查系统衔接.md": "bdd0532cd0593460dc2febd18deadd3601dbe2e8cd413c8a7fded15975bd3003",
+    "19-真实工程样例B验证与方案修订.md": "8312259c86b92724c21b66c2e6d9103d89508b08827bd67168a42857338162e5",
+    "31-知识吸收完整性与工程判断正确性补强.md": "4c832dcb3f6abfe15ee863c89dbfed75e571ae582c66b2d6c8603882dad139dc",
+    "13-知识职责与判断环节矩阵.csv": "16e9037afee8f3d1d968ab8ac6ef977ec289c03464c9deb0047fb793f380d9aa",
+    "07-依据审阅与设计决策.md": "6bd69a38b8d33fb92c1b5b7d3bdffdd12b975fb9257e4de5f8ee42a2c17ebfc3",
+    "18-真实工程样例B实施设计.md": "7c7ca3539a62baf5b8311b7a78a07c3f3bd37db4c77a77897e56bb9a0cfb196f",
+    "32-新增反例与验收设计.csv": "9589b9013c9ffc1076ceb27fccf48886e4f988337b5ae50b75f1d9116d41edd6",
+    "30-知识库方案再自审与修订记录.md": "707df6eabcff332d14abe21f4b2f8d7cece16e9175367ececf9a8bdce1e3dfa4",
+    "02-全量记忆与数据治理.md": "be520842f51709e61adcca208696b480cfa9be1df671fbca14737dc48685aac3",
+    "交付核验_20261016.json": "02bbfebbcfacb2af8ea869039f491578a024221c1c3983b19ba965c4abc6dee9",
+    "29-持续知识方案补强与自查记录.md": "2388185675f2690e5208e0e783092b5158cdcb19e3488ca04c41fc43f5f85edd",
+    "14-现有资料与采购资料吸收方案.md": "0e13fd5dd2e48b9bc7ae6c5c953dec508712baf711581f7d60e9ff54603ef5f5"
+  },
+  "not_run": [
+    "KB原型119项历史测试未重跑",
+    "32新增19项专业/故障场景",
+    "WIKI-01—10",
+    "独立300题与TB性能/恢复",
+    "新采购或标准全文核验"
+  ]
+}

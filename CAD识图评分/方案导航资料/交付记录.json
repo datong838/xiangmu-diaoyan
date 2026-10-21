@@ -1,0 +1,58 @@
+{
+  "delivered_at": "2026-10-20T18:43:42.788787+08:00",
+  "entry": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/CAD方案文档地图.html",
+  "preview": "http://127.0.0.1:8842/",
+  "nodes": 195,
+  "relations": 470,
+  "groups": {
+    "materials": 45,
+    "navigation": 25,
+    "experiments": 32,
+    "system": 9,
+    "process": 22,
+    "knowledge": 19,
+    "history": 25,
+    "management": 7,
+    "criteria": 11
+  },
+  "source_baseline": "2026-10-20来源快照；工作区相关资料未提交Git，commit不覆盖本次正文",
+  "source_git_sha": "da4e21f236dbbe4275f348c0ae1bf36ae208e158",
+  "snapshot_coverage": "全部本地Markdown、指定原始材料/目录、精选外部入口；未递归OCR第三方仓或公开数据集样本",
+  "source_understanding": "正文/标题/链接提取与分类复核，不声明全文工程核准",
+  "static_tests": {
+    "passed": true,
+    "count": 24
+  },
+  "http_checks": {
+    "map_200_and_bytes_match": true,
+    "registered_source_200_and_hash_match": true,
+    "unknown_id_404": true,
+    "arbitrary_path_404": true
+  },
+  "archify_doctor": "passed；本次是导航索引，不是Typed JSON架构图，不声称9项图形验收",
+  "visual_review": {
+    "status": "NOT_COMPLETED",
+    "reason": "CUA浏览器连接transport closed；本机ScreenCaptureKit -3811捕获失败；未绕过UI工具用其他自动化替代",
+    "attempts": "IAB连接及原生Chrome捕获分别重试，均失败",
+    "supported_by_current_evidence": "静态数据/函数检查与HTTP原文读取，不等同真实浏览器点击/截图验收"
+  },
+  "pending_reference_counts": {
+    "未在本导航范围": 219,
+    "原文链接目标待核": 8
+  },
+  "stable_ids": {
+    "added": 195,
+    "reassigned": 0,
+    "id_basis": "固定根内相对路径/外部路径sha256并保留注册表；移动需显式迁移"
+  },
+  "changed_scope": "新增HTML及方案导航资料，仅修改根README导航；未改原始资料、OCR引擎、知识库原型或实验数据",
+  "files_sha256": {
+    "CAD方案文档地图.html": "75058cf43318d1ce2a9328acbfd963bec910d9bb5fd696417487a345e600f826",
+    "生成导航.py": "6d06558153f500a7110a2aa8ff40b000f3ea4c5f9ecf6c5dccea35734b8c522e",
+    "导航模板.html": "27f4af74ceab390b3175150af56c385e865d4ca49cd08768ee32c49ba0ea3cea",
+    "预览服务.py": "0dc8e584382d793af6cf009b585145fa9a0b2e629ff5377821280ed22a9a394c",
+    "文档图谱数据.json": "495dd28760a6cab200080526f8d425f459fb07a7b9620bd84712dc8d27dc8b02",
+    "来源阅读与分类台账.jsonl": "ec4579b2aaa923db53920c2188e8321eff8d8c28a8dccb4b7310b230aa703099",
+    "稳定节点ID.json": "3cd40c8923f50e0a66ed8f4c8ce9c89d150f6b228e2c9648f38e0039ed5d8159"
+  }
+}

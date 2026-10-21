@@ -1,0 +1,38 @@
+# 复核卡 T02-5（自包含，无需我方上下文）
+#   ★ 本类核查的是「引文是否真在声称页上、条款是否适用」——有原文可锚，可机器验。
+audit:
+  date: '2026-10-08'
+  verdict: 通过
+  reason: 必须保留用途行、线型图例及代码，不能仅引用细点画线几个字。
+  method: 源资料上下文审查；非盲复核，非多专家共识
+path_base: 评分判据库根目录
+id: T02-5
+claim: 孔系分布中心线用表1代码04.1.4细点画线；不是05.1细双点画线。
+basis_type: standard
+evidence:
+- type: 引文（逐字）
+  text: 孔系分布的中心线
+- type: 条款
+  std: GB/T 4457.4-2002
+  title: 机械制图 图样画法 图线
+  clause: 表1
+  pdf_page: 5
+- type: 机器校验
+  status: PENDING_REVERIFY
+- type: 完整上下文原页
+  file: evidence/cards/T02-5/context_5.png
+  pdf_page: 5
+- type: 客户正确图
+  file: ../工程图审核/T02_端盖-正确图纸.pdf
+- type: 客户错误图
+  file: ../工程图审核/T02_端盖-错误图纸.pdf
+- type: 原始标准全文
+  file: ../国标/GBT_4457.4-2002_机械制图_图样画法_图线.pdf
+my_conclusion: hypothesis
+question_for_reviewer: 分别核对引文、条款/图例支持、适用条件、合法例外及本例。必须保留用途行、线型图例及代码，不能仅引用细点画线几个字。
+reviewer_output:
+  verdict: ''
+  reason: ''
+  evidence: ''
+  suggested_fix: ''
+  independent_first: ''

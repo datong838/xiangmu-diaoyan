@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "c6ca6685a5633af0",
+    "type": "split",
+    "children": [
+      {
+        "id": "56c3e8a141774f86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54ac3ea8105bb6de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAD识图评分/CAD图纸智能审查系统_全套建设文档/知识库重点建设方案/28-持续知识编译与工程Wiki设计.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "28-持续知识编译与工程Wiki设计"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ca6962b80df0d73",
+    "type": "split",
+    "children": [
+      {
+        "id": "d61abc01e47e4ac5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9839bdab859dcffb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "0c47dfb3f9f414ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d93cafea9542ef05",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320.3984375
+  },
+  "right": {
+    "id": "9b5cb85240d3d9d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a0aaffdbaa403c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59fbf1ebdeec93d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "教务专业群智能体/专业群AI工作站需求确认单.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "b60e226a4de00541",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "教务专业群智能体/专业群AI工作站需求确认单.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "fac83aae12d4fd71",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "6b64efc8827102d2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "70028fad62d11012",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "教务专业群智能体/专业群AI工作站需求确认单.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "54ac3ea8105bb6de",
+  "lastOpenFiles": [
+    "CAD识图评分/未命名.md",
+    "教务专业群智能体/专业群AI工作站校方沟通展示稿.md",
+    "教务专业群智能体/专业群AI工作站校方沟通展示稿-结构调整方案.md",
+    "教务专业群智能体/专业群AI工作站功能清单与字段设计.md",
+    "教务排课智能体/智能教学安排管理校方沟通展示稿.md",
+    "CAD识图评分/匠学图纸助教_核心能力与产学研应用方案_脱敏版.docx",
+    "CAD识图评分/竞赛材料_配图/00_目标态识图审查改进总图.svg",
+    "CAD识图评分/竞赛材料_配图/00_目标态识图审查改进总图.png",
+    "CAD识图评分/竞赛材料_配图/04_问题解释与指导示意.png",
+    "CAD识图评分/竞赛材料_配图/03_学校与企业使用闭环.png",
+    "CAD识图评分/竞赛材料_配图/02_三类专业知识支撑.png",
+    "CAD识图评分/竞赛材料_配图/01_核心能力全景.png",
+    "CAD识图评分/竞赛材料_配图/04_问题解释与指导示意.svg",
+    "CAD识图评分/竞赛材料_配图/03_学校与企业使用闭环.svg",
+    "CAD识图评分/竞赛材料_配图/02_三类专业知识支撑.svg",
+    "CAD识图评分/竞赛材料_配图/01_核心能力全景.svg",
+    "CAD识图评分/竞赛材料_配图",
+    "CAD识图评分/竞赛材料_AI助学产品介绍与教学应用方案_脱敏版.md",
+    "CAD识图评分/知识库资料_采购清单.xlsx",
+    "CAD识图评分/知识库资料_下载清单.xlsx",
+    "CAD识图评分/全套建设文档_全文阅读清单_20261015.json",
+    "CAD识图评分/全套建设文档_阅读理解记录_20261015.md",
+    "CAD识图评分/CAD图纸智能审查系统_全套建设文档/标准PDF文本层检测.py",
+    "CAD识图评分/CAD图纸智能审查系统_全套建设文档/机械图纸知识库_资料源与采购方案.md",
+    "CAD识图评分/CAD图纸智能审查系统_全套建设文档/机械图纸案例库建设方案.md",
+    "CAD识图评分/CAD图纸智能审查系统_全套建设文档/待补资料清单_第三轮.md",
+    "CAD识图评分/CAD图纸智能审查系统_全套建设文档/DXF到货验证报告_T01-T05正误变体.md",
+    "CAD识图评分/CAD图纸智能审查系统_全套建设文档/CAD第一阶段_资料与规则复核报告_32项.md",
+    "CAD识图评分/CAD图纸智能审查系统_全套建设文档/CAD图纸智能审查系统_目标态建设技术方案.md",
+    "CAD识图评分/CAD图纸智能审查系统_全套建设文档/CAD图纸智能审查系统_工程实施方案.md",
+    "CAD识图评分/CAD图纸智能审查系统_全套建设文档/CAD图纸审查_评测与验证体系.md",
+    "CAD识图评分/CAD图纸智能审查系统_全套建设文档/CAD图纸审查_可解释证明体系.md",
+    "CAD识图评分/CAD图纸智能审查系统_全套建设文档/CAD判据库建设方案集.md",
+    "CAD识图评分/CAD图纸智能审查系统_全套建设文档",
+    "CAD识图评分/CAD图纸智能审查系统_全套建设文档.zip",
+    "CAD识图评分/CAD三件套_方案文档/现有看清引擎_方案理解记录_20261015.md",
+    "CAD识图评分/CAD三件套_方案文档/CAD三件套_全文阅读Token费用记录_20261015.md",
+    "CAD识图评分/CAD三件套_方案文档/CAD三件套_逐份阅读与理解记录_20261015.md",
+    "CAD识图评分/CAD三件套_方案文档/CAD三件套_全文阅读清单_20261015.json",
+    "CAD识图评分/CAD三件套_方案文档/目标态方案_Token费用记录_20261015.md",
+    "CAD识图评分/CAD三件套_方案文档/目标态方案_资料核查记录_20261015.json",
+    "CAD识图评分/CAD三件套_方案文档/CAD识图审查与改进系统_目标态研发方案.md",
+    "CAD识图评分/CAD三件套_方案文档/机械图纸知识库_资料源与采购方案.md",
+    "CAD识图评分/CAD三件套_方案文档/机械图纸案例库建设方案.md",
+    "CAD识图评分/CAD三件套_方案文档/DXF到货验证报告_T01-T05正误变体.md",
+    "CAD识图评分/CAD三件套_方案文档/CAD判据库建设方案集.md"
+  ]
+}

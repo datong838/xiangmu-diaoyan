@@ -1,0 +1,38 @@
+# 复核卡 T01-2b（自包含，无需我方上下文）
+#   ★ 本类核查的是「引文是否真在声称页上、条款是否适用」——有原文可锚，可机器验。
+audit:
+  date: '2026-10-08'
+  verdict: 通过
+  reason: 形制条款可支持形制检查，不能支持样本90°数值错误。
+  method: 源资料上下文审查；非盲复核，非多专家共识
+path_base: 评分判据库根目录
+id: T01-2b
+claim: 角度尺寸线应为圆弧，圆心为该角顶点；此条不证明角度数值应为30°。
+basis_type: standard
+evidence:
+- type: 引文（逐字）
+  text: 标注角度时，尺寸线应画成圆弧，其圆心是该角的顶点。
+- type: 条款
+  std: GB/T 4458.4-2003
+  title: 机械制图 尺寸注法
+  clause: §4.2.4
+  pdf_page: 8
+- type: 机器校验
+  status: PENDING_REVERIFY
+- type: 完整上下文原页
+  file: evidence/cards/T01-2b/context_8.png
+  pdf_page: 8
+- type: 客户正确图
+  file: ../工程图审核/T01_矩形花键套-正确图纸.pdf
+- type: 客户错误图
+  file: ../工程图审核/T01_矩形花键套-错误图纸.pdf
+- type: 原始标准全文
+  file: ../国标/GBT_4458.4-2003_机械制图_尺寸注法.pdf
+my_conclusion: hypothesis
+question_for_reviewer: 分别核对引文、条款/图例支持、适用条件、合法例外及本例。形制条款可支持形制检查，不能支持样本90°数值错误。
+reviewer_output:
+  verdict: ''
+  reason: ''
+  evidence: ''
+  suggested_fix: ''
+  independent_first: ''

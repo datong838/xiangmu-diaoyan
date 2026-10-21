@@ -1,0 +1,123 @@
+id: L1-CLOSEDCHAIN-001
+name: 封闭尺寸链检测（同一方向尺寸不应首尾封闭）
+layer: L2
+basis: convention
+severity: low
+covers_samples:
+- T01-4
+claim: 同一尺寸链存在全部独立控制尺寸构成的冗余闭环时，形成候选问题；参考尺寸不参与控制环。应结合功能和公差分配由专家确认。
+grounding:
+- 类型: 教科书
+  出处: 《机械制图》/《公差配合与技术测量》"尺寸链"章节（封闭环与组成环）
+  备注: 版本、作者、页码未提供，不作已核准引文
+  verification_status: unverified
+- 类型: 行业惯例
+  说明: 封闭尺寸链使公差在链上累积，导致"多余的那一环"精度无法保证（制造困难、成本上升）
+  备注: 待客户专家提供依据及适用范围，非已核准共识
+  verification_status: unverified
+standard_support:
+- std: GB/T 4458.4-2003
+  title: 机械制图 尺寸注法
+  clause: '5.4'
+  pdf_page: 11
+  quote: 标注参考尺寸时，应将尺寸数字加上圆括弧（图27）
+  supports: 反例①（参考尺寸带括弧者合法，不得判命中）
+  channel: C
+  evidence_level: E0
+  evidence_file: review/pack_v1/_audit/4458.4_p11.png
+- std: GB/T 4458.4-2003
+  title: 机械制图 尺寸注法
+  clause: '5.7'
+  pdf_page: 12
+  quote: 当需要指明半径尺寸是由其他尺寸所确定时，应用尺寸线和符号“R”标出，但不要注写尺寸数字（图30）
+  supports: 只支持半径由其它尺寸确定时可不注数字的特例，不证明一般完备性或封闭尺寸链禁令
+  channel: C
+  evidence_level: E0
+  evidence_file: review/pack_v1/_audit/4458.4_p12.png
+- note: '★ 建模口径：判定命题（何时算封闭链）= convention；
+
+    处置与反例中的上述两条 = standard。
+
+    对外报告中，两者分开表述：前者标"经验规则"，后者可正常引条款。
+
+    严禁用 §5.4/§5.7 去"证明"该规则本身有明文（§5.7 只覆盖"半径由其他尺寸确定"这一特例）。
+
+    '
+rationale: 控制尺寸闭环可能形成冗余约束，公差分配需明确。几何端点循环、尺寸冗余与公差闭环分别判断，不能把连续区间覆盖当作闭环。
+counterexample: 参考尺寸依§5.4使用括弧；必须逐项识别后从控制尺寸图排除。另一个独立控制闭环仍须检查。由其它尺寸确定的半径依§5.7限定情形处理，不能扩展为全部尺寸可任意不注。关键尺寸选择和检验附图由客户专家确认。
+fp_risk: '① 必须识别"参考尺寸"记号（括号 / "参考"字样），否则必然误报（§5.4 明文支持该反例）；
+
+  ② 须确认这组尺寸确在**同一方向、同一基准链**上，而非分属两条独立尺寸链；
+
+  ③ 依 GB/T 4458.4 §3.4"每一尺寸一般只标注一次"，"重复标注"≠"封闭尺寸链"，勿混淆。
+
+  '
+input:
+- dims
+- geom
+- views
+logic: 先确认尺寸端点、方向、特征关联可靠；未知时输出无法判定。逐个排除参考尺寸，不能因同方向任意一项是参考尺寸而跳过整组。以尺寸端点为图节点、独立控制尺寸为边检测各个循环；检查冗余约束与数值矛盾，不要求数值恰好相等才报警。每个循环独立输出证据；缺少关联或公差条件时输出无法判定。
+outputs:
+- 命中
+- 未命中
+- 无法判定
+detector_hint: 以尺寸端点关联图逐环检查，不能只用一维区间覆盖；关联不可靠输出无法判定。稳定ID保留L1前缀，当前归类L2。
+ocr_dependency:
+  negated_standard: GB/T 4458.4-2003
+  search_words:
+  - 封闭尺寸链
+  - 尺寸链
+  - 封闭环
+  - 组成环
+  - 开口环
+  - 闭合
+  - 由其他尺寸确定
+  - 由其他尺寸所确定
+  - 参考尺寸
+  - 不要注写
+  - 重复标注
+  - 多余尺寸
+  channel_A: 不可用
+  channel_B: 可用
+  channel_C: 已目视
+  negate_strength: 检索线索，不证明不存在
+  residual_risk: 同一原始PDF的文本层、OCR和目视是读取通道，不是独立权威来源；抽查关键页不等于全文消除漏读。需记录真实范围、全文页覆盖与缺失基础标准。
+negative_evidence:
+  tool: tools/negative_evidence.py
+  spec: evidence/negative_spec.json
+  report: evidence/NEGATIVE_EVIDENCE_REPORT.md
+  result: 限定材料与词表未找到直接支持命题的条文；不足以证明国标无明文
+  hits:
+  - channel: B
+    word: 由其他尺寸所确定
+    at: GB/T 4458.4-2003 §5.7 (PDF p12)
+    adjudication: 实质明文 → 计入 standard_support
+  - channel: B
+    word: 参考尺寸
+    at: GB/T 4458.4-2003 §5.4 (PDF p11) / 图27
+    adjudication: 实质明文 → 计入 standard_support
+  action_taken: 经验规则候选待客户专家确认；补收相关基础标准后复核
+  detail: 已有检索仅作相关条文线索；本轮核对关键原页及适用范围，不认证全文无明文。基础标准可能缺失，后续补收。
+audit_pages:
+- 4
+- 11
+- 12
+sample_detail:
+  T01-4: 长度方向尺寸 110mm 与相邻尺寸首尾相接，覆盖同一总长且无留空 → 命中
+annotation_consensus:
+  rule: 每个结论须有原页或可核准专家经验依据；多数票不自动入库，争议留待裁决。
+  annotators:
+  - who: null
+    verdict: null
+    reason: null
+    evidence: null
+    counterexample: null
+    independent_first: true
+my_conclusion: hypothesis
+question_for_reviewer: 核查样本是否适用、工程原理是否成立、反例是否完整；有直接国标依据则记录支持的精确范围，不因关键词命中自动改为standard。
+reviewer_output:
+  verdict: null
+  reason: null
+  evidence: null
+  suggested_fix: null
+approval_status: candidate_pending_customer_expert

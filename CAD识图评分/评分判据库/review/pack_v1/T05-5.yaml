@@ -1,0 +1,41 @@
+# 复核卡 T05-5（自包含，无需我方上下文）
+#   ★ 本类核查的是「引文是否真在声称页上、条款是否适用」——有原文可锚，可机器验。
+audit:
+  date: '2026-10-08'
+  verdict: 通过
+  reason: 表2同时把可见轮廓01.2列为粗线，未规定端线必须更粗或固定0.7mm；客户额外要求与国标拆开。
+  method: 源资料上下文审查；非盲复核，非多专家共识
+path_base: 评分判据库根目录
+id: T05-5
+claim: 剖切符号用线按表1代码01.2.10为粗实线；具体线宽依第5章所选线组。
+basis_type: standard
+evidence:
+- type: 引文（逐字）
+  text: 剖切符号用线
+- type: 条款
+  std: GB/T 4457.4-2002
+  title: 机械制图 图样画法 图线
+  clause: 表1 01.2.10；第5章 表2
+  pdf_page: 5
+- type: 机器校验
+  status: PENDING_REVERIFY
+- type: 完整上下文原页
+  file: evidence/cards/T05-5/context_5.png
+  pdf_page: 5
+- type: 完整上下文原页
+  file: evidence/cards/T05-5/context_6.png
+  pdf_page: 6
+- type: 客户正确图
+  file: ../工程图审核/T05_轴承盖-正确图纸.pdf
+- type: 客户错误图
+  file: ../工程图审核/T05_轴承盖-错误图纸.pdf
+- type: 原始标准全文
+  file: ../国标/GBT_4457.4-2002_机械制图_图样画法_图线.pdf
+my_conclusion: hypothesis
+question_for_reviewer: 分别核对引文、条款/图例支持、适用条件、合法例外及本例。表2同时把可见轮廓01.2列为粗线，未规定端线必须更粗或固定0.7mm；客户额外要求与国标拆开。
+reviewer_output:
+  verdict: ''
+  reason: ''
+  evidence: ''
+  suggested_fix: ''
+  independent_first: ''

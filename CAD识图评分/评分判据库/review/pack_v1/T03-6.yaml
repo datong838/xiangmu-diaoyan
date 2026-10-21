@@ -1,0 +1,38 @@
+# 复核卡 T03-6（自包含，无需我方上下文）
+#   ★ 本类核查的是「引文是否真在声称页上、条款是否适用」——有原文可锚，可机器验。
+audit:
+  date: '2026-10-08'
+  verdict: 通过
+  reason: 必须区分局部剖视分界、长件断开边界和剖切位置线。
+  method: 源资料上下文审查；非盲复核，非多专家共识
+path_base: 评分判据库根目录
+id: T03-6
+claim: 已确认是局部剖视分界线时，表1代码01.1.21/22使用细实线波浪线或双折线。
+basis_type: standard
+evidence:
+- type: 引文（逐字）
+  text: 断裂处边界线；视图与剖视图的分界线
+- type: 条款
+  std: GB/T 4457.4-2002
+  title: 机械制图 图样画法 图线
+  clause: 表1 01.1.21
+  pdf_page: 5
+- type: 机器校验
+  status: PENDING_REVERIFY
+- type: 完整上下文原页
+  file: evidence/cards/T03-6/context_5.png
+  pdf_page: 5
+- type: 客户正确图
+  file: ../工程图审核/T03_传动箱-正确图纸.pdf
+- type: 客户错误图
+  file: ../工程图审核/T03_传动箱-错误图纸.pdf
+- type: 原始标准全文
+  file: ../国标/GBT_4457.4-2002_机械制图_图样画法_图线.pdf
+my_conclusion: hypothesis
+question_for_reviewer: 分别核对引文、条款/图例支持、适用条件、合法例外及本例。必须区分局部剖视分界、长件断开边界和剖切位置线。
+reviewer_output:
+  verdict: ''
+  reason: ''
+  evidence: ''
+  suggested_fix: ''
+  independent_first: ''

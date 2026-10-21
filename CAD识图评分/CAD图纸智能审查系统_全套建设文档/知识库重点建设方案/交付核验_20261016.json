@@ -1,0 +1,253 @@
+{
+  "checked_at": "2026-10-16T15:15:01.931546+00:00",
+  "scope": "本聊天建设方案深化、可评审/分阶段实施设计和必要局部验证；非完整系统或TB验收",
+  "objective_requirements": [
+    {
+      "requirement": "成熟度自查",
+      "status": "DELIVERED_AND_CHECKED_IN_DECLARED_SCOPE"
+    },
+    {
+      "requirement": "知识职责与工程链",
+      "status": "DELIVERED_AND_CHECKED_IN_DECLARED_SCOPE"
+    },
+    {
+      "requirement": "全量记忆/秒级分层及边界",
+      "status": "DELIVERED_AND_CHECKED_IN_DECLARED_SCOPE"
+    },
+    {
+      "requirement": "最小数据与接口契约",
+      "status": "DELIVERED_AND_CHECKED_IN_DECLARED_SCOPE"
+    },
+    {
+      "requirement": "条件/单位/确认语义",
+      "status": "DELIVERED_AND_CHECKED_IN_DECLARED_SCOPE"
+    },
+    {
+      "requirement": "文件任务与依赖",
+      "status": "DELIVERED_AND_CHECKED_IN_DECLARED_SCOPE"
+    },
+    {
+      "requirement": "真实跨源样例",
+      "status": "DELIVERED_AND_CHECKED_IN_DECLARED_SCOPE"
+    },
+    {
+      "requirement": "验收与资源/恢复设计",
+      "status": "DELIVERED_AND_CHECKED_IN_DECLARED_SCOPE"
+    },
+    {
+      "requirement": "小范围运行验证",
+      "status": "DELIVERED_AND_CHECKED_IN_DECLARED_SCOPE"
+    },
+    {
+      "requirement": "原件及用户确认保持",
+      "status": "DELIVERED_AND_CHECKED_IN_DECLARED_SCOPE"
+    }
+  ],
+  "final_regression": {
+    "command": ".venv-evidence/bin/python -m unittest discover -s tests",
+    "observed_exit_code": 0,
+    "methods": 119,
+    "observed_seconds": 1.096,
+    "timing_note": "测试方法总时间，不是检索SLA"
+  },
+  "document_static": {
+    "local_links_checked": 77,
+    "missing_links": [],
+    "json_example_files": [
+      "03-检索执行与秒级响应设计.md",
+      "11-工程判断链与能力单元.md"
+    ],
+    "fences_balanced": true
+  },
+  "schemas": [
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/contracts/review_store.schema.json",
+      "sha256": "cd62c7e9028d1b0c5259a3f5d90a9f776f4254915166689d75faefcf792fc861"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/contracts/bundle.schema.json",
+      "sha256": "8a5f873e52ea9590ff660fcf2e8b8aa057460671f2e29a25c114a243ca68a769"
+    },
+    {
+      "path": "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/contracts/runtime_v02.schema.json",
+      "sha256": "6b15d8067e811664167359ab55a6ff357f086141b8935a406799042a490d6da8"
+    }
+  ],
+  "runtime_report_fingerprints_match": true,
+  "sample_query_contracts_valid": true,
+  "read_only_databases": {
+    "catalog_real.sqlite": {
+      "quick_check": "ok",
+      "foreign_key_errors": [],
+      "counts": {
+        "sources": 8,
+        "units": 20,
+        "relations": 21,
+        "generations": 1
+      }
+    },
+    "review_capture.sqlite": {
+      "quick_check": "ok",
+      "foreign_key_errors": [],
+      "counts": {
+        "review_targets": 23,
+        "review_events": 14
+      }
+    }
+  },
+  "current_source_fingerprints_checked": {
+    "/Volumes/NVME2T/projects/ai_agent/cad/dataset/_derived/ParaCAD/ocr_enhanced_20261016/sources/05_sketch_7036_1_0/input.png": "8421d8688e5e5337bd548d9cb7eb9c3b1ce5be95c84bde580d714162fefa7f51",
+    "/Volumes/NVME2T/projects/ai_agent/cad/dataset/_derived/ParaCAD/ocr_enhanced_20261016/sources/05_sketch_7036_1_0/source_record.json": "d25303703228b8d06e68b2b3c0d9a6c7fd92119b6b837a2a50faea67794e6124",
+    "/Volumes/NVME2T/projects/ai_agent/cad/dataset/_derived/ParaCAD/ocr_enhanced_20261016/review_items.json": "aa3dda1d0395a10ad6ed77e9e444634fb6739ef61aad4758548ae816ffb68e72",
+    "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/reports/real_b_validation.json": "3ad6ce0b3a8a11095c1f0e17e7a130cf1adff267576019d2596b11b42b9611f5",
+    "/Users/ddt/work/projects/ai_agent/cad/engineering-kb/fixtures/real_b_sources.json": "c478c328a3986ea35864e41abba82480b131bd6c2c962d8e7f6422c60e22b7a8",
+    "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GBT_4457.4-2002_机械制图_图样画法_图线.pdf": "3766ade04201135e3af65bef0b5251632538c7037898fa2ca1a71454882b36d4",
+    "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/T05_轴承盖-正确图纸.pdf": "3f66d2a23740a56bdf7ad5e1cd5e12cb26491b9525dc883c8ea260fae24a37ed",
+    "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/T05_轴承盖-错误图纸.pdf": "94ab2aaa21c010f033a2a0d3e614cebecc31d525c0bd55390fb86ddf2e61a5d1",
+    "/Volumes/NVME2T/projects/ai_agent/cad/dataset/_derived/ParaCAD/ocr_enhanced_20261016/L5待确认.html": "4ebaf73cef24b25e855943d245173cc44c8160ed8cf37117c6963903dba8bc56",
+    "/Volumes/NVME2T/projects/ai_agent/cad/dataset/_derived/ParaCAD/ocr_enhanced_20261016/sources/07_sketch_4560_1_0/input.png": "e1dee8f63204baf01e6cf716711b579824f421fc136abec6d20ff2aabc115943",
+    "/Volumes/NVME2T/projects/ai_agent/cad/dataset/_derived/ParaCAD/ocr_enhanced_20261016/sources/08_sketch_7803_3_0/input.png": "3578de20affeeb34f8be8b0138c0ffb5683827f1e963bdbb0cadcc29f637b91e",
+    "/Volumes/NVME2T/projects/ai_agent/cad/dataset/_derived/ParaCAD/ocr_enhanced_20261016/sources/10_sketch_1956_3_0/input.png": "242bd23eb7d67916ea810df36db17c0465be2f86077783386bee48ac714f7589"
+  },
+  "scenario_statuses": {
+    "08-验收场景种子.csv": {
+      "rows": 60,
+      "state": "NOT_RUN"
+    },
+    "13-知识职责与判断环节矩阵.csv": {
+      "rows": 27,
+      "state": "DESIGN_ONLY"
+    }
+  },
+  "implementation_dependency_graph": {
+    "F01": [],
+    "F02": [
+      "F01"
+    ],
+    "F03": [
+      "F01"
+    ],
+    "F04": [],
+    "F05": [
+      "F01",
+      "F04"
+    ],
+    "F06": [
+      "F04",
+      "F05"
+    ],
+    "F07": [
+      "F01",
+      "F04"
+    ],
+    "F08": [
+      "F05",
+      "F07"
+    ],
+    "F09": [
+      "F03",
+      "F04"
+    ],
+    "F10": [
+      "F03",
+      "F09"
+    ],
+    "F11": [
+      "F04",
+      "F09",
+      "F10"
+    ],
+    "F12": [
+      "F09",
+      "F10",
+      "F11"
+    ],
+    "F13": [
+      "F05",
+      "F07",
+      "F08"
+    ],
+    "F14": [
+      "F13",
+      "F16"
+    ],
+    "F15": [
+      "F09",
+      "F11",
+      "F13"
+    ],
+    "F16": [
+      "F09",
+      "F12",
+      "F13"
+    ],
+    "F17": [
+      "F13",
+      "F15",
+      "F16"
+    ],
+    "F18": [
+      "F02",
+      "F03",
+      "F08",
+      "F17"
+    ],
+    "F19": [
+      "F08",
+      "F18"
+    ],
+    "F20": [
+      "F06",
+      "F08",
+      "F12",
+      "F19"
+    ],
+    "F21": [
+      "F01",
+      "F08",
+      "F20"
+    ]
+  },
+  "dependency_graph_acyclic": true,
+  "unachieved_implementation_acceptance": [
+    "全量成员/页/实体覆盖",
+    "完整图面/对象/专业判据与改图复检",
+    "手册/图册正文及真实工艺知识闭环",
+    "生产鉴权与多库强一致",
+    "独立300题及质量对照",
+    "数百GB—1TB性能/资源/备份恢复实测"
+  ],
+  "documents_sha256": {
+    "01-总体建设方案.md": "2e3082432a902783e8c9871dfd02a39cf7155d4522e829e95701f21736c97c3a",
+    "15-成熟度与实施就绪自查报告.md": "93c21ac8afb5dd087b186a23173386af83a5b813e0feb1ce4c8283b8ea3b1b5c",
+    "26-分阶段文件任务与大容量验收实施清单.md": "16e4dbf4f2dabcdc51d3d8b2e2f9ebaf89468ebdc4dcf2b601ca5d5574b6cfc3",
+    "27-交付逐项核对与评审结论.md": "22f9fa0623b67d29fa837a1dbaf04cd30e50f7e14d3546c72cecf97013ef55a8",
+    "23-真实人工反馈落盘与确认语义验证.md": "1b2f011c1a5faa88c8c1b3aa2b563a7a9063ecd45faca541a180e5899f2fb710",
+    "08-验收场景种子.csv": "a7ec2ba071ac83dd19926c2dc343b2feae94d226c9d5f923729477451119cfb5",
+    "06-实施验收与持续维护.md": "4259eccb889d36be6238adede48a96f2b8274f54ac10b946d6da81f03cd364d1",
+    "00-编制工作方案.md": "76bd367fdde1c0070b3024160aef699210381a44fbdbc0d90ec1d172bf493945",
+    "10-知识域与认知职责组织.md": "3e73ca47af54b54903af8546e901d2b63ea6d9ec496ccbfd4f13732b73673dcc",
+    "21-目录检索原型验证与实施差距更新.md": "5a74025ed3e4b13e46de73f2004a74d0dda44f71f161386c5708378d250cec4b",
+    "12-工程实例与建设覆盖.md": "2dd9948531b6003cc8f276a5132c3008e2e6d438e5fbdcbc607eb038f131e637",
+    "11-工程判断链与能力单元.md": "24a8e5eaf8ebcc47038e9e6d405cbf385bd4462819f27b669e987b9a71e5fe8c",
+    "05-容量资源与构建部署方案.md": "883ef00c0e045ecb808b4f6c66b91f3c03797aec5e5e6e5d4defbfedb3169294",
+    "22-人工确认持久化与真实反馈实施设计.md": "11ac3a104365366183f5420956c438bcfe162616fdaa6c7cfeda2ba9d906594c",
+    "16-首轮实施与最小契约设计.md": "36ad6ebcd6abaa749d2e7ad796aef3225147e7c4120f32070b329ba069946341",
+    "09-方案自审与交付记录.md": "8f0046024bf9752e4d95630975e63302615f64662b9ffd5110634d58426e49f6",
+    "24-统一运行契约与当前确认查询实施设计.md": "ab00ed98da30439e403337bb4b5a1aa52f86cb19421793498f7d48aa5db74704",
+    "20-目录检索原型与代际实施设计.md": "e7a5c29c7d3d90f7233806789ea70695ba44e5349f59f27d4558fbf1bf4f1e4e",
+    "25-统一契约与当前确认查询验证记录.md": "6ff19e9150bb26260ea61e477eab4ebb61fe00adb78703cbb56bc1972a8e7edd",
+    "17-首轮契约与真实来源验证记录.md": "b57611140ae0b2cdf5a9ae77cc980dc2918be287461ee98b8483e604863746e1",
+    "README.md": "e830f93a667a4061ad2e0661d3c15cdd4e7beb31f315eff38ee790461a44bf7d",
+    "参考资料指纹.json": "73ecbc0c51914f57f36b202af868607253174fee4006352689f17b8cdfc5cc40",
+    "03-检索执行与秒级响应设计.md": "c3a290b262df917517d722d612f5cb0ad22d9adae7125c721505cba01e17a1b7",
+    "自查验证_20261016.json": "568ddb8cd8eb9014369e8be512e46828a0cb76d27edab25349f73c23314d8ddd",
+    "04-CAD知识工程与审查系统衔接.md": "bc2b41e21e703db6c24f1b2a535448547f9a3140fe66c886b1d36448927b9823",
+    "19-真实工程样例B验证与方案修订.md": "8312259c86b92724c21b66c2e6d9103d89508b08827bd67168a42857338162e5",
+    "13-知识职责与判断环节矩阵.csv": "16e9037afee8f3d1d968ab8ac6ef977ec289c03464c9deb0047fb793f380d9aa",
+    "07-依据审阅与设计决策.md": "a798898e35393ca5c5dd7df2af8337aef28071e58872a8bb62dc236d97481659",
+    "18-真实工程样例B实施设计.md": "7c7ca3539a62baf5b8311b7a78a07c3f3bd37db4c77a77897e56bb9a0cfb196f",
+    "02-全量记忆与数据治理.md": "9323254ff2194b90d28c4d444cce37fd105c60a002478c05e3b729940e18af46",
+    "14-现有资料与采购资料吸收方案.md": "0e13fd5dd2e48b9bc7ae6c5c953dec508712baf711581f7d60e9ff54603ef5f5"
+  }
+}

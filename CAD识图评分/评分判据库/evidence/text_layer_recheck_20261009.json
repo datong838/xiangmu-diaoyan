@@ -1,0 +1,3975 @@
+[
+  {
+    "file": "GB-T_4459.3-2000_机械制图_花键表示法.pdf",
+    "pages": 8,
+    "text_pages": 8,
+    "characters": 3477,
+    "nonwhite_chars": 2695,
+    "font_objects": 2,
+    "no_text_pages": [],
+    "pages_detail": [
+      {
+        "page": 1,
+        "chars": 180,
+        "nonwhite": 146,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 2,
+        "chars": 495,
+        "nonwhite": 411,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 3,
+        "chars": 324,
+        "nonwhite": 291,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 4,
+        "chars": 852,
+        "nonwhite": 637,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 5,
+        "chars": 456,
+        "nonwhite": 317,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 6,
+        "chars": 338,
+        "nonwhite": 276,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 7,
+        "chars": 398,
+        "nonwhite": 301,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 8,
+        "chars": 434,
+        "nonwhite": 316,
+        "images": 1,
+        "paths": 0
+      }
+    ]
+  },
+  {
+    "file": "GB-T_4459.5-1999_机械制图_中心孔表示法_full.pdf",
+    "pages": 8,
+    "text_pages": 8,
+    "characters": 5172,
+    "nonwhite_chars": 3607,
+    "font_objects": 1,
+    "no_text_pages": [],
+    "pages_detail": [
+      {
+        "page": 1,
+        "chars": 184,
+        "nonwhite": 149,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 2,
+        "chars": 542,
+        "nonwhite": 447,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 3,
+        "chars": 325,
+        "nonwhite": 297,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 4,
+        "chars": 1065,
+        "nonwhite": 882,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 5,
+        "chars": 897,
+        "nonwhite": 551,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 6,
+        "chars": 535,
+        "nonwhite": 378,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 7,
+        "chars": 1338,
+        "nonwhite": 723,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 8,
+        "chars": 286,
+        "nonwhite": 180,
+        "images": 1,
+        "paths": 0
+      }
+    ]
+  },
+  {
+    "file": "GB-T_4459.8-2009_机械制图_动密封圈_第1部分.pdf",
+    "pages": 5,
+    "text_pages": 0,
+    "characters": 0,
+    "nonwhite_chars": 0,
+    "font_objects": 0,
+    "no_text_pages": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "pages_detail": [
+      {
+        "page": 1,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 2,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 3,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 4,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 5,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      }
+    ]
+  },
+  {
+    "file": "GB-T_4459.9-2009_机械制图_动密封圈_第2部分.pdf",
+    "pages": 9,
+    "text_pages": 0,
+    "characters": 0,
+    "nonwhite_chars": 0,
+    "font_objects": 0,
+    "no_text_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "pages_detail": [
+      {
+        "page": 1,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 2,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 3,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 4,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 5,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 6,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 7,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 8,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 9,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      }
+    ]
+  },
+  {
+    "file": "GB-T_4460-2013_机械制图_机构运动简图用图形符号.pdf",
+    "pages": 28,
+    "text_pages": 0,
+    "characters": 0,
+    "nonwhite_chars": 0,
+    "font_objects": 0,
+    "no_text_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "pages_detail": [
+      {
+        "page": 1,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 2,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 3,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 4,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 5,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 6,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 7,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 8,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 9,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 10,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 11,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 12,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 13,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 14,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 15,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 16,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 17,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 18,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 19,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 20,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 21,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 22,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 23,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 24,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 25,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 26,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 27,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 28,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      }
+    ]
+  },
+  {
+    "file": "GBT 15754-2025 产品几何技术规范 尺寸和公差标注 圆锥.pdf",
+    "pages": 27,
+    "text_pages": 0,
+    "characters": 0,
+    "nonwhite_chars": 0,
+    "font_objects": 0,
+    "no_text_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "pages_detail": [
+      {
+        "page": 1,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 2,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 3,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 4,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 5,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 6,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 7,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 8,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 9,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 10,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 11,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 12,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 13,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 14,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 15,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 16,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 17,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 18,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 19,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 20,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 21,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 22,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 23,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 24,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 25,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 26,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 27,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      }
+    ]
+  },
+  {
+    "file": "GBT_24739-2009_机械制图_机件上倾斜结构的表示法.pdf",
+    "pages": 20,
+    "text_pages": 16,
+    "characters": 4212,
+    "nonwhite_chars": 3907,
+    "font_objects": 135,
+    "no_text_pages": [
+      2,
+      4,
+      18,
+      19
+    ],
+    "pages_detail": [
+      {
+        "page": 1,
+        "chars": 196,
+        "nonwhite": 183,
+        "images": 1,
+        "paths": 2
+      },
+      {
+        "page": 2,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 0,
+        "paths": 0
+      },
+      {
+        "page": 3,
+        "chars": 165,
+        "nonwhite": 153,
+        "images": 0,
+        "paths": 0
+      },
+      {
+        "page": 4,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 0,
+        "paths": 0
+      },
+      {
+        "page": 5,
+        "chars": 1182,
+        "nonwhite": 1115,
+        "images": 0,
+        "paths": 0
+      },
+      {
+        "page": 6,
+        "chars": 354,
+        "nonwhite": 335,
+        "images": 2,
+        "paths": 0
+      },
+      {
+        "page": 7,
+        "chars": 326,
+        "nonwhite": 308,
+        "images": 2,
+        "paths": 0
+      },
+      {
+        "page": 8,
+        "chars": 189,
+        "nonwhite": 175,
+        "images": 2,
+        "paths": 0
+      },
+      {
+        "page": 9,
+        "chars": 269,
+        "nonwhite": 251,
+        "images": 2,
+        "paths": 0
+      },
+      {
+        "page": 10,
+        "chars": 50,
+        "nonwhite": 44,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 11,
+        "chars": 210,
+        "nonwhite": 189,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 12,
+        "chars": 31,
+        "nonwhite": 26,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 13,
+        "chars": 31,
+        "nonwhite": 26,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 14,
+        "chars": 33,
+        "nonwhite": 27,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 15,
+        "chars": 466,
+        "nonwhite": 439,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 16,
+        "chars": 369,
+        "nonwhite": 350,
+        "images": 2,
+        "paths": 0
+      },
+      {
+        "page": 17,
+        "chars": 34,
+        "nonwhite": 29,
+        "images": 1,
+        "paths": 1
+      },
+      {
+        "page": 18,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 0,
+        "paths": 0
+      },
+      {
+        "page": 19,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 0,
+        "paths": 0
+      },
+      {
+        "page": 20,
+        "chars": 307,
+        "nonwhite": 257,
+        "images": 1,
+        "paths": 0
+      }
+    ]
+  },
+  {
+    "file": "GBT_4457.4-2002_机械制图_图样画法_图线.pdf",
+    "pages": 16,
+    "text_pages": 16,
+    "characters": 8342,
+    "nonwhite_chars": 5703,
+    "font_objects": 2,
+    "no_text_pages": [],
+    "pages_detail": [
+      {
+        "page": 1,
+        "chars": 354,
+        "nonwhite": 283,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 2,
+        "chars": 1210,
+        "nonwhite": 1176,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 3,
+        "chars": 1232,
+        "nonwhite": 911,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 4,
+        "chars": 645,
+        "nonwhite": 526,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 5,
+        "chars": 477,
+        "nonwhite": 379,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 6,
+        "chars": 557,
+        "nonwhite": 405,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 7,
+        "chars": 337,
+        "nonwhite": 198,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 8,
+        "chars": 565,
+        "nonwhite": 198,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 9,
+        "chars": 39,
+        "nonwhite": 26,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 10,
+        "chars": 171,
+        "nonwhite": 132,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 11,
+        "chars": 370,
+        "nonwhite": 187,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 12,
+        "chars": 357,
+        "nonwhite": 163,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 13,
+        "chars": 313,
+        "nonwhite": 124,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 14,
+        "chars": 391,
+        "nonwhite": 146,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 15,
+        "chars": 414,
+        "nonwhite": 154,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 16,
+        "chars": 910,
+        "nonwhite": 695,
+        "images": 1,
+        "paths": 0
+      }
+    ]
+  },
+  {
+    "file": "GBT_4457.5-2013_机械制图_剖面区域的表示法.pdf",
+    "pages": 8,
+    "text_pages": 8,
+    "characters": 2769,
+    "nonwhite_chars": 2553,
+    "font_objects": 11,
+    "no_text_pages": [],
+    "pages_detail": [
+      {
+        "page": 1,
+        "chars": 217,
+        "nonwhite": 199,
+        "images": 2,
+        "paths": 2
+      },
+      {
+        "page": 2,
+        "chars": 838,
+        "nonwhite": 788,
+        "images": 0,
+        "paths": 0
+      },
+      {
+        "page": 3,
+        "chars": 475,
+        "nonwhite": 424,
+        "images": 10,
+        "paths": 31
+      },
+      {
+        "page": 4,
+        "chars": 264,
+        "nonwhite": 241,
+        "images": 6,
+        "paths": 31
+      },
+      {
+        "page": 5,
+        "chars": 155,
+        "nonwhite": 140,
+        "images": 3,
+        "paths": 0
+      },
+      {
+        "page": 6,
+        "chars": 390,
+        "nonwhite": 361,
+        "images": 3,
+        "paths": 0
+      },
+      {
+        "page": 7,
+        "chars": 322,
+        "nonwhite": 302,
+        "images": 3,
+        "paths": 0
+      },
+      {
+        "page": 8,
+        "chars": 108,
+        "nonwhite": 98,
+        "images": 2,
+        "paths": 1
+      }
+    ]
+  },
+  {
+    "file": "GBT_4458.1-2002_机械制图_图样画法_视图.pdf",
+    "pages": 13,
+    "text_pages": 13,
+    "characters": 3126,
+    "nonwhite_chars": 2791,
+    "font_objects": 2,
+    "no_text_pages": [],
+    "pages_detail": [
+      {
+        "page": 1,
+        "chars": 64,
+        "nonwhite": 48,
+        "images": 2,
+        "paths": 237
+      },
+      {
+        "page": 2,
+        "chars": 522,
+        "nonwhite": 465,
+        "images": 1,
+        "paths": 387
+      },
+      {
+        "page": 3,
+        "chars": 499,
+        "nonwhite": 441,
+        "images": 1,
+        "paths": 453
+      },
+      {
+        "page": 4,
+        "chars": 230,
+        "nonwhite": 203,
+        "images": 7,
+        "paths": 96
+      },
+      {
+        "page": 5,
+        "chars": 288,
+        "nonwhite": 260,
+        "images": 5,
+        "paths": 113
+      },
+      {
+        "page": 6,
+        "chars": 234,
+        "nonwhite": 207,
+        "images": 5,
+        "paths": 120
+      },
+      {
+        "page": 7,
+        "chars": 191,
+        "nonwhite": 170,
+        "images": 6,
+        "paths": 80
+      },
+      {
+        "page": 8,
+        "chars": 329,
+        "nonwhite": 309,
+        "images": 4,
+        "paths": 79
+      },
+      {
+        "page": 9,
+        "chars": 186,
+        "nonwhite": 169,
+        "images": 4,
+        "paths": 77
+      },
+      {
+        "page": 10,
+        "chars": 130,
+        "nonwhite": 116,
+        "images": 5,
+        "paths": 56
+      },
+      {
+        "page": 11,
+        "chars": 248,
+        "nonwhite": 222,
+        "images": 6,
+        "paths": 106
+      },
+      {
+        "page": 12,
+        "chars": 169,
+        "nonwhite": 153,
+        "images": 5,
+        "paths": 60
+      },
+      {
+        "page": 13,
+        "chars": 36,
+        "nonwhite": 28,
+        "images": 2,
+        "paths": 45
+      }
+    ]
+  },
+  {
+    "file": "GBT_4458.2-2003_机械制图_装配图中零、部件序号及其编排方法.pdf",
+    "pages": 6,
+    "text_pages": 6,
+    "characters": 2550,
+    "nonwhite_chars": 2398,
+    "font_objects": 42,
+    "no_text_pages": [],
+    "pages_detail": [
+      {
+        "page": 1,
+        "chars": 228,
+        "nonwhite": 194,
+        "images": 1,
+        "paths": 3
+      },
+      {
+        "page": 2,
+        "chars": 444,
+        "nonwhite": 414,
+        "images": 0,
+        "paths": 1
+      },
+      {
+        "page": 3,
+        "chars": 568,
+        "nonwhite": 542,
+        "images": 0,
+        "paths": 1
+      },
+      {
+        "page": 4,
+        "chars": 763,
+        "nonwhite": 727,
+        "images": 1,
+        "paths": 1
+      },
+      {
+        "page": 5,
+        "chars": 516,
+        "nonwhite": 494,
+        "images": 2,
+        "paths": 1
+      },
+      {
+        "page": 6,
+        "chars": 31,
+        "nonwhite": 27,
+        "images": 1,
+        "paths": 2
+      }
+    ]
+  },
+  {
+    "file": "GBT_4458.3-2013_机械制图_轴测图.pdf",
+    "pages": 16,
+    "text_pages": 15,
+    "characters": 3722,
+    "nonwhite_chars": 3351,
+    "font_objects": 17,
+    "no_text_pages": [
+      15
+    ],
+    "pages_detail": [
+      {
+        "page": 1,
+        "chars": 177,
+        "nonwhite": 160,
+        "images": 1,
+        "paths": 2
+      },
+      {
+        "page": 2,
+        "chars": 449,
+        "nonwhite": 407,
+        "images": 0,
+        "paths": 0
+      },
+      {
+        "page": 3,
+        "chars": 486,
+        "nonwhite": 456,
+        "images": 0,
+        "paths": 0
+      },
+      {
+        "page": 4,
+        "chars": 659,
+        "nonwhite": 590,
+        "images": 0,
+        "paths": 0
+      },
+      {
+        "page": 5,
+        "chars": 137,
+        "nonwhite": 115,
+        "images": 3,
+        "paths": 0
+      },
+      {
+        "page": 6,
+        "chars": 381,
+        "nonwhite": 341,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 7,
+        "chars": 240,
+        "nonwhite": 204,
+        "images": 2,
+        "paths": 0
+      },
+      {
+        "page": 8,
+        "chars": 148,
+        "nonwhite": 136,
+        "images": 2,
+        "paths": 0
+      },
+      {
+        "page": 9,
+        "chars": 145,
+        "nonwhite": 133,
+        "images": 2,
+        "paths": 0
+      },
+      {
+        "page": 10,
+        "chars": 134,
+        "nonwhite": 121,
+        "images": 3,
+        "paths": 0
+      },
+      {
+        "page": 11,
+        "chars": 268,
+        "nonwhite": 249,
+        "images": 3,
+        "paths": 0
+      },
+      {
+        "page": 12,
+        "chars": 220,
+        "nonwhite": 204,
+        "images": 3,
+        "paths": 0
+      },
+      {
+        "page": 13,
+        "chars": 120,
+        "nonwhite": 102,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 14,
+        "chars": 113,
+        "nonwhite": 94,
+        "images": 0,
+        "paths": 0
+      },
+      {
+        "page": 15,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 0,
+        "paths": 0
+      },
+      {
+        "page": 16,
+        "chars": 45,
+        "nonwhite": 39,
+        "images": 1,
+        "paths": 1
+      }
+    ]
+  },
+  {
+    "file": "GBT_4458.4-2003_机械制图_尺寸注法.pdf",
+    "pages": 16,
+    "text_pages": 16,
+    "characters": 6220,
+    "nonwhite_chars": 5758,
+    "font_objects": 87,
+    "no_text_pages": [],
+    "pages_detail": [
+      {
+        "page": 1,
+        "chars": 183,
+        "nonwhite": 143,
+        "images": 1,
+        "paths": 3
+      },
+      {
+        "page": 2,
+        "chars": 1827,
+        "nonwhite": 1707,
+        "images": 0,
+        "paths": 1
+      },
+      {
+        "page": 3,
+        "chars": 549,
+        "nonwhite": 520,
+        "images": 0,
+        "paths": 1
+      },
+      {
+        "page": 4,
+        "chars": 833,
+        "nonwhite": 798,
+        "images": 1,
+        "paths": 1
+      },
+      {
+        "page": 5,
+        "chars": 248,
+        "nonwhite": 235,
+        "images": 3,
+        "paths": 1
+      },
+      {
+        "page": 6,
+        "chars": 547,
+        "nonwhite": 516,
+        "images": 6,
+        "paths": 1
+      },
+      {
+        "page": 7,
+        "chars": 60,
+        "nonwhite": 53,
+        "images": 2,
+        "paths": 1
+      },
+      {
+        "page": 8,
+        "chars": 199,
+        "nonwhite": 183,
+        "images": 3,
+        "paths": 1
+      },
+      {
+        "page": 9,
+        "chars": 332,
+        "nonwhite": 316,
+        "images": 2,
+        "paths": 1
+      },
+      {
+        "page": 10,
+        "chars": 224,
+        "nonwhite": 206,
+        "images": 6,
+        "paths": 1
+      },
+      {
+        "page": 11,
+        "chars": 305,
+        "nonwhite": 286,
+        "images": 4,
+        "paths": 1
+      },
+      {
+        "page": 12,
+        "chars": 270,
+        "nonwhite": 248,
+        "images": 7,
+        "paths": 1
+      },
+      {
+        "page": 13,
+        "chars": 130,
+        "nonwhite": 118,
+        "images": 7,
+        "paths": 18
+      },
+      {
+        "page": 14,
+        "chars": 131,
+        "nonwhite": 119,
+        "images": 1,
+        "paths": 1
+      },
+      {
+        "page": 15,
+        "chars": 314,
+        "nonwhite": 253,
+        "images": 7,
+        "paths": 87
+      },
+      {
+        "page": 16,
+        "chars": 68,
+        "nonwhite": 57,
+        "images": 3,
+        "paths": 2
+      }
+    ]
+  },
+  {
+    "file": "GBT_4458.5-2003_机械制图_尺寸公差与配合注法.pdf",
+    "pages": 8,
+    "text_pages": 8,
+    "characters": 4198,
+    "nonwhite_chars": 3929,
+    "font_objects": 52,
+    "no_text_pages": [],
+    "pages_detail": [
+      {
+        "page": 1,
+        "chars": 207,
+        "nonwhite": 173,
+        "images": 1,
+        "paths": 3
+      },
+      {
+        "page": 2,
+        "chars": 1406,
+        "nonwhite": 1315,
+        "images": 0,
+        "paths": 1
+      },
+      {
+        "page": 3,
+        "chars": 533,
+        "nonwhite": 508,
+        "images": 0,
+        "paths": 1
+      },
+      {
+        "page": 4,
+        "chars": 768,
+        "nonwhite": 733,
+        "images": 2,
+        "paths": 1
+      },
+      {
+        "page": 5,
+        "chars": 518,
+        "nonwhite": 488,
+        "images": 7,
+        "paths": 1
+      },
+      {
+        "page": 6,
+        "chars": 374,
+        "nonwhite": 345,
+        "images": 8,
+        "paths": 1
+      },
+      {
+        "page": 7,
+        "chars": 362,
+        "nonwhite": 341,
+        "images": 4,
+        "paths": 1
+      },
+      {
+        "page": 8,
+        "chars": 30,
+        "nonwhite": 26,
+        "images": 1,
+        "paths": 2
+      }
+    ]
+  },
+  {
+    "file": "GBT_4458.6-2002_机械制图_图样画法_剖视图和断面图.pdf",
+    "pages": 21,
+    "text_pages": 0,
+    "characters": 0,
+    "nonwhite_chars": 0,
+    "font_objects": 0,
+    "no_text_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "pages_detail": [
+      {
+        "page": 1,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 2,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 3,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 4,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 5,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 6,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 7,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 8,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 9,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 10,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 11,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 12,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 13,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 14,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 15,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 16,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 17,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 18,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 19,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 20,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 21,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      }
+    ]
+  },
+  {
+    "file": "GBT_4459.1-1995_机械制图_螺纹及螺纹紧固件表示法.pdf",
+    "pages": 15,
+    "text_pages": 0,
+    "characters": 0,
+    "nonwhite_chars": 0,
+    "font_objects": 0,
+    "no_text_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "pages_detail": [
+      {
+        "page": 1,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 2,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 3,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 4,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 5,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 6,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 7,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 8,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 9,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 10,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 11,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 12,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 13,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 14,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 15,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      }
+    ]
+  },
+  {
+    "file": "GBT_4459.2-2003_机械制图_齿轮表示法.pdf",
+    "pages": 14,
+    "text_pages": 14,
+    "characters": 4392,
+    "nonwhite_chars": 3991,
+    "font_objects": 63,
+    "no_text_pages": [],
+    "pages_detail": [
+      {
+        "page": 1,
+        "chars": 197,
+        "nonwhite": 165,
+        "images": 1,
+        "paths": 3
+      },
+      {
+        "page": 2,
+        "chars": 1686,
+        "nonwhite": 1573,
+        "images": 0,
+        "paths": 1
+      },
+      {
+        "page": 3,
+        "chars": 480,
+        "nonwhite": 454,
+        "images": 0,
+        "paths": 1
+      },
+      {
+        "page": 4,
+        "chars": 727,
+        "nonwhite": 634,
+        "images": 2,
+        "paths": 1
+      },
+      {
+        "page": 5,
+        "chars": 72,
+        "nonwhite": 60,
+        "images": 5,
+        "paths": 1
+      },
+      {
+        "page": 6,
+        "chars": 557,
+        "nonwhite": 498,
+        "images": 2,
+        "paths": 1
+      },
+      {
+        "page": 7,
+        "chars": 127,
+        "nonwhite": 115,
+        "images": 3,
+        "paths": 1
+      },
+      {
+        "page": 8,
+        "chars": 146,
+        "nonwhite": 132,
+        "images": 6,
+        "paths": 1
+      },
+      {
+        "page": 9,
+        "chars": 88,
+        "nonwhite": 78,
+        "images": 4,
+        "paths": 1
+      },
+      {
+        "page": 10,
+        "chars": 174,
+        "nonwhite": 160,
+        "images": 0,
+        "paths": 1
+      },
+      {
+        "page": 11,
+        "chars": 38,
+        "nonwhite": 34,
+        "images": 1,
+        "paths": 1
+      },
+      {
+        "page": 12,
+        "chars": 34,
+        "nonwhite": 30,
+        "images": 1,
+        "paths": 1
+      },
+      {
+        "page": 13,
+        "chars": 35,
+        "nonwhite": 30,
+        "images": 1,
+        "paths": 1
+      },
+      {
+        "page": 14,
+        "chars": 31,
+        "nonwhite": 28,
+        "images": 1,
+        "paths": 2
+      }
+    ]
+  },
+  {
+    "file": "GBT_4459.4-2003_机械制图_弹簧表示法.pdf",
+    "pages": 20,
+    "text_pages": 20,
+    "characters": 5019,
+    "nonwhite_chars": 4570,
+    "font_objects": 102,
+    "no_text_pages": [],
+    "pages_detail": [
+      {
+        "page": 1,
+        "chars": 200,
+        "nonwhite": 169,
+        "images": 1,
+        "paths": 3
+      },
+      {
+        "page": 2,
+        "chars": 1705,
+        "nonwhite": 1585,
+        "images": 0,
+        "paths": 1
+      },
+      {
+        "page": 3,
+        "chars": 483,
+        "nonwhite": 455,
+        "images": 0,
+        "paths": 1
+      },
+      {
+        "page": 4,
+        "chars": 620,
+        "nonwhite": 591,
+        "images": 0,
+        "paths": 1
+      },
+      {
+        "page": 5,
+        "chars": 83,
+        "nonwhite": 69,
+        "images": 9,
+        "paths": 24
+      },
+      {
+        "page": 6,
+        "chars": 45,
+        "nonwhite": 38,
+        "images": 3,
+        "paths": 14
+      },
+      {
+        "page": 7,
+        "chars": 70,
+        "nonwhite": 58,
+        "images": 6,
+        "paths": 25
+      },
+      {
+        "page": 8,
+        "chars": 158,
+        "nonwhite": 138,
+        "images": 11,
+        "paths": 31
+      },
+      {
+        "page": 9,
+        "chars": 383,
+        "nonwhite": 365,
+        "images": 2,
+        "paths": 1
+      },
+      {
+        "page": 10,
+        "chars": 72,
+        "nonwhite": 64,
+        "images": 3,
+        "paths": 1
+      },
+      {
+        "page": 11,
+        "chars": 115,
+        "nonwhite": 102,
+        "images": 4,
+        "paths": 1
+      },
+      {
+        "page": 12,
+        "chars": 753,
+        "nonwhite": 642,
+        "images": 0,
+        "paths": 100
+      },
+      {
+        "page": 13,
+        "chars": 43,
+        "nonwhite": 38,
+        "images": 1,
+        "paths": 1
+      },
+      {
+        "page": 14,
+        "chars": 43,
+        "nonwhite": 38,
+        "images": 1,
+        "paths": 1
+      },
+      {
+        "page": 15,
+        "chars": 43,
+        "nonwhite": 38,
+        "images": 1,
+        "paths": 1
+      },
+      {
+        "page": 16,
+        "chars": 43,
+        "nonwhite": 38,
+        "images": 1,
+        "paths": 1
+      },
+      {
+        "page": 17,
+        "chars": 43,
+        "nonwhite": 38,
+        "images": 1,
+        "paths": 1
+      },
+      {
+        "page": 18,
+        "chars": 43,
+        "nonwhite": 38,
+        "images": 1,
+        "paths": 1
+      },
+      {
+        "page": 19,
+        "chars": 43,
+        "nonwhite": 38,
+        "images": 1,
+        "paths": 1
+      },
+      {
+        "page": 20,
+        "chars": 31,
+        "nonwhite": 28,
+        "images": 1,
+        "paths": 2
+      }
+    ]
+  },
+  {
+    "file": "GB_T 1182-2018 产品几何技术规范（GPS） 几何公差 形状、方向、位置和跳动公差标注.pdf",
+    "pages": 132,
+    "text_pages": 0,
+    "characters": 0,
+    "nonwhite_chars": 0,
+    "font_objects": 0,
+    "no_text_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132
+    ],
+    "pages_detail": [
+      {
+        "page": 1,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 2,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 3,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 4,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 5,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 6,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 7,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 8,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 9,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 10,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 11,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 12,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 13,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 14,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 15,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 16,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 17,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 18,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 19,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 20,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 21,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 22,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 23,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 24,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 25,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 26,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 27,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 28,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 29,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 30,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 31,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 32,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 33,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 34,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 35,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 36,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 37,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 38,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 39,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 40,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 41,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 42,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 43,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 44,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 45,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 46,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 47,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 48,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 49,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 50,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 51,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 52,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 53,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 54,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 55,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 56,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 57,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 58,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 59,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 60,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 61,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 62,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 63,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 64,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 65,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 66,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 67,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 68,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 69,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 70,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 71,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 72,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 73,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 74,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 75,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 76,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 77,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 78,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 79,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 80,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 81,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 82,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 83,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 84,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 85,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 86,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 87,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 88,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 89,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 90,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 91,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 92,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 93,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 94,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 95,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 96,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 97,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 98,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 99,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 100,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 101,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 102,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 103,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 104,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 105,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 106,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 107,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 108,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 109,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 110,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 111,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 112,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 113,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 114,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 115,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 116,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 117,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 118,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 119,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 120,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 121,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 122,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 123,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 124,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 125,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 126,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 127,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 128,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 129,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 130,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 131,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 132,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      }
+    ]
+  },
+  {
+    "file": "GB_T 131-2006 产品几何技术规范(GPS) 技术产品文件中表面结构的表示法.pdf",
+    "pages": 39,
+    "text_pages": 0,
+    "characters": 0,
+    "nonwhite_chars": 0,
+    "font_objects": 0,
+    "no_text_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "pages_detail": [
+      {
+        "page": 1,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 16,
+        "paths": 0
+      },
+      {
+        "page": 2,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 3,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 4,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 5,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 18,
+        "paths": 0
+      },
+      {
+        "page": 6,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 18,
+        "paths": 0
+      },
+      {
+        "page": 7,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 8,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 9,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 20,
+        "paths": 0
+      },
+      {
+        "page": 10,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 23,
+        "paths": 0
+      },
+      {
+        "page": 11,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 12,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 7,
+        "paths": 0
+      },
+      {
+        "page": 13,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 23,
+        "paths": 0
+      },
+      {
+        "page": 14,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 22,
+        "paths": 0
+      },
+      {
+        "page": 15,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 16,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 17,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 20,
+        "paths": 0
+      },
+      {
+        "page": 18,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 17,
+        "paths": 0
+      },
+      {
+        "page": 19,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 21,
+        "paths": 0
+      },
+      {
+        "page": 20,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 5,
+        "paths": 0
+      },
+      {
+        "page": 21,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 27,
+        "paths": 0
+      },
+      {
+        "page": 22,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 21,
+        "paths": 0
+      },
+      {
+        "page": 23,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 24,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 25,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 21,
+        "paths": 0
+      },
+      {
+        "page": 26,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 15,
+        "paths": 0
+      },
+      {
+        "page": 27,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 28,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 29,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 21,
+        "paths": 0
+      },
+      {
+        "page": 30,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 25,
+        "paths": 0
+      },
+      {
+        "page": 31,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 32,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 2,
+        "paths": 0
+      },
+      {
+        "page": 33,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 34,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 24,
+        "paths": 0
+      },
+      {
+        "page": 35,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 36,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 2,
+        "paths": 0
+      },
+      {
+        "page": 37,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 19,
+        "paths": 0
+      },
+      {
+        "page": 38,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 39,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 5,
+        "paths": 0
+      }
+    ]
+  },
+  {
+    "file": "GB_T 1800.1-2020 产品几何技术规范（GPS） 线性尺寸公差ISO代号体系 第1部分：公差、偏差和配合的基础.pdf",
+    "pages": 36,
+    "text_pages": 36,
+    "characters": 31745,
+    "nonwhite_chars": 27028,
+    "font_objects": 41,
+    "no_text_pages": [],
+    "pages_detail": [
+      {
+        "page": 1,
+        "chars": 319,
+        "nonwhite": 298,
+        "images": 1,
+        "paths": 2
+      },
+      {
+        "page": 2,
+        "chars": 225,
+        "nonwhite": 194,
+        "images": 0,
+        "paths": 0
+      },
+      {
+        "page": 3,
+        "chars": 1416,
+        "nonwhite": 1343,
+        "images": 0,
+        "paths": 0
+      },
+      {
+        "page": 4,
+        "chars": 752,
+        "nonwhite": 702,
+        "images": 0,
+        "paths": 0
+      },
+      {
+        "page": 5,
+        "chars": 932,
+        "nonwhite": 852,
+        "images": 0,
+        "paths": 0
+      },
+      {
+        "page": 6,
+        "chars": 1002,
+        "nonwhite": 908,
+        "images": 0,
+        "paths": 0
+      },
+      {
+        "page": 7,
+        "chars": 743,
+        "nonwhite": 646,
+        "images": 0,
+        "paths": 0
+      },
+      {
+        "page": 8,
+        "chars": 455,
+        "nonwhite": 399,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 9,
+        "chars": 1142,
+        "nonwhite": 1036,
+        "images": 0,
+        "paths": 0
+      },
+      {
+        "page": 10,
+        "chars": 574,
+        "nonwhite": 498,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 11,
+        "chars": 438,
+        "nonwhite": 381,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 12,
+        "chars": 586,
+        "nonwhite": 516,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 13,
+        "chars": 344,
+        "nonwhite": 317,
+        "images": 2,
+        "paths": 0
+      },
+      {
+        "page": 14,
+        "chars": 884,
+        "nonwhite": 795,
+        "images": 0,
+        "paths": 0
+      },
+      {
+        "page": 15,
+        "chars": 1147,
+        "nonwhite": 1079,
+        "images": 0,
+        "paths": 0
+      },
+      {
+        "page": 16,
+        "chars": 916,
+        "nonwhite": 783,
+        "images": 0,
+        "paths": 0
+      },
+      {
+        "page": 17,
+        "chars": 1025,
+        "nonwhite": 912,
+        "images": 0,
+        "paths": 0
+      },
+      {
+        "page": 18,
+        "chars": 647,
+        "nonwhite": 589,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 19,
+        "chars": 545,
+        "nonwhite": 480,
+        "images": 9,
+        "paths": 37
+      },
+      {
+        "page": 20,
+        "chars": 1535,
+        "nonwhite": 1091,
+        "images": 6,
+        "paths": 387
+      },
+      {
+        "page": 21,
+        "chars": 1744,
+        "nonwhite": 1299,
+        "images": 0,
+        "paths": 670
+      },
+      {
+        "page": 22,
+        "chars": 1029,
+        "nonwhite": 813,
+        "images": 0,
+        "paths": 508
+      },
+      {
+        "page": 23,
+        "chars": 1919,
+        "nonwhite": 1465,
+        "images": 0,
+        "paths": 773
+      },
+      {
+        "page": 24,
+        "chars": 1209,
+        "nonwhite": 942,
+        "images": 0,
+        "paths": 441
+      },
+      {
+        "page": 25,
+        "chars": 1138,
+        "nonwhite": 874,
+        "images": 0,
+        "paths": 567
+      },
+      {
+        "page": 26,
+        "chars": 2341,
+        "nonwhite": 1819,
+        "images": 0,
+        "paths": 1043
+      },
+      {
+        "page": 27,
+        "chars": 502,
+        "nonwhite": 457,
+        "images": 2,
+        "paths": 1
+      },
+      {
+        "page": 28,
+        "chars": 825,
+        "nonwhite": 771,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 29,
+        "chars": 167,
+        "nonwhite": 153,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 30,
+        "chars": 804,
+        "nonwhite": 747,
+        "images": 0,
+        "paths": 0
+      },
+      {
+        "page": 31,
+        "chars": 988,
+        "nonwhite": 869,
+        "images": 0,
+        "paths": 0
+      },
+      {
+        "page": 32,
+        "chars": 578,
+        "nonwhite": 501,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 33,
+        "chars": 860,
+        "nonwhite": 738,
+        "images": 0,
+        "paths": 0
+      },
+      {
+        "page": 34,
+        "chars": 710,
+        "nonwhite": 619,
+        "images": 0,
+        "paths": 0
+      },
+      {
+        "page": 35,
+        "chars": 544,
+        "nonwhite": 480,
+        "images": 0,
+        "paths": 117
+      },
+      {
+        "page": 36,
+        "chars": 760,
+        "nonwhite": 662,
+        "images": 1,
+        "paths": 1
+      }
+    ]
+  },
+  {
+    "file": "GB_T 4459.7-2017 机械制图 滚动轴承表示法.pdf",
+    "pages": 23,
+    "text_pages": 0,
+    "characters": 0,
+    "nonwhite_chars": 0,
+    "font_objects": 0,
+    "no_text_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "pages_detail": [
+      {
+        "page": 1,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 2,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 3,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 4,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 5,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 6,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 7,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 8,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 9,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 10,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 11,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 12,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 13,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 14,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 15,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 16,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 17,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 18,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 19,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 20,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 21,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 22,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      },
+      {
+        "page": 23,
+        "chars": 0,
+        "nonwhite": 0,
+        "images": 1,
+        "paths": 0
+      }
+    ]
+  }
+]

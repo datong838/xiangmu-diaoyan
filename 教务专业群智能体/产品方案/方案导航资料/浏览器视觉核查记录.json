@@ -1,0 +1,28 @@
+{
+  "checked_at": "2026-10-21T01:21:55.730998+08:00",
+  "result": "passed",
+  "resolutions": [
+    "1440x900",
+    "1600x1000",
+    "1920x1080",
+    "2048x1320"
+  ],
+  "layout": {
+    "page_horizontal_overflow": false,
+    "sidebar_visible": true,
+    "tree_canvas_scrollable": true,
+    "detail_panel_visible": true
+  },
+  "interactions": {
+    "search": true,
+    "group_navigation": true,
+    "expand_collapse": true,
+    "document_detail": true,
+    "local_relation_graph": true,
+    "deep_link": true,
+    "theme": true
+  },
+  "corrections": [
+    "局部关系图打开后自动将中心节点滚入视口中央"
+  ]
+}

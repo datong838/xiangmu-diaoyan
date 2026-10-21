@@ -1,0 +1,5 @@
+{
+  "result": "PASS",
+  "yaml_cards": 35,
+  "method": "two consecutive generations; SHA256 equal"
+}

@@ -1,0 +1,49 @@
+id: L1-DIMSYMBOL-001
+name: 回转体径向尺寸须带直径符号 Φ
+layer: L1
+basis: standard
+severity: medium
+cite:
+  std: GB/T 4458.4-2003
+  title: 机械制图 尺寸注法
+  clause: '5.2'
+  page: 11
+  quote: 标注直径时，应在尺寸数字前加注符号 Φ
+  evidence_level: E1
+  evidence_card: evidence/cards/T05-1/
+  verify:
+    status: OK
+    tool: tools/verify_cite.py
+    run: '2026-10-08'
+input:
+- dimension_texts
+- geometry_types
+logic: "for d in 径向尺寸(回转体):\n    require d.text 以 'Φ' 或 'ø' 开头\n"
+outputs:
+- 命中
+- 未命中
+- 无法判定
+fp_risk: '- 非回转体的线性尺寸不应要求 Φ
+
+  - 螺纹尺寸标注用 M、管螺纹用 G，不能误判为缺 Φ
+
+  - 半径 R / 球径 SR 是合法替代，须一并接受
+
+  '
+sample: T05-1
+my_conclusion: hypothesis
+question_for_reviewer: '1) 裁图所示条文是否确实支持"须带 Φ"这一要求？
+
+  2) §5.2 是否被正确适用（是否存在更贴切的条款）？
+
+  3) 是否存在反例使该判据误报？
+
+  '
+reviewer_output:
+  verdict: null
+  reason: null
+  evidence: null
+  suggested_fix: null
+approval_status: candidate_pending_user_review
+claim: 标注直径时按§5.2加φ；半径、球面尺寸分别按R及Sφ/SR适用条件检查。
+scope_note: 本示例不表示已经执行图纸能力测试，证据以review/pack_v1/T05-1.yaml完整原页为准。

@@ -1,0 +1,47 @@
+# 限定范围检索审计：零命中不证明不存在，命中须核准语义。
+id: N-L2-DIMCOMPLETE-001
+basis_type: negative_evidence_audit
+target_rule: C-L2-DIMCOMPLETE-001
+claim_under_audit: 限定范围 GB/T 4458.4-2003 内是否存在直接支持该命题的条文；未检出不是无明文证明。
+negate_result_claimed: 限定材料与词表未找到直接支持命题的条文；不足以证明国标无明文
+channel_state:
+  channel_A_文本层: 不可用
+  channel_B_OCR: 可用
+  channel_C_目视: 已目视
+  negate_strength: 检索线索，不证明不存在
+search_word_family:
+- 齐全
+- 完备
+- 遗漏
+- 唯一确定
+- 完全确定
+- 足以确定
+- 所必需
+- 不完整
+- 全部尺寸
+- 缺定形
+- 缺定位
+residual_risk: 同一原始PDF的文本层、OCR和目视是读取通道，不是独立权威来源；抽查关键页不等于全文消除漏读。需记录真实范围、全文页覆盖与缺失基础标准。
+audit_page_images:
+- page: 4
+  file: review/pack_v1/_audit/4458.4_p4.png
+- page: 11
+  file: review/pack_v1/_audit/4458.4_p11.png
+- page: 12
+  file: review/pack_v1/_audit/4458.4_p12.png
+how_to_review: |-
+  1) 用你自己的标准原文（或权威来源）检索卡内给出的词族；
+  2) 若检出**实质明文**，判「否决」，并在 suggested_fix 写出标准号+条款+原文；
+  3) 零命中仅记录限定范围未检出，资料不足判存疑；
+  4) 可独立目视同一原始PDF；需说明读取范围，不假称独立权威来源。
+my_conclusion: hypothesis
+question_for_reviewer: |-
+  1) 该否定结论是否成立？
+  2) 检索词族是否有遗漏（尤其是同义不同词的表述）？
+  3) 该标准的文本通道是否可靠？
+reviewer_output:
+  verdict: ''
+  reason: ''
+  evidence: ''
+  suggested_fix: ''
+  independent_first: ''

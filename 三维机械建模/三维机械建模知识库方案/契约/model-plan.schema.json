@@ -1,0 +1,474 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "三维板孔计划设计附件0.1（非执行包）",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "sample_class",
+    "execution_status",
+    "scope",
+    "source_bindings",
+    "units",
+    "frame",
+    "parameters",
+    "requirements",
+    "steps",
+    "validations",
+    "expected_failures",
+    "limitations"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "model3d-plan/0.1"
+    },
+    "sample_class": {
+      "const": "SYNTHETIC_DESIGN"
+    },
+    "execution_status": {
+      "const": "NOT_RUN"
+    },
+    "scope": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "project",
+        "authentication"
+      ],
+      "properties": {
+        "project": {
+          "const": "engineering-kb-design-only"
+        },
+        "authentication": {
+          "const": "NOT_A_CREDENTIAL"
+        }
+      }
+    },
+    "source_bindings": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "sample_parameter"
+      ],
+      "properties": {
+        "sample_parameter": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "kind",
+            "note"
+          ],
+          "properties": {
+            "kind": {
+              "const": "synthetic_input"
+            },
+            "note": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 500
+            }
+          }
+        }
+      }
+    },
+    "units": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "length",
+        "angle"
+      ],
+      "properties": {
+        "length": {
+          "const": "mm"
+        },
+        "angle": {
+          "const": "deg"
+        }
+      }
+    },
+    "frame": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "handedness",
+        "x",
+        "y",
+        "z",
+        "origin"
+      ],
+      "properties": {
+        "id": {
+          "const": "plate-local"
+        },
+        "handedness": {
+          "const": "RIGHT"
+        },
+        "x": {
+          "const": "length"
+        },
+        "y": {
+          "const": "width"
+        },
+        "z": {
+          "const": "thickness"
+        },
+        "origin": {
+          "const": "minimum_corner"
+        }
+      }
+    },
+    "parameters": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "length",
+        "width",
+        "thickness",
+        "hole_diameter",
+        "hole_x",
+        "hole_y"
+      ],
+      "properties": {
+        "length": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "value",
+            "unit",
+            "source_ref"
+          ],
+          "properties": {
+            "value": {
+              "type": "string",
+              "pattern": "^(0|[1-9][0-9]*)(\\.[0-9]+)?$",
+              "maxLength": 80
+            },
+            "unit": {
+              "const": "mm"
+            },
+            "source_ref": {
+              "const": "sample_parameter"
+            }
+          }
+        },
+        "width": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "value",
+            "unit",
+            "source_ref"
+          ],
+          "properties": {
+            "value": {
+              "type": "string",
+              "pattern": "^(0|[1-9][0-9]*)(\\.[0-9]+)?$",
+              "maxLength": 80
+            },
+            "unit": {
+              "const": "mm"
+            },
+            "source_ref": {
+              "const": "sample_parameter"
+            }
+          }
+        },
+        "thickness": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "value",
+            "unit",
+            "source_ref"
+          ],
+          "properties": {
+            "value": {
+              "type": "string",
+              "pattern": "^(0|[1-9][0-9]*)(\\.[0-9]+)?$",
+              "maxLength": 80
+            },
+            "unit": {
+              "const": "mm"
+            },
+            "source_ref": {
+              "const": "sample_parameter"
+            }
+          }
+        },
+        "hole_diameter": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "value",
+            "unit",
+            "source_ref"
+          ],
+          "properties": {
+            "value": {
+              "type": "string",
+              "pattern": "^(0|[1-9][0-9]*)(\\.[0-9]+)?$",
+              "maxLength": 80
+            },
+            "unit": {
+              "const": "mm"
+            },
+            "source_ref": {
+              "const": "sample_parameter"
+            }
+          }
+        },
+        "hole_x": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "value",
+            "unit",
+            "source_ref"
+          ],
+          "properties": {
+            "value": {
+              "type": "string",
+              "pattern": "^(0|[1-9][0-9]*)(\\.[0-9]+)?$",
+              "maxLength": 80
+            },
+            "unit": {
+              "const": "mm"
+            },
+            "source_ref": {
+              "const": "sample_parameter"
+            }
+          }
+        },
+        "hole_y": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "value",
+            "unit",
+            "source_ref"
+          ],
+          "properties": {
+            "value": {
+              "type": "string",
+              "pattern": "^(0|[1-9][0-9]*)(\\.[0-9]+)?$",
+              "maxLength": 80
+            },
+            "unit": {
+              "const": "mm"
+            },
+            "source_ref": {
+              "const": "sample_parameter"
+            }
+          }
+        }
+      }
+    },
+    "requirements": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "kind"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[A-Za-z][A-Za-z0-9_]*$",
+            "maxLength": 80
+          },
+          "kind": {
+            "enum": [
+              "closed_solid",
+              "single_through_hole",
+              "plate_bounds"
+            ]
+          },
+          "diameter_ref": {
+            "type": "string",
+            "pattern": "^[A-Za-z][A-Za-z0-9_]*$",
+            "maxLength": 80
+          },
+          "center_refs": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^[A-Za-z][A-Za-z0-9_]*$",
+              "maxLength": 80
+            },
+            "minItems": 2,
+            "maxItems": 2
+          },
+          "axis": {
+            "const": "Z"
+          },
+          "parameter_refs": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "string",
+              "pattern": "^[A-Za-z][A-Za-z0-9_]*$",
+              "maxLength": 80
+            }
+          }
+        }
+      }
+    },
+    "steps": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "step_id",
+          "registered_operation",
+          "depends_on"
+        ],
+        "properties": {
+          "step_id": {
+            "type": "string",
+            "pattern": "^[A-Za-z][A-Za-z0-9_]*$",
+            "maxLength": 80
+          },
+          "registered_operation": {
+            "enum": [
+              "create_plate",
+              "create_through_hole_tool",
+              "subtract"
+            ]
+          },
+          "depends_on": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^[A-Za-z][A-Za-z0-9_]*$",
+              "maxLength": 80
+            },
+            "uniqueItems": true
+          },
+          "parameter_refs": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "string",
+              "pattern": "^[A-Za-z][A-Za-z0-9_]*$",
+              "maxLength": 80
+            }
+          },
+          "workpiece_step": {
+            "type": "string",
+            "pattern": "^[A-Za-z][A-Za-z0-9_]*$",
+            "maxLength": 80
+          },
+          "tool_step": {
+            "type": "string",
+            "pattern": "^[A-Za-z][A-Za-z0-9_]*$",
+            "maxLength": 80
+          },
+          "execution_settings": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "axial_margin_policy"
+            ],
+            "properties": {
+              "axial_margin_policy": {
+                "const": "EXPLICIT_ADAPTER_SETTING_REQUIRED"
+              }
+            }
+          }
+        }
+      }
+    },
+    "validations": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "requirement_refs",
+          "method"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[A-Za-z][A-Za-z0-9_]*$",
+            "maxLength": 80
+          },
+          "requirement_refs": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "string",
+              "pattern": "^[A-Za-z][A-Za-z0-9_]*$",
+              "maxLength": 80
+            },
+            "uniqueItems": true
+          },
+          "method": {
+            "enum": [
+              "solid_validity",
+              "hole_geometry_and_throughness",
+              "plate_bounds",
+              "plate_single_through_hole_volume"
+            ]
+          },
+          "formula_note": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 500
+          },
+          "tolerance_policy": {
+            "const": "MUST_BE_DECLARED_BEFORE_RUN"
+          }
+        }
+      }
+    },
+    "expected_failures": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "mutation",
+          "expected"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[A-Za-z][A-Za-z0-9_]*$",
+            "maxLength": 80
+          },
+          "mutation": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 500
+          },
+          "expected": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 500
+          }
+        }
+      }
+    },
+    "limitations": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 500
+      }
+    }
+  }
+}

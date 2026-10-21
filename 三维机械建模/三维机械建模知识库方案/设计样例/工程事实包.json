@@ -1,0 +1,229 @@
+{
+  "schema_version": "engineering-facts/0.1",
+  "sample_class": "DESIGN_SIMULATION",
+  "scope": {
+    "tenant": "synthetic",
+    "project": "contract-test"
+  },
+  "representations": [
+    {
+      "id": "rep1",
+      "revision": 1,
+      "source_ref": "av:09df5275aeac0e606bb5fd683c7e578156680def9202181014e6f49125e7d5c4",
+      "kind": "DESIGN_DESCRIPTION",
+      "unit": "mm",
+      "entities": [
+        "plane1",
+        "cylinder1",
+        "edge1",
+        "cylinder2"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "id": "part1",
+      "revision": 1,
+      "kind": "PART",
+      "representation_refs": [
+        "rep1"
+      ]
+    },
+    {
+      "id": "hole1",
+      "revision": 1,
+      "kind": "HOLE",
+      "representation_refs": [
+        "rep1"
+      ]
+    }
+  ],
+  "contexts": [
+    {
+      "id": "ctx1",
+      "configuration": "cfg1",
+      "state_label": "synthetic demonstration; no geometry or source truth claimed"
+    }
+  ],
+  "facts": [
+    {
+      "id": "f1",
+      "subject_ref": "hole1",
+      "subject_revision": 1,
+      "domain": "GEOMETRY",
+      "predicate": "diameter",
+      "assertion_kind": "DESIGN_REQUIREMENT",
+      "state": "KNOWN",
+      "quantity": {
+        "value": "10",
+        "unit": "mm"
+      },
+      "object_ref": null,
+      "context_ref": "ctx1",
+      "raw": "SYNTHETIC DESIGN ONLY",
+      "conflict_refs": []
+    },
+    {
+      "id": "f2",
+      "subject_ref": "hole1",
+      "subject_revision": 1,
+      "domain": "TOPOLOGY",
+      "predicate": "adjacent_to",
+      "assertion_kind": "INFERENCE",
+      "state": "KNOWN",
+      "quantity": {
+        "value": null,
+        "unit": null
+      },
+      "object_ref": "part1",
+      "context_ref": "ctx1",
+      "raw": "SYNTHETIC DESIGN ONLY",
+      "conflict_refs": []
+    },
+    {
+      "id": "f3",
+      "subject_ref": "hole1",
+      "subject_revision": 1,
+      "domain": "PARAMETER",
+      "predicate": "thickness",
+      "assertion_kind": "INFERENCE",
+      "state": "UNKNOWN",
+      "quantity": {
+        "value": null,
+        "unit": null
+      },
+      "object_ref": null,
+      "context_ref": "ctx1",
+      "raw": "SYNTHETIC DESIGN ONLY",
+      "conflict_refs": []
+    },
+    {
+      "id": "f4",
+      "subject_ref": "hole1",
+      "subject_revision": 1,
+      "domain": "ASSEMBLY",
+      "predicate": "clearance",
+      "assertion_kind": "INFERENCE",
+      "state": "UNKNOWN",
+      "quantity": {
+        "value": null,
+        "unit": null
+      },
+      "object_ref": null,
+      "context_ref": "ctx1",
+      "raw": "SYNTHETIC DESIGN ONLY",
+      "conflict_refs": []
+    }
+  ],
+  "bindings": [
+    {
+      "id": "binding1",
+      "object_ref": "hole1",
+      "object_revision": 1,
+      "representation_ref": "rep1",
+      "representation_revision": 1,
+      "state": "RESOLVED",
+      "candidate_sets": [
+        [
+          "cylinder1"
+        ]
+      ],
+      "basis": "DESIGN_DECLARATION"
+    }
+  ],
+  "intents": [
+    {
+      "id": "intent1",
+      "object_ref": "part1",
+      "goal": "Synthetic interface test, not an engineering design assertion",
+      "parameters": [
+        {
+          "id": "diameter",
+          "kind": "INPUT",
+          "quantity": {
+            "value": "10",
+            "unit": "mm"
+          },
+          "depends_on": [],
+          "method": "INPUT"
+        },
+        {
+          "id": "thickness",
+          "kind": "UNKNOWN",
+          "quantity": {
+            "value": null,
+            "unit": null
+          },
+          "depends_on": [],
+          "method": "UNKNOWN"
+        },
+        {
+          "id": "double_diameter",
+          "kind": "DERIVED",
+          "quantity": {
+            "value": null,
+            "unit": null
+          },
+          "depends_on": [
+            "diameter",
+            "diameter"
+          ],
+          "method": "add"
+        }
+      ],
+      "frozen": [
+        "diameter"
+      ],
+      "variable": [
+        "thickness"
+      ],
+      "constraints": [
+        {
+          "id": "constraint1",
+          "object_refs": [
+            "hole1"
+          ],
+          "parameter_refs": [
+            "diameter"
+          ],
+          "method": "dimension",
+          "required": true
+        }
+      ]
+    }
+  ],
+  "instances": [
+    {
+      "id": "occ1",
+      "definition_ref": "part1",
+      "context_ref": "ctx1",
+      "parent_ref": null,
+      "transform": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    }
+  ]
+}

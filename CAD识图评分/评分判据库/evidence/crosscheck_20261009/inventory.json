@@ -1,0 +1,7262 @@
+[
+  {
+    "file": "GB-T_4459.3-2000_机械制图_花键表示法.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GB-T_4459.3-2000_机械制图_花键表示法.pdf",
+    "sha256": "29bad0e22998c4e7538fea871193812baaf6fe257440da98e37a82fa33a33268",
+    "pages": 8,
+    "new_standard": false,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          368.0,
+          552.0
+        ],
+        "rotation": 0,
+        "text_chars": 180,
+        "cjk_chars": 39,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 2,
+        "size_pt": [
+          0.0,
+          0.0,
+          366.0,
+          551.0
+        ],
+        "rotation": 0,
+        "text_chars": 495,
+        "cjk_chars": 313,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 3,
+        "size_pt": [
+          0.0,
+          0.0,
+          368.0,
+          552.0
+        ],
+        "rotation": 0,
+        "text_chars": 324,
+        "cjk_chars": 206,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 4,
+        "size_pt": [
+          0.0,
+          0.0,
+          368.0,
+          552.0
+        ],
+        "rotation": 0,
+        "text_chars": 852,
+        "cjk_chars": 346,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 5,
+        "size_pt": [
+          0.0,
+          0.0,
+          368.0,
+          552.0
+        ],
+        "rotation": 0,
+        "text_chars": 456,
+        "cjk_chars": 208,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 6,
+        "size_pt": [
+          0.0,
+          0.0,
+          368.0,
+          552.0
+        ],
+        "rotation": 0,
+        "text_chars": 338,
+        "cjk_chars": 188,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 7,
+        "size_pt": [
+          0.0,
+          0.0,
+          366.0,
+          551.0
+        ],
+        "rotation": 0,
+        "text_chars": 398,
+        "cjk_chars": 110,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 8,
+        "size_pt": [
+          0.0,
+          0.0,
+          368.0,
+          552.0
+        ],
+        "rotation": 0,
+        "text_chars": 434,
+        "cjk_chars": 192,
+        "paths": 0,
+        "images": 1
+      }
+    ]
+  },
+  {
+    "file": "GB-T_4459.5-1999_机械制图_中心孔表示法_full.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GB-T_4459.5-1999_机械制图_中心孔表示法_full.pdf",
+    "sha256": "847a8548b34d30ae262d4e24a8355912530287ea6bec361f26bb8947f0f01262",
+    "pages": 8,
+    "new_standard": false,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          368.0,
+          552.0
+        ],
+        "rotation": 0,
+        "text_chars": 184,
+        "cjk_chars": 42,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 2,
+        "size_pt": [
+          0.0,
+          0.0,
+          368.0,
+          552.0
+        ],
+        "rotation": 0,
+        "text_chars": 542,
+        "cjk_chars": 322,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 3,
+        "size_pt": [
+          0.0,
+          0.0,
+          366.0,
+          551.0
+        ],
+        "rotation": 0,
+        "text_chars": 325,
+        "cjk_chars": 222,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 4,
+        "size_pt": [
+          0.0,
+          0.0,
+          366.0,
+          551.0
+        ],
+        "rotation": 0,
+        "text_chars": 1065,
+        "cjk_chars": 533,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 5,
+        "size_pt": [
+          0.0,
+          0.0,
+          366.0,
+          551.0
+        ],
+        "rotation": 0,
+        "text_chars": 897,
+        "cjk_chars": 264,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 6,
+        "size_pt": [
+          0.0,
+          0.0,
+          368.0,
+          552.0
+        ],
+        "rotation": 0,
+        "text_chars": 535,
+        "cjk_chars": 226,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 7,
+        "size_pt": [
+          0.0,
+          0.0,
+          368.0,
+          552.0
+        ],
+        "rotation": 0,
+        "text_chars": 1338,
+        "cjk_chars": 259,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 8,
+        "size_pt": [
+          0.0,
+          0.0,
+          368.0,
+          552.0
+        ],
+        "rotation": 0,
+        "text_chars": 286,
+        "cjk_chars": 85,
+        "paths": 0,
+        "images": 1
+      }
+    ]
+  },
+  {
+    "file": "GB-T_4459.8-2009_机械制图_动密封圈_第1部分.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GB-T_4459.8-2009_机械制图_动密封圈_第1部分.pdf",
+    "sha256": "79e751239a57a75c8bc836e4e9bc37f517aab33e129ef4967c9a4c0812814c54",
+    "pages": 5,
+    "new_standard": false,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          596.1599731445312,
+          837.1199951171875
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 2,
+        "size_pt": [
+          0.0,
+          0.0,
+          596.1599731445312,
+          837.1199951171875
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 3,
+        "size_pt": [
+          0.0,
+          0.0,
+          596.1599731445312,
+          837.1199951171875
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 4,
+        "size_pt": [
+          0.0,
+          0.0,
+          596.1599731445312,
+          837.1199951171875
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 5,
+        "size_pt": [
+          0.0,
+          0.0,
+          596.1599731445312,
+          837.1199951171875
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      }
+    ]
+  },
+  {
+    "file": "GB-T_4459.9-2009_机械制图_动密封圈_第2部分.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GB-T_4459.9-2009_机械制图_动密封圈_第2部分.pdf",
+    "sha256": "d9d2b7ba28955b2f6c16b3578ab8fa64d964d42040144ab5bfc361cbfb1f8d0a",
+    "pages": 9,
+    "new_standard": false,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          596.1599731445312,
+          837.1199951171875
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 2,
+        "size_pt": [
+          0.0,
+          0.0,
+          596.1599731445312,
+          837.1199951171875
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 3,
+        "size_pt": [
+          0.0,
+          0.0,
+          596.1599731445312,
+          837.1199951171875
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 4,
+        "size_pt": [
+          0.0,
+          0.0,
+          596.1599731445312,
+          837.1199951171875
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 5,
+        "size_pt": [
+          0.0,
+          0.0,
+          596.1599731445312,
+          837.1199951171875
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 6,
+        "size_pt": [
+          0.0,
+          0.0,
+          596.1599731445312,
+          837.1199951171875
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 7,
+        "size_pt": [
+          0.0,
+          0.0,
+          596.1599731445312,
+          837.1199951171875
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 8,
+        "size_pt": [
+          0.0,
+          0.0,
+          596.1599731445312,
+          837.1199951171875
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 9,
+        "size_pt": [
+          0.0,
+          0.0,
+          596.1599731445312,
+          837.1199951171875
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      }
+    ]
+  },
+  {
+    "file": "GB-T_4460-2013_机械制图_机构运动简图用图形符号.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GB-T_4460-2013_机械制图_机构运动简图用图形符号.pdf",
+    "sha256": "b2a59517997aec27f2dfb236b3819dfe039e2c8a3729205f84626abba7e8c53f",
+    "pages": 28,
+    "new_standard": false,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.260009765625,
+          841.8599853515625
+        ],
+        "rotation": 180,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 2,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.260009765625,
+          841.8599853515625
+        ],
+        "rotation": 180,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 3,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.260009765625,
+          841.8599853515625
+        ],
+        "rotation": 180,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 4,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.260009765625,
+          841.8599853515625
+        ],
+        "rotation": 180,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 5,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.260009765625,
+          841.8599853515625
+        ],
+        "rotation": 180,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 6,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.260009765625,
+          841.8599853515625
+        ],
+        "rotation": 180,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 7,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.260009765625,
+          841.8599853515625
+        ],
+        "rotation": 180,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 8,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.260009765625,
+          841.8599853515625
+        ],
+        "rotation": 180,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 9,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.260009765625,
+          841.8599853515625
+        ],
+        "rotation": 180,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 10,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.260009765625,
+          841.8599853515625
+        ],
+        "rotation": 180,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 11,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.260009765625,
+          841.8599853515625
+        ],
+        "rotation": 180,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 12,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.260009765625,
+          841.8599853515625
+        ],
+        "rotation": 180,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 13,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.260009765625,
+          841.8599853515625
+        ],
+        "rotation": 180,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 14,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.260009765625,
+          841.8599853515625
+        ],
+        "rotation": 180,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 15,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.260009765625,
+          841.8599853515625
+        ],
+        "rotation": 180,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 16,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.260009765625,
+          841.8599853515625
+        ],
+        "rotation": 180,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 17,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.260009765625,
+          841.8599853515625
+        ],
+        "rotation": 180,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 18,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.260009765625,
+          841.8599853515625
+        ],
+        "rotation": 180,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 19,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.260009765625,
+          841.8599853515625
+        ],
+        "rotation": 180,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 20,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.260009765625,
+          841.8599853515625
+        ],
+        "rotation": 180,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 21,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.260009765625,
+          841.8599853515625
+        ],
+        "rotation": 180,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 22,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.260009765625,
+          841.8599853515625
+        ],
+        "rotation": 180,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 23,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.260009765625,
+          841.8599853515625
+        ],
+        "rotation": 180,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 24,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.260009765625,
+          841.8599853515625
+        ],
+        "rotation": 180,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 25,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.260009765625,
+          841.8599853515625
+        ],
+        "rotation": 180,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 26,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.260009765625,
+          841.8599853515625
+        ],
+        "rotation": 180,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 27,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.260009765625,
+          841.8599853515625
+        ],
+        "rotation": 180,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 28,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.260009765625,
+          841.8599853515625
+        ],
+        "rotation": 180,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      }
+    ]
+  },
+  {
+    "file": "GBT 15754-2025 产品几何技术规范 尺寸和公差标注 圆锥.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GBT 15754-2025 产品几何技术规范 尺寸和公差标注 圆锥.pdf",
+    "sha256": "593cc78f65fe370367bba6154668ec9952d2e95d2f3976af26df1d03057c72b9",
+    "pages": 27,
+    "new_standard": true,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          583.6799926757812,
+          868.3200073242188
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 2,
+        "size_pt": [
+          0.0,
+          0.0,
+          599.0399780273438,
+          863.52001953125
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 3,
+        "size_pt": [
+          0.0,
+          0.0,
+          591.3599853515625,
+          865.2000122070312
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 4,
+        "size_pt": [
+          0.0,
+          0.0,
+          591.3599853515625,
+          861.1199951171875
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 5,
+        "size_pt": [
+          0.0,
+          0.0,
+          591.3599853515625,
+          861.5999755859375
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 6,
+        "size_pt": [
+          0.0,
+          0.0,
+          591.3599853515625,
+          860.6400146484375
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 7,
+        "size_pt": [
+          0.0,
+          0.0,
+          591.3599853515625,
+          863.760009765625
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 8,
+        "size_pt": [
+          0.0,
+          0.0,
+          591.3599853515625,
+          862.0800170898438
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 9,
+        "size_pt": [
+          0.0,
+          0.0,
+          591.3599853515625,
+          865.6799926757812
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 10,
+        "size_pt": [
+          0.0,
+          0.0,
+          591.3599853515625,
+          861.8400268554688
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 11,
+        "size_pt": [
+          0.0,
+          0.0,
+          591.3599853515625,
+          866.1599731445312
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 12,
+        "size_pt": [
+          0.0,
+          0.0,
+          599.0399780273438,
+          864.719970703125
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 13,
+        "size_pt": [
+          0.0,
+          0.0,
+          599.0399780273438,
+          863.52001953125
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 14,
+        "size_pt": [
+          0.0,
+          0.0,
+          591.3599853515625,
+          861.5999755859375
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 15,
+        "size_pt": [
+          0.0,
+          0.0,
+          599.0399780273438,
+          865.2000122070312
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 16,
+        "size_pt": [
+          0.0,
+          0.0,
+          591.3599853515625,
+          863.0399780273438
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 17,
+        "size_pt": [
+          0.0,
+          0.0,
+          591.3599853515625,
+          867.3599853515625
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 18,
+        "size_pt": [
+          0.0,
+          0.0,
+          591.3599853515625,
+          863.760009765625
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 19,
+        "size_pt": [
+          0.0,
+          0.0,
+          591.3599853515625,
+          864.239990234375
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 20,
+        "size_pt": [
+          0.0,
+          0.0,
+          583.6799926757812,
+          862.3200073242188
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 21,
+        "size_pt": [
+          0.0,
+          0.0,
+          583.6799926757812,
+          867.8400268554688
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 22,
+        "size_pt": [
+          0.0,
+          0.0,
+          591.3599853515625,
+          865.6799926757812
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 23,
+        "size_pt": [
+          0.0,
+          0.0,
+          583.6799926757812,
+          863.52001953125
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 24,
+        "size_pt": [
+          0.0,
+          0.0,
+          591.3599853515625,
+          862.0800170898438
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 25,
+        "size_pt": [
+          0.0,
+          0.0,
+          583.6799926757812,
+          866.1599731445312
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 26,
+        "size_pt": [
+          0.0,
+          0.0,
+          591.3599853515625,
+          864.47998046875
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 27,
+        "size_pt": [
+          0.0,
+          0.0,
+          583.6799926757812,
+          864.239990234375
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      }
+    ]
+  },
+  {
+    "file": "GBT_24739-2009_机械制图_机件上倾斜结构的表示法.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GBT_24739-2009_机械制图_机件上倾斜结构的表示法.pdf",
+    "sha256": "7cf24ff3593d21b9fe79caa740a46f31c7fb405a56dfd7296117867a984f7bee",
+    "pages": 20,
+    "new_standard": false,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 196,
+        "cjk_chars": 140,
+        "paths": 2,
+        "images": 1
+      },
+      {
+        "page": 2,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 0
+      },
+      {
+        "page": 3,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 165,
+        "cjk_chars": 115,
+        "paths": 0,
+        "images": 0
+      },
+      {
+        "page": 4,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 0
+      },
+      {
+        "page": 5,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 1182,
+        "cjk_chars": 545,
+        "paths": 0,
+        "images": 0
+      },
+      {
+        "page": 6,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 354,
+        "cjk_chars": 273,
+        "paths": 0,
+        "images": 2
+      },
+      {
+        "page": 7,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 326,
+        "cjk_chars": 224,
+        "paths": 0,
+        "images": 2
+      },
+      {
+        "page": 8,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 189,
+        "cjk_chars": 141,
+        "paths": 0,
+        "images": 2
+      },
+      {
+        "page": 9,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 269,
+        "cjk_chars": 206,
+        "paths": 0,
+        "images": 2
+      },
+      {
+        "page": 10,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 50,
+        "cjk_chars": 26,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 11,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 210,
+        "cjk_chars": 138,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 12,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 31,
+        "cjk_chars": 12,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 13,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 31,
+        "cjk_chars": 12,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 14,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 33,
+        "cjk_chars": 12,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 15,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 466,
+        "cjk_chars": 350,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 16,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 369,
+        "cjk_chars": 267,
+        "paths": 0,
+        "images": 2
+      },
+      {
+        "page": 17,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 34,
+        "cjk_chars": 14,
+        "paths": 1,
+        "images": 1
+      },
+      {
+        "page": 18,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 0
+      },
+      {
+        "page": 19,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 0
+      },
+      {
+        "page": 20,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 307,
+        "cjk_chars": 132,
+        "paths": 0,
+        "images": 1
+      }
+    ]
+  },
+  {
+    "file": "GBT_4457.4-2002_机械制图_图样画法_图线.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GBT_4457.4-2002_机械制图_图样画法_图线.pdf",
+    "sha256": "3766ade04201135e3af65bef0b5251632538c7037898fa2ca1a71454882b36d4",
+    "pages": 16,
+    "new_standard": false,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          368.0,
+          552.0
+        ],
+        "rotation": 0,
+        "text_chars": 354,
+        "cjk_chars": 48,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 2,
+        "size_pt": [
+          0.0,
+          0.0,
+          366.0,
+          551.0
+        ],
+        "rotation": 0,
+        "text_chars": 1210,
+        "cjk_chars": 75,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 3,
+        "size_pt": [
+          0.0,
+          0.0,
+          368.0,
+          552.0
+        ],
+        "rotation": 0,
+        "text_chars": 1232,
+        "cjk_chars": 399,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 4,
+        "size_pt": [
+          0.0,
+          0.0,
+          366.0,
+          551.0
+        ],
+        "rotation": 0,
+        "text_chars": 645,
+        "cjk_chars": 351,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 5,
+        "size_pt": [
+          0.0,
+          0.0,
+          371.0,
+          554.0
+        ],
+        "rotation": 0,
+        "text_chars": 477,
+        "cjk_chars": 258,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 6,
+        "size_pt": [
+          0.0,
+          0.0,
+          368.0,
+          552.0
+        ],
+        "rotation": 0,
+        "text_chars": 557,
+        "cjk_chars": 249,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 7,
+        "size_pt": [
+          0.0,
+          0.0,
+          368.0,
+          552.0
+        ],
+        "rotation": 0,
+        "text_chars": 337,
+        "cjk_chars": 111,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 8,
+        "size_pt": [
+          0.0,
+          0.0,
+          368.0,
+          552.0
+        ],
+        "rotation": 0,
+        "text_chars": 565,
+        "cjk_chars": 81,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 9,
+        "size_pt": [
+          0.0,
+          0.0,
+          368.0,
+          552.0
+        ],
+        "rotation": 0,
+        "text_chars": 39,
+        "cjk_chars": 3,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 10,
+        "size_pt": [
+          0.0,
+          0.0,
+          366.0,
+          551.0
+        ],
+        "rotation": 0,
+        "text_chars": 171,
+        "cjk_chars": 63,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 11,
+        "size_pt": [
+          0.0,
+          0.0,
+          368.0,
+          552.0
+        ],
+        "rotation": 0,
+        "text_chars": 370,
+        "cjk_chars": 88,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 12,
+        "size_pt": [
+          0.0,
+          0.0,
+          366.0,
+          551.0
+        ],
+        "rotation": 0,
+        "text_chars": 357,
+        "cjk_chars": 60,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 13,
+        "size_pt": [
+          0.0,
+          0.0,
+          366.0,
+          551.0
+        ],
+        "rotation": 0,
+        "text_chars": 313,
+        "cjk_chars": 44,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 14,
+        "size_pt": [
+          0.0,
+          0.0,
+          366.0,
+          551.0
+        ],
+        "rotation": 0,
+        "text_chars": 391,
+        "cjk_chars": 86,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 15,
+        "size_pt": [
+          0.0,
+          0.0,
+          368.0,
+          552.0
+        ],
+        "rotation": 0,
+        "text_chars": 414,
+        "cjk_chars": 68,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 16,
+        "size_pt": [
+          0.0,
+          0.0,
+          368.0,
+          552.0
+        ],
+        "rotation": 0,
+        "text_chars": 910,
+        "cjk_chars": 151,
+        "paths": 0,
+        "images": 1
+      }
+    ]
+  },
+  {
+    "file": "GBT_4457.5-2013_机械制图_剖面区域的表示法.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GBT_4457.5-2013_机械制图_剖面区域的表示法.pdf",
+    "sha256": "92bd91e5bb1cfb84f56efa9fb18bf65b74eae00fc05f19b082f179196d10403f",
+    "pages": 8,
+    "new_standard": false,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 217,
+        "cjk_chars": 62,
+        "paths": 2,
+        "images": 2
+      },
+      {
+        "page": 2,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.275634765625,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 838,
+        "cjk_chars": 499,
+        "paths": 0,
+        "images": 0
+      },
+      {
+        "page": 3,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.275634765625,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 475,
+        "cjk_chars": 324,
+        "paths": 31,
+        "images": 10
+      },
+      {
+        "page": 4,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.275634765625,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 264,
+        "cjk_chars": 184,
+        "paths": 31,
+        "images": 6
+      },
+      {
+        "page": 5,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.275634765625,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 155,
+        "cjk_chars": 101,
+        "paths": 0,
+        "images": 3
+      },
+      {
+        "page": 6,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.275634765625,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 390,
+        "cjk_chars": 284,
+        "paths": 0,
+        "images": 3
+      },
+      {
+        "page": 7,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.275634765625,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 322,
+        "cjk_chars": 242,
+        "paths": 0,
+        "images": 3
+      },
+      {
+        "page": 8,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.275634765625,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 108,
+        "cjk_chars": 67,
+        "paths": 1,
+        "images": 2
+      }
+    ]
+  },
+  {
+    "file": "GBT_4458.1-2002_机械制图_图样画法_视图.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GBT_4458.1-2002_机械制图_图样画法_视图.pdf",
+    "sha256": "d20553053b4a0308572df2327b5122e723bcd7114a914059c93faf69f2e7eb91",
+    "pages": 13,
+    "new_standard": false,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          842.0
+        ],
+        "rotation": 0,
+        "text_chars": 64,
+        "cjk_chars": 48,
+        "paths": 237,
+        "images": 2
+      },
+      {
+        "page": 2,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          842.0
+        ],
+        "rotation": 0,
+        "text_chars": 522,
+        "cjk_chars": 465,
+        "paths": 387,
+        "images": 1
+      },
+      {
+        "page": 3,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          842.0
+        ],
+        "rotation": 0,
+        "text_chars": 499,
+        "cjk_chars": 441,
+        "paths": 453,
+        "images": 1
+      },
+      {
+        "page": 4,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          842.0
+        ],
+        "rotation": 0,
+        "text_chars": 230,
+        "cjk_chars": 203,
+        "paths": 96,
+        "images": 7
+      },
+      {
+        "page": 5,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          842.0
+        ],
+        "rotation": 0,
+        "text_chars": 288,
+        "cjk_chars": 260,
+        "paths": 113,
+        "images": 5
+      },
+      {
+        "page": 6,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          842.0
+        ],
+        "rotation": 0,
+        "text_chars": 234,
+        "cjk_chars": 207,
+        "paths": 120,
+        "images": 5
+      },
+      {
+        "page": 7,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          842.0
+        ],
+        "rotation": 0,
+        "text_chars": 191,
+        "cjk_chars": 170,
+        "paths": 80,
+        "images": 6
+      },
+      {
+        "page": 8,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          842.0
+        ],
+        "rotation": 0,
+        "text_chars": 329,
+        "cjk_chars": 309,
+        "paths": 79,
+        "images": 4
+      },
+      {
+        "page": 9,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          842.0
+        ],
+        "rotation": 0,
+        "text_chars": 186,
+        "cjk_chars": 169,
+        "paths": 77,
+        "images": 4
+      },
+      {
+        "page": 10,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          842.0
+        ],
+        "rotation": 0,
+        "text_chars": 130,
+        "cjk_chars": 116,
+        "paths": 56,
+        "images": 5
+      },
+      {
+        "page": 11,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          842.0
+        ],
+        "rotation": 0,
+        "text_chars": 248,
+        "cjk_chars": 222,
+        "paths": 106,
+        "images": 6
+      },
+      {
+        "page": 12,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          842.0
+        ],
+        "rotation": 0,
+        "text_chars": 169,
+        "cjk_chars": 153,
+        "paths": 60,
+        "images": 5
+      },
+      {
+        "page": 13,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          842.0
+        ],
+        "rotation": 0,
+        "text_chars": 36,
+        "cjk_chars": 28,
+        "paths": 45,
+        "images": 2
+      }
+    ]
+  },
+  {
+    "file": "GBT_4458.2-2003_机械制图_装配图中零、部件序号及其编排方法.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GBT_4458.2-2003_机械制图_装配图中零、部件序号及其编排方法.pdf",
+    "sha256": "33783e23e29efa0c796412cbd4ced603d62f23ca30fdf306cbcd4c60cfda03b2",
+    "pages": 6,
+    "new_standard": false,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 228,
+        "cjk_chars": 0,
+        "paths": 3,
+        "images": 1
+      },
+      {
+        "page": 2,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 444,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 0
+      },
+      {
+        "page": 3,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 568,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 0
+      },
+      {
+        "page": 4,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 763,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 1
+      },
+      {
+        "page": 5,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 516,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 2
+      },
+      {
+        "page": 6,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 31,
+        "cjk_chars": 0,
+        "paths": 2,
+        "images": 1
+      }
+    ]
+  },
+  {
+    "file": "GBT_4458.3-2013_机械制图_轴测图.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GBT_4458.3-2013_机械制图_轴测图.pdf",
+    "sha256": "f4c8c4feda65ea24e08a84d40945cd70ce3068f76e559a060f133493080b3c73",
+    "pages": 16,
+    "new_standard": false,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 177,
+        "cjk_chars": 57,
+        "paths": 2,
+        "images": 1
+      },
+      {
+        "page": 2,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.275634765625,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 449,
+        "cjk_chars": 51,
+        "paths": 0,
+        "images": 0
+      },
+      {
+        "page": 3,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.275634765625,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 486,
+        "cjk_chars": 298,
+        "paths": 0,
+        "images": 0
+      },
+      {
+        "page": 4,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.275634765625,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 659,
+        "cjk_chars": 398,
+        "paths": 0,
+        "images": 0
+      },
+      {
+        "page": 5,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.275634765625,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 137,
+        "cjk_chars": 46,
+        "paths": 0,
+        "images": 3
+      },
+      {
+        "page": 6,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.275634765625,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 381,
+        "cjk_chars": 249,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 7,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.275634765625,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 240,
+        "cjk_chars": 115,
+        "paths": 0,
+        "images": 2
+      },
+      {
+        "page": 8,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.275634765625,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 148,
+        "cjk_chars": 98,
+        "paths": 0,
+        "images": 2
+      },
+      {
+        "page": 9,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.275634765625,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 145,
+        "cjk_chars": 96,
+        "paths": 0,
+        "images": 2
+      },
+      {
+        "page": 10,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.275634765625,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 134,
+        "cjk_chars": 82,
+        "paths": 0,
+        "images": 3
+      },
+      {
+        "page": 11,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.275634765625,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 268,
+        "cjk_chars": 193,
+        "paths": 0,
+        "images": 3
+      },
+      {
+        "page": 12,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.275634765625,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 220,
+        "cjk_chars": 153,
+        "paths": 0,
+        "images": 3
+      },
+      {
+        "page": 13,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.275634765625,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 120,
+        "cjk_chars": 62,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 14,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.275634765625,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 113,
+        "cjk_chars": 58,
+        "paths": 0,
+        "images": 0
+      },
+      {
+        "page": 15,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.275634765625,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 0
+      },
+      {
+        "page": 16,
+        "size_pt": [
+          0.0,
+          0.0,
+          1295.219970703125,
+          841.092041015625
+        ],
+        "rotation": 0,
+        "text_chars": 45,
+        "cjk_chars": 19,
+        "paths": 1,
+        "images": 1
+      }
+    ]
+  },
+  {
+    "file": "GBT_4458.4-2003_机械制图_尺寸注法.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GBT_4458.4-2003_机械制图_尺寸注法.pdf",
+    "sha256": "a0c0eb5a9ab14f5214c8ab6cbca22aa5f51c57236e02c71fa3fe4267750dc148",
+    "pages": 16,
+    "new_standard": false,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 183,
+        "cjk_chars": 0,
+        "paths": 3,
+        "images": 1
+      },
+      {
+        "page": 2,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 1827,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 0
+      },
+      {
+        "page": 3,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 549,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 0
+      },
+      {
+        "page": 4,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 833,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 1
+      },
+      {
+        "page": 5,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 248,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 3
+      },
+      {
+        "page": 6,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 547,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 6
+      },
+      {
+        "page": 7,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 60,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 2
+      },
+      {
+        "page": 8,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 199,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 3
+      },
+      {
+        "page": 9,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 332,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 2
+      },
+      {
+        "page": 10,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 224,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 6
+      },
+      {
+        "page": 11,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 305,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 4
+      },
+      {
+        "page": 12,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 270,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 7
+      },
+      {
+        "page": 13,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 130,
+        "cjk_chars": 0,
+        "paths": 18,
+        "images": 7
+      },
+      {
+        "page": 14,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 131,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 1
+      },
+      {
+        "page": 15,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 314,
+        "cjk_chars": 0,
+        "paths": 87,
+        "images": 7
+      },
+      {
+        "page": 16,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 68,
+        "cjk_chars": 0,
+        "paths": 2,
+        "images": 3
+      }
+    ]
+  },
+  {
+    "file": "GBT_4458.5-2003_机械制图_尺寸公差与配合注法.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GBT_4458.5-2003_机械制图_尺寸公差与配合注法.pdf",
+    "sha256": "3e415fdfe77037fd66fbdf0500a2f59abf179b742daf5912aa57cb8900e92460",
+    "pages": 8,
+    "new_standard": false,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 207,
+        "cjk_chars": 0,
+        "paths": 3,
+        "images": 1
+      },
+      {
+        "page": 2,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 1406,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 0
+      },
+      {
+        "page": 3,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 533,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 0
+      },
+      {
+        "page": 4,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 768,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 2
+      },
+      {
+        "page": 5,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 518,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 7
+      },
+      {
+        "page": 6,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 374,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 8
+      },
+      {
+        "page": 7,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 362,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 4
+      },
+      {
+        "page": 8,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 30,
+        "cjk_chars": 0,
+        "paths": 2,
+        "images": 1
+      }
+    ]
+  },
+  {
+    "file": "GBT_4458.6-2002_机械制图_图样画法_剖视图和断面图.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GBT_4458.6-2002_机械制图_图样画法_剖视图和断面图.pdf",
+    "sha256": "9de9945ca3b4e564c4e4b68a2f5beb585e63a108993cc57dd9b05b039e6c5385",
+    "pages": 21,
+    "new_standard": false,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          2100.0,
+          2960.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 2,
+        "size_pt": [
+          0.0,
+          0.0,
+          2100.0,
+          2960.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 3,
+        "size_pt": [
+          0.0,
+          0.0,
+          2100.0,
+          2960.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 4,
+        "size_pt": [
+          0.0,
+          0.0,
+          2100.0,
+          2960.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 5,
+        "size_pt": [
+          0.0,
+          0.0,
+          2100.0,
+          2960.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 6,
+        "size_pt": [
+          0.0,
+          0.0,
+          2100.0,
+          2960.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 7,
+        "size_pt": [
+          0.0,
+          0.0,
+          2100.0,
+          2960.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 8,
+        "size_pt": [
+          0.0,
+          0.0,
+          2100.0,
+          2960.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 9,
+        "size_pt": [
+          0.0,
+          0.0,
+          2100.0,
+          2960.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 10,
+        "size_pt": [
+          0.0,
+          0.0,
+          2100.0,
+          2960.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 11,
+        "size_pt": [
+          0.0,
+          0.0,
+          2100.0,
+          2960.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 12,
+        "size_pt": [
+          0.0,
+          0.0,
+          2100.0,
+          2960.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 13,
+        "size_pt": [
+          0.0,
+          0.0,
+          2100.0,
+          2960.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 14,
+        "size_pt": [
+          0.0,
+          0.0,
+          2100.0,
+          2960.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 15,
+        "size_pt": [
+          0.0,
+          0.0,
+          2100.0,
+          2960.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 16,
+        "size_pt": [
+          0.0,
+          0.0,
+          2100.0,
+          2960.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 17,
+        "size_pt": [
+          0.0,
+          0.0,
+          2100.0,
+          2960.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 18,
+        "size_pt": [
+          0.0,
+          0.0,
+          2100.0,
+          2960.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 19,
+        "size_pt": [
+          0.0,
+          0.0,
+          2100.0,
+          2960.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 20,
+        "size_pt": [
+          0.0,
+          0.0,
+          2100.0,
+          2960.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 21,
+        "size_pt": [
+          0.0,
+          0.0,
+          2100.0,
+          2960.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      }
+    ]
+  },
+  {
+    "file": "GBT_4459.1-1995_机械制图_螺纹及螺纹紧固件表示法.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GBT_4459.1-1995_机械制图_螺纹及螺纹紧固件表示法.pdf",
+    "sha256": "42f59081292345c09e6e9d71f6de5dd992586165955dbeaca67a9d5aae17d049",
+    "pages": 15,
+    "new_standard": false,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          842.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 2,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          842.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 3,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          842.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 4,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          842.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 5,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          842.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 6,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          842.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 7,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          842.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 8,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          842.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 9,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          842.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 10,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          842.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 11,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          842.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 12,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          842.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 13,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          842.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 14,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          842.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 15,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          842.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      }
+    ]
+  },
+  {
+    "file": "GBT_4459.2-2003_机械制图_齿轮表示法.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GBT_4459.2-2003_机械制图_齿轮表示法.pdf",
+    "sha256": "9110a74ebae26cb4ab8e156f8663edb5e505d1d490a9e8cdbf3c56cdbfa48e28",
+    "pages": 14,
+    "new_standard": false,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 197,
+        "cjk_chars": 0,
+        "paths": 3,
+        "images": 1
+      },
+      {
+        "page": 2,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 1686,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 0
+      },
+      {
+        "page": 3,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 480,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 0
+      },
+      {
+        "page": 4,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 727,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 2
+      },
+      {
+        "page": 5,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 72,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 5
+      },
+      {
+        "page": 6,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 557,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 2
+      },
+      {
+        "page": 7,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 127,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 3
+      },
+      {
+        "page": 8,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 146,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 6
+      },
+      {
+        "page": 9,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 88,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 4
+      },
+      {
+        "page": 10,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 174,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 0
+      },
+      {
+        "page": 11,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 38,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 1
+      },
+      {
+        "page": 12,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 34,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 1
+      },
+      {
+        "page": 13,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 35,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 1
+      },
+      {
+        "page": 14,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 31,
+        "cjk_chars": 0,
+        "paths": 2,
+        "images": 1
+      }
+    ]
+  },
+  {
+    "file": "GBT_4459.4-2003_机械制图_弹簧表示法.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GBT_4459.4-2003_机械制图_弹簧表示法.pdf",
+    "sha256": "118573ab9b6ac443b476e81503dc44246c1e1e70d4c80039e52bffddc3393ee3",
+    "pages": 20,
+    "new_standard": false,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 200,
+        "cjk_chars": 0,
+        "paths": 3,
+        "images": 1
+      },
+      {
+        "page": 2,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 1705,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 0
+      },
+      {
+        "page": 3,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 483,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 0
+      },
+      {
+        "page": 4,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 620,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 0
+      },
+      {
+        "page": 5,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 270,
+        "text_chars": 83,
+        "cjk_chars": 0,
+        "paths": 24,
+        "images": 9
+      },
+      {
+        "page": 6,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 45,
+        "cjk_chars": 0,
+        "paths": 14,
+        "images": 3
+      },
+      {
+        "page": 7,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 70,
+        "cjk_chars": 0,
+        "paths": 25,
+        "images": 6
+      },
+      {
+        "page": 8,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 158,
+        "cjk_chars": 0,
+        "paths": 31,
+        "images": 11
+      },
+      {
+        "page": 9,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 383,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 2
+      },
+      {
+        "page": 10,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 72,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 3
+      },
+      {
+        "page": 11,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 115,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 4
+      },
+      {
+        "page": 12,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 753,
+        "cjk_chars": 0,
+        "paths": 100,
+        "images": 0
+      },
+      {
+        "page": 13,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 43,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 1
+      },
+      {
+        "page": 14,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 43,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 1
+      },
+      {
+        "page": 15,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 43,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 1
+      },
+      {
+        "page": 16,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 43,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 1
+      },
+      {
+        "page": 17,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 43,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 1
+      },
+      {
+        "page": 18,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 43,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 1
+      },
+      {
+        "page": 19,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 43,
+        "cjk_chars": 0,
+        "paths": 1,
+        "images": 1
+      },
+      {
+        "page": 20,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 31,
+        "cjk_chars": 0,
+        "paths": 2,
+        "images": 1
+      }
+    ]
+  },
+  {
+    "file": "GB_T 1182-2018 产品几何技术规范（GPS） 几何公差 形状、方向、位置和跳动公差标注.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GB_T 1182-2018 产品几何技术规范（GPS） 几何公差 形状、方向、位置和跳动公差标注.pdf",
+    "sha256": "ea828869ca636631c0f19e5a9e1033dcd36449077fa5f78b068a16e493d25b9b",
+    "pages": 132,
+    "new_standard": true,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 2,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 3,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 4,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 5,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 6,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 7,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 8,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 9,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 10,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 11,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 12,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 13,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 14,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 15,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 16,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 17,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 18,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 19,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 20,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 21,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 22,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 23,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 24,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 25,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 26,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 27,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 28,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 29,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 30,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 31,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 32,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 33,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 34,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 35,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 36,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 37,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 38,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 39,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 40,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 41,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 42,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 43,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 44,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 45,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 46,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 47,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 48,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 49,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 50,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 51,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 52,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 53,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 54,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 55,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 56,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 57,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 58,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 59,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 60,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 61,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 62,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 63,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 64,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 65,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 66,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 67,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 68,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 69,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 70,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 71,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 72,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 73,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 74,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 75,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 76,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 77,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 78,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 79,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 80,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 81,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 82,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 83,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 84,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 85,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 86,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 87,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 88,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 89,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 90,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 91,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 92,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 93,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 94,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 95,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 96,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 97,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 98,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 99,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 100,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 101,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 102,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 103,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 104,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 105,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 106,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 107,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 108,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 109,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 110,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 111,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 112,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 113,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 114,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 115,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 116,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 117,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 118,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 119,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 120,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 121,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 122,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 123,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 124,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 125,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 126,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 127,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 128,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 129,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 130,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 131,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 132,
+        "size_pt": [
+          0.0,
+          0.0,
+          2380.0,
+          3364.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      }
+    ]
+  },
+  {
+    "file": "GB_T 131-2006 产品几何技术规范(GPS) 技术产品文件中表面结构的表示法.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GB_T 131-2006 产品几何技术规范(GPS) 技术产品文件中表面结构的表示法.pdf",
+    "sha256": "fddc05ae1913962bbbd7337f70453985235b2c71698c9c80311e7d950b120e85",
+    "pages": 39,
+    "new_standard": true,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 16
+      },
+      {
+        "page": 2,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 3,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 4,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 5,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 18
+      },
+      {
+        "page": 6,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 18
+      },
+      {
+        "page": 7,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 8,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 9,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 20
+      },
+      {
+        "page": 10,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 23
+      },
+      {
+        "page": 11,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 12,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 7
+      },
+      {
+        "page": 13,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 23
+      },
+      {
+        "page": 14,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 22
+      },
+      {
+        "page": 15,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 16,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 17,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 20
+      },
+      {
+        "page": 18,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 17
+      },
+      {
+        "page": 19,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 21
+      },
+      {
+        "page": 20,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 5
+      },
+      {
+        "page": 21,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 27
+      },
+      {
+        "page": 22,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 21
+      },
+      {
+        "page": 23,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 24,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 25,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 21
+      },
+      {
+        "page": 26,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 15
+      },
+      {
+        "page": 27,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 28,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 29,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 21
+      },
+      {
+        "page": 30,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 25
+      },
+      {
+        "page": 31,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 32,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 2
+      },
+      {
+        "page": 33,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 34,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 24
+      },
+      {
+        "page": 35,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 36,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 2
+      },
+      {
+        "page": 37,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 19
+      },
+      {
+        "page": 38,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 39,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.0,
+          841.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 5
+      }
+    ]
+  },
+  {
+    "file": "GB_T 1800.1-2020 产品几何技术规范（GPS） 线性尺寸公差ISO代号体系 第1部分：公差、偏差和配合的基础.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GB_T 1800.1-2020 产品几何技术规范（GPS） 线性尺寸公差ISO代号体系 第1部分：公差、偏差和配合的基础.pdf",
+    "sha256": "2e6127ccb5b629817c6b2a431ccc8ce1f87f98ebcd9ad7a14fd02c413e692a5f",
+    "pages": 36,
+    "new_standard": true,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 319,
+        "cjk_chars": 70,
+        "paths": 2,
+        "images": 1
+      },
+      {
+        "page": 2,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 225,
+        "cjk_chars": 99,
+        "paths": 0,
+        "images": 0
+      },
+      {
+        "page": 3,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 1416,
+        "cjk_chars": 737,
+        "paths": 0,
+        "images": 0
+      },
+      {
+        "page": 4,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 752,
+        "cjk_chars": 333,
+        "paths": 0,
+        "images": 0
+      },
+      {
+        "page": 5,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 932,
+        "cjk_chars": 497,
+        "paths": 0,
+        "images": 0
+      },
+      {
+        "page": 6,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 1002,
+        "cjk_chars": 569,
+        "paths": 0,
+        "images": 0
+      },
+      {
+        "page": 7,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 743,
+        "cjk_chars": 340,
+        "paths": 0,
+        "images": 0
+      },
+      {
+        "page": 8,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 455,
+        "cjk_chars": 260,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 9,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 1142,
+        "cjk_chars": 585,
+        "paths": 0,
+        "images": 0
+      },
+      {
+        "page": 10,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 574,
+        "cjk_chars": 321,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 11,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 438,
+        "cjk_chars": 268,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 12,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 586,
+        "cjk_chars": 370,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 13,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 344,
+        "cjk_chars": 213,
+        "paths": 0,
+        "images": 2
+      },
+      {
+        "page": 14,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 884,
+        "cjk_chars": 517,
+        "paths": 0,
+        "images": 0
+      },
+      {
+        "page": 15,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 1147,
+        "cjk_chars": 747,
+        "paths": 0,
+        "images": 0
+      },
+      {
+        "page": 16,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 916,
+        "cjk_chars": 440,
+        "paths": 0,
+        "images": 0
+      },
+      {
+        "page": 17,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 1025,
+        "cjk_chars": 444,
+        "paths": 0,
+        "images": 0
+      },
+      {
+        "page": 18,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 647,
+        "cjk_chars": 245,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 19,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 545,
+        "cjk_chars": 150,
+        "paths": 37,
+        "images": 9
+      },
+      {
+        "page": 20,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 1535,
+        "cjk_chars": 94,
+        "paths": 387,
+        "images": 6
+      },
+      {
+        "page": 21,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 1744,
+        "cjk_chars": 80,
+        "paths": 670,
+        "images": 0
+      },
+      {
+        "page": 22,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 1029,
+        "cjk_chars": 99,
+        "paths": 508,
+        "images": 0
+      },
+      {
+        "page": 23,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 1919,
+        "cjk_chars": 0,
+        "paths": 773,
+        "images": 0
+      },
+      {
+        "page": 24,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 1209,
+        "cjk_chars": 148,
+        "paths": 441,
+        "images": 0
+      },
+      {
+        "page": 25,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 1138,
+        "cjk_chars": 66,
+        "paths": 567,
+        "images": 0
+      },
+      {
+        "page": 26,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 2341,
+        "cjk_chars": 43,
+        "paths": 1043,
+        "images": 0
+      },
+      {
+        "page": 27,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 502,
+        "cjk_chars": 323,
+        "paths": 1,
+        "images": 2
+      },
+      {
+        "page": 28,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 825,
+        "cjk_chars": 612,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 29,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 167,
+        "cjk_chars": 115,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 30,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 804,
+        "cjk_chars": 532,
+        "paths": 0,
+        "images": 0
+      },
+      {
+        "page": 31,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 988,
+        "cjk_chars": 437,
+        "paths": 0,
+        "images": 0
+      },
+      {
+        "page": 32,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 578,
+        "cjk_chars": 198,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 33,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 860,
+        "cjk_chars": 410,
+        "paths": 0,
+        "images": 0
+      },
+      {
+        "page": 34,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 710,
+        "cjk_chars": 319,
+        "paths": 0,
+        "images": 0
+      },
+      {
+        "page": 35,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 544,
+        "cjk_chars": 339,
+        "paths": 117,
+        "images": 0
+      },
+      {
+        "page": 36,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2755737304688,
+          841.8897705078125
+        ],
+        "rotation": 0,
+        "text_chars": 760,
+        "cjk_chars": 326,
+        "paths": 1,
+        "images": 1
+      }
+    ]
+  },
+  {
+    "file": "GB_T 4459.7-2017 机械制图 滚动轴承表示法.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/国标/GB_T 4459.7-2017 机械制图 滚动轴承表示法.pdf",
+    "sha256": "7e3c442395bb7934a4604387338b5f64fa92c206cbbdc0dcd5f70530e9941822",
+    "pages": 23,
+    "new_standard": false,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          2296.0,
+          3248.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 2,
+        "size_pt": [
+          0.0,
+          0.0,
+          2296.0,
+          3248.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 3,
+        "size_pt": [
+          0.0,
+          0.0,
+          2296.0,
+          3248.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 4,
+        "size_pt": [
+          0.0,
+          0.0,
+          2296.0,
+          3248.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 5,
+        "size_pt": [
+          0.0,
+          0.0,
+          2296.0,
+          3248.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 6,
+        "size_pt": [
+          0.0,
+          0.0,
+          2296.0,
+          3248.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 7,
+        "size_pt": [
+          0.0,
+          0.0,
+          2296.0,
+          3248.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 8,
+        "size_pt": [
+          0.0,
+          0.0,
+          2296.0,
+          3248.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 9,
+        "size_pt": [
+          0.0,
+          0.0,
+          2296.0,
+          3248.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 10,
+        "size_pt": [
+          0.0,
+          0.0,
+          2296.0,
+          3248.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 11,
+        "size_pt": [
+          0.0,
+          0.0,
+          2296.0,
+          3248.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 12,
+        "size_pt": [
+          0.0,
+          0.0,
+          2296.0,
+          3248.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 13,
+        "size_pt": [
+          0.0,
+          0.0,
+          2296.0,
+          3248.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 14,
+        "size_pt": [
+          0.0,
+          0.0,
+          2296.0,
+          3248.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 15,
+        "size_pt": [
+          0.0,
+          0.0,
+          2296.0,
+          3248.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 16,
+        "size_pt": [
+          0.0,
+          0.0,
+          2296.0,
+          3248.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 17,
+        "size_pt": [
+          0.0,
+          0.0,
+          2296.0,
+          3248.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 18,
+        "size_pt": [
+          0.0,
+          0.0,
+          2296.0,
+          3248.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 19,
+        "size_pt": [
+          0.0,
+          0.0,
+          2296.0,
+          3248.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 20,
+        "size_pt": [
+          0.0,
+          0.0,
+          2296.0,
+          3248.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 21,
+        "size_pt": [
+          0.0,
+          0.0,
+          2296.0,
+          3248.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 22,
+        "size_pt": [
+          0.0,
+          0.0,
+          2296.0,
+          3248.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      },
+      {
+        "page": 23,
+        "size_pt": [
+          0.0,
+          0.0,
+          2296.0,
+          3248.0
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 0,
+        "images": 1
+      }
+    ]
+  },
+  {
+    "file": "T01_矩形花键套-正确图纸.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/T01_矩形花键套-正确图纸.pdf",
+    "sha256": "58e2e55b6e95959386efe5fe3f5fc7a0927ab210b119f2bae32f882a6031ea3e",
+    "pages": 1,
+    "new_standard": false,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          841.9200439453125,
+          1190.52001953125
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 1961,
+        "images": 0
+      }
+    ]
+  },
+  {
+    "file": "T01_矩形花键套-错误图纸.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/T01_矩形花键套-错误图纸.pdf",
+    "sha256": "f1dedd71b0f68b0616a6a93bba7302d46afbf1573177d0a2a2be4a61da4d84d6",
+    "pages": 1,
+    "new_standard": false,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          841.8900146484375
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 1953,
+        "images": 0
+      }
+    ]
+  },
+  {
+    "file": "T02_端盖-正确图纸.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/T02_端盖-正确图纸.pdf",
+    "sha256": "80ada49e8d7f7eaa6f49b68e72fd5be6ba3afd3fdbb7ffc6346cf5400eec3737",
+    "pages": 1,
+    "new_standard": false,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          841.8900146484375
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 1769,
+        "images": 0
+      }
+    ]
+  },
+  {
+    "file": "T02_端盖-错误图纸.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/T02_端盖-错误图纸.pdf",
+    "sha256": "437aeb225da13c3e776985607232dfe9da459882fbc8261938a216ef5c7b567b",
+    "pages": 1,
+    "new_standard": false,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          595.2760009765625,
+          841.8900146484375
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 1804,
+        "images": 0
+      }
+    ]
+  },
+  {
+    "file": "T03_传动箱-正确图纸.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/T03_传动箱-正确图纸.pdf",
+    "sha256": "7a5811c4ddb61fe0d1443931dbeda8a1361a22b134a1513cbbfd338f9e4e8011",
+    "pages": 1,
+    "new_standard": false,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          841.8900146484375,
+          1190.551025390625
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 2639,
+        "images": 0
+      }
+    ]
+  },
+  {
+    "file": "T03_传动箱-错误图纸.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/T03_传动箱-错误图纸.pdf",
+    "sha256": "0e02954ebe0e9372bf5dfb9415e74e160cbbefedcfe8d6539c1d19c6c5899c1d",
+    "pages": 1,
+    "new_standard": false,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          841.8900146484375,
+          1190.551025390625
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 2640,
+        "images": 0
+      }
+    ]
+  },
+  {
+    "file": "T04_顶尖-正确图纸.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/T04_顶尖-正确图纸.pdf",
+    "sha256": "e39131d6e9ffe306ede11ba531c5034dc315c821b3a254e65da6528a999259fe",
+    "pages": 1,
+    "new_standard": false,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          841.8900146484375,
+          1190.551025390625
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 1957,
+        "images": 0
+      }
+    ]
+  },
+  {
+    "file": "T04_顶尖-错误图纸.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/T04_顶尖-错误图纸.pdf",
+    "sha256": "7cca42fbef1b8b4b370edc9ca6c810a9523a51d2e3174edc0eb2f3d2bc3c997b",
+    "pages": 1,
+    "new_standard": false,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          841.9200439453125,
+          1190.52001953125
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 1940,
+        "images": 0
+      }
+    ]
+  },
+  {
+    "file": "T05_轴承盖-正确图纸.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/T05_轴承盖-正确图纸.pdf",
+    "sha256": "3f66d2a23740a56bdf7ad5e1cd5e12cb26491b9525dc883c8ea260fae24a37ed",
+    "pages": 1,
+    "new_standard": false,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          841.9200439453125,
+          1190.52001953125
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 2065,
+        "images": 0
+      }
+    ]
+  },
+  {
+    "file": "T05_轴承盖-错误图纸.pdf",
+    "path": "/Users/ddt/work/projects/ai_agent/docs/项目调研/CAD识图评分/工程图审核/T05_轴承盖-错误图纸.pdf",
+    "sha256": "94ab2aaa21c010f033a2a0d3e614cebecc31d525c0bd55390fb86ddf2e61a5d1",
+    "pages": 1,
+    "new_standard": false,
+    "page_channels": [
+      {
+        "page": 1,
+        "size_pt": [
+          0.0,
+          0.0,
+          841.9200439453125,
+          1190.52001953125
+        ],
+        "rotation": 0,
+        "text_chars": 0,
+        "cjk_chars": 0,
+        "paths": 2112,
+        "images": 0
+      }
+    ]
+  }
+]
